@@ -9,6 +9,13 @@ author_profile: true
   <img src="/images/team.jpg" alt="" style="width: 750px; height: 300px;" />
 </div> 
 
+##合作者##
+
+- [陈飘](https://zjui.intl.zju.edu.cn/team/teacherinfo/2329) 浙江大学UIUC联合学院
+- [胡家文](https://www.iaa.uestc.edu.cn/info/1094/5133.htm) 电子科技大学航空航天学院
+- [彭卫文](https://ise.sysu.edu.cn/teacher/teacher02/1359666.htm) 中山大学智能工程学院
+- [翟庆庆](https://ms.shu.edu.cn/info/1257/15050.htm) 上海大学管理学院
+
 
 ## 指导博士生
 
