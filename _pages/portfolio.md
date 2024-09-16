@@ -9,7 +9,9 @@ author_profile: true
   <img src="/images/team.jpg" alt="" style="width: 750px; height: 300px;" />
 </div> 
 
-##合作者##
+
+
+## 合作者
 
 - [陈飘](https://zjui.intl.zju.edu.cn/team/teacherinfo/2329) 浙江大学UIUC联合学院
 - [胡家文](https://www.iaa.uestc.edu.cn/info/1094/5133.htm) 电子科技大学航空航天学院
