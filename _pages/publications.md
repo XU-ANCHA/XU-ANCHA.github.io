@@ -24,7 +24,7 @@ author_profile: true
 
 1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Xiaolin Wang. (2023). "A prognostic driven predictive maintenance framework based on Bayesian deep learning." *Reliability Engineering & System Safety*, 234, 109181. [<a href="https://doi.org/10.1016/j.ress.2023.109181">link</a>]
 
-1. **徐安察**, <u>章礼明<\u>, <u>顾诚<\u>, <u>吴昌仁<\u>. (2023). "Bayesian Inference for Multicomponent Stress–Strength Model Under Weibull Distribution." *应用概率统计*, 39(6), 907-923. [<a href="https://doi.org/10.3969/j.issn.1001-4268.2023.06.009">link</a>]
+1. **徐安察**, 章礼明, 顾诚, 吴昌仁. (2023). "Bayesian Inference for Multicomponent Stress–Strength Model Under Weibull Distribution." *应用概率统计*, 39(6), 907-923. [<a href="https://doi.org/10.3969/j.issn.1001-4268.2023.06.009">link</a>]
 
 1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, <u>Binbing</u> <u>Wang</u>, <u>Yuguo</u> <u>Xue</u>, Songzi Zhang. (2023). "Data analysis of progressive-stress accelerated life tests with group effects." *Quality Technology & Quantitative Management*, 20(6), 763-783. [<a href="https://doi.org/10.1080/16843703.2022.2147690">link</a>]
 
