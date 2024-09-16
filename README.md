@@ -3,14 +3,13 @@
 更新内容的网址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/_pages
 
 相关页面对应文件：
-- 首页：about.md
-- 论文：publications.md
-- 团队：portfolio.md
-- 报告：talks.md
-- 教学：teaching.md
-- 新闻：year-archive.md
-- 简历：cv.md
-
+- 首页：[about.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/about.md)
+- 论文：[publications.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/publications.md)
+- 团队：[portfolio.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/portfolio.md)
+- 报告：[talks.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/talks.md)
+- 教学：[teaching.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/teaching.md)
+- 新闻：[year-archive.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/year-archive.md)
+- 简历：[cv.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/cv.md)
 
 图片存储地址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/images
 
