@@ -12,7 +12,7 @@ author_profile: true
 
 1. **Ancha Xu**, Jinyang Wang, Yincai Tang, Piao Chen. (2024+). "Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process." *Naval Research Logistics*. [<a href="https://doi.org/10.1002/nav.22226">link</a>]
 
-1. <u>Liangliang Zhuang</u>, **Ancha Xu**, Guanqi Fang, Yincai Tang. (2024+). "Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction." *Journal of Quality Technology*. [<a href="https://doi.org/10.1080/00224065.2024.2402850">link</a>]
+1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Guanqi Fang, Yincai Tang. (2024+). "Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction." *Journal of Quality Technology*. [<a href="https://doi.org/10.1080/00224065.2024.2402850">link</a>]
 
 1. **Ancha Xu**, Guanqi Fang, Liangliang Zhuang, Cheng Gu. (2024+). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
 
