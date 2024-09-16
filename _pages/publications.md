@@ -18,7 +18,7 @@ author_profile: true
 
 1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Yijun Wang, Yincai Tang. (2024). "Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process." *European Journal of Operational Research*, 319(3), 877-890. [<a href="https://doi.org/10.1016/j.ejor.2024.06.032">link</a>]
 
-1. **Ancha Xu**, <u>Binbing</u> <u>Wang</u>, <u>Di</u> <u>Zhu</u>, Jihong Pang, Xinze Lian. (2024+). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, In press. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
+1. **Ancha Xu**, <u>Binbing Wang</u>, <u>Di</u> <u>Zhu</u>, Jihong Pang, Xinze Lian. (2024+). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, In press. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
 
 1. Shirong Zhou, **Ancha Xu**, Yincai Tang, Lijuan Shen. (2024). "Fast Bayesian inference of reparameterized gamma process with random effects." *IEEE Transactions on Reliability*, 73(1), 399-412. [<a href="https://doi.org/10.1109/TR.2023.3263940">link</a>]
 
