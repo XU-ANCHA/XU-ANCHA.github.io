@@ -5,18 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-目前以第一作者或通讯作者发表论文 52 篇，其中 ESI 高被引论文 4 篇，中科院一区 11 篇，SCI 检索论文 47 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a>、<a href="{{site.author.researchgate}}">Researchgate</a> 或者
+目前以第一作者或通讯作者发表论文 53 篇，其中 ESI 高被引论文 4 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a>、<a href="{{site.author.researchgate}}">Researchgate</a> 或者
 <a href="https://liangliangzhuang.github.io/cv/">简历</a>。
 
 ## 期刊论文
 
-1. **Ancha Xu**, Jinyang Wang, Yincai Tang, Piao Chen. (2024). "Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process." *Naval Research Logistics*. [<a href="https://doi.org/10.1002/nav.22226">link</a>]
+1. **Ancha Xu**, Jinyang Wang, Yincai Tang, Piao Chen. (2024+). "Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process." *Naval Research Logistics*. [<a href="https://doi.org/10.1002/nav.22226">link</a>]
 
-1. **Ancha Xu**, Guanqi Fang, Liangliang Zhuang, Cheng Gu. (2024). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
+1. Liangliang Zhuang, **Ancha Xu**, Guanqi Fang, Yincai Tang. (2024+). "Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction." *Journal of Quality Technology*. [<a href="https://doi.org/10.1080/00224065.2024.2402850">link</a>]
+
+1. **Ancha Xu**, Guanqi Fang, Liangliang Zhuang, Cheng Gu. (2024+). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
 
 1. Liangliang Zhuang, **Ancha Xu**, Yijun Wang, Yincai Tang. (2024). "Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process." *European Journal of Operational Research*, 319(3), 877-890. [<a href="https://doi.org/10.1016/j.ejor.2024.06.032">link</a>]
 
-1. **Ancha Xu**, Binbing Wang, Di Zhu, Jihong Pang, Xinze Lian. (2024). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, In press. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
+1. **Ancha Xu**, Binbing Wang, Di Zhu, Jihong Pang, Xinze Lian. (2024+). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, In press. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
 
 1. Shirong Zhou, **Ancha Xu**, Yincai Tang, Lijuan Shen. (2024). "Fast Bayesian inference of reparameterized gamma process with random effects." *IEEE Transactions on Reliability*, 73(1), 399-412. [<a href="https://doi.org/10.1109/TR.2023.3263940">link</a>]
 
