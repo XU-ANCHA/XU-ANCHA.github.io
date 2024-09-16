@@ -29,3 +29,10 @@
 3. 默认情况下，点击 Commit changes 即可
 
 <img width="483" alt="image" src="https://github.com/user-attachments/assets/272a9324-44ba-4325-8859-dcc65898c23b">
+
+4. 回到[主页](https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main)，等待左上角的状态变为【✅】即可：
+
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/e1081fa8-d1f4-48c1-bccf-1f0089f364ee">
+
+5. 刷新[个人网站](https://xu-ancha.github.io/)，得到最新版本。
+   
