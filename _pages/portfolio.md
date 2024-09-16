@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: center;">
-  <img src="/images/team.jpg" alt="" style="width: 750px; height: 400px;" />
+  <img src="/images/team.jpg" alt="" style="width: 750px; height: 300px;" />
 </div> 
 
 
