@@ -14,33 +14,33 @@ author_profile: true
 
 1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Guanqi Fang, Yincai Tang. (2024+). "Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction." *Journal of Quality Technology*. [<a href="https://doi.org/10.1080/00224065.2024.2402850">link</a>]
 
-1. **Ancha Xu**, Guanqi Fang, Liangliang Zhuang, Cheng Gu. (2024+). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
+1. **Ancha Xu**, Guanqi Fang, <u>Liangliang</u> <u>Zhuang</u>, <u>Cheng</u> <u>Gu</u>. (2024+). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
 
-1. Liangliang Zhuang, **Ancha Xu**, Yijun Wang, Yincai Tang. (2024). "Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process." *European Journal of Operational Research*, 319(3), 877-890. [<a href="https://doi.org/10.1016/j.ejor.2024.06.032">link</a>]
+1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Yijun Wang, Yincai Tang. (2024). "Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process." *European Journal of Operational Research*, 319(3), 877-890. [<a href="https://doi.org/10.1016/j.ejor.2024.06.032">link</a>]
 
-1. **Ancha Xu**, Binbing Wang, Di Zhu, Jihong Pang, Xinze Lian. (2024+). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, In press. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
+1. **Ancha Xu**, <u>Binbing</u> <u>Wang</u>, <u>Di</u> <u>Zhu</u>, Jihong Pang, Xinze Lian. (2024+). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, In press. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
 
 1. Shirong Zhou, **Ancha Xu**, Yincai Tang, Lijuan Shen. (2024). "Fast Bayesian inference of reparameterized gamma process with random effects." *IEEE Transactions on Reliability*, 73(1), 399-412. [<a href="https://doi.org/10.1109/TR.2023.3263940">link</a>]
 
-1. Liangliang Zhuang, **Ancha Xu**, Xiaolin Wang. (2023). "A prognostic driven predictive maintenance framework based on Bayesian deep learning." *Reliability Engineering & System Safety*, 234, 109181. [<a href="https://doi.org/10.1016/j.ress.2023.109181">link</a>]
+1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Xiaolin Wang. (2023). "A prognostic driven predictive maintenance framework based on Bayesian deep learning." *Reliability Engineering & System Safety*, 234, 109181. [<a href="https://doi.org/10.1016/j.ress.2023.109181">link</a>]
 
-1. **徐安察**, 章礼明, 顾诚, 吴昌仁. (2023). "Bayesian Inference for Multicomponent Stress–Strength Model Under Weibull Distribution." *应用概率统计*, 39(6), 907-923. [<a href="https://doi.org/10.3969/j.issn.1001-4268.2023.06.009">link</a>]
+1. **徐安察**, <u>章礼明<\u>, <u>顾诚<\u>, <u>吴昌仁<\u>. (2023). "Bayesian Inference for Multicomponent Stress–Strength Model Under Weibull Distribution." *应用概率统计*, 39(6), 907-923. [<a href="https://doi.org/10.3969/j.issn.1001-4268.2023.06.009">link</a>]
 
-1. Liangliang Zhuang, **Ancha Xu**, Binbing Wang, Yuguo Xue, Songzi Zhang. (2023). "Data analysis of progressive-stress accelerated life tests with group effects." *Quality Technology & Quantitative Management*, 20(6), 763-783. [<a href="https://doi.org/10.1080/16843703.2022.2147690">link</a>]
+1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, <u>Binbing</u> <u>Wang</u>, <u>Yuguo</u> <u>Xue</u>, Songzi Zhang. (2023). "Data analysis of progressive-stress accelerated life tests with group effects." *Quality Technology & Quantitative Management*, 20(6), 763-783. [<a href="https://doi.org/10.1080/16843703.2022.2147690">link</a>]
 
-1. Liming Zhang, **Ancha Xu**, Liuting An, Min Li. (2022). "Bayesian inference of system reliability for multicomponent stress-strength model under Marshall-Olkin Weibull distribution." *Systems*, 10(6), 196. [<a href="https://doi.org/10.3390/systems10060196">link</a>]
+1. <u>Liming</u> <u>Zhang</u>, **Ancha Xu**, <u>Liuting</u> <u>An</u>, <u>Min</u> <u>Li</u>. (2022). "Bayesian inference of system reliability for multicomponent stress-strength model under Marshall-Olkin Weibull distribution." *Systems*, 10(6), 196. [<a href="https://doi.org/10.3390/systems10060196">link</a>]
 
 1. Chunling Luo, Lijuan Shen, **Ancha Xu**. (2022). "Modelling and estimation of system reliability under dynamic operating environments and lifetime ordering constraints." *Reliability Engineering & System Safety*, 218, 108136. [<a href="https://doi.org/10.1016/j.ress.2021.108136">link</a>]
 
-1. Shirong Zhou, Yincai Tang, **Ancha Xu**. (2021). "A generalized Wiener process with dependent degradation rate and volatility and time-varying mean-to-variance ratio." *Reliability Engineering & System Safety*, 216, 107895. [<a href="https://doi.org/10.1016/j.ress.2021.107895">link</a>]
+1. <u>Shirong</u> <u>Zhou</u>, Yincai Tang, **Ancha Xu**. (2021). "A generalized Wiener process with dependent degradation rate and volatility and time-varying mean-to-variance ratio." *Reliability Engineering & System Safety*, 216, 107895. [<a href="https://doi.org/10.1016/j.ress.2021.107895">link</a>]
 
-1. **Ancha Xu**, Huizi He, Bingpeng Yu. (2021). "A class of generalized Birnbaum-Saunders distributions for reliability modeling." *Quality and Reliability Engineering International*, 37(5), 1772-1782. [<a href="https://doi.org/10.1002/qre.2826">link</a>]
+1. **Ancha Xu**, <u>Huizi</u> <u>He</u>, <u>Bingpeng</u> <u>Yu</u>. (2021). "A class of generalized Birnbaum-Saunders distributions for reliability modeling." *Quality and Reliability Engineering International*, 37(5), 1772-1782. [<a href="https://doi.org/10.1002/qre.2826">link</a>]
 
 1. Jiawen Hu, **Ancha Xu**, Bo Li, Haitao Liao. (2021). "Condition-based maintenance planning for multi-state systems under time-varying environmental conditions." *Computers & Industrial Engineering*, 158, 107380. [<a href="https://doi.org/10.1016/j.cie.2021.107380">link</a>]
 
-1. Liangliang Zhuang, **Ancha Xu**, Jihong Pang. (2021). "Product reliability analysis based on heavily censored interval data with batch effects." *Reliability Engineering & System Safety*, 212, 107622. [<a href="https://doi.org/10.1016/j.ress.2021.107622">link</a>]
+1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Jihong Pang. (2021). "Product reliability analysis based on heavily censored interval data with batch effects." *Reliability Engineering & System Safety*, 212, 107622. [<a href="https://doi.org/10.1016/j.ress.2021.107622">link</a>]
 
-1. **Ancha Xu**, Shirong Zhou, Yincai Tang. (2021). "A unified model for system reliability evaluation under dynamic operating conditions." *IEEE Transactions on Reliability*, 70(1), 65-72. [<a href="https://doi.org/10.1109/TR.2019.2948173">link</a>]
+1. **Ancha Xu**, <u>Shirong</u> <u>Zhou</u>, Yincai Tang. (2021). "A unified model for system reliability evaluation under dynamic operating conditions." *IEEE Transactions on Reliability*, 70(1), 65-72. [<a href="https://doi.org/10.1109/TR.2019.2948173">link</a>]
 
 1. **Ancha Xu**, Jiawen Hu, Pingping Wang. (2020). "Degradation modeling with subpopulation heterogeneities based on the inverse Gaussian process." *Applied Mathematical Modelling*, 81, 177-193. [<a href="https://doi.org/10.1016/j.apm.2019.12.017">link</a>]
 
@@ -48,7 +48,7 @@ author_profile: true
 
 1. Qiang Guan, Yincai Tang, **Ancha Xu**. (2019). "Objective Bayesian analysis for competing risks model with Wiener degradation phenomena and catastrophic failures." *Applied Mathematical Modeling*, 74, 422-440. [<a href="https://doi.org/10.1016/j.apm.2019.04.063">link</a>]
 
-1. Shirong Zhou, **Ancha Xu**. (2019). "Exponential Dispersion Process for Degradation Analysis." *IEEE Transactions on Reliability*, 68(2), 398-409. [<a href="https://doi.org/10.1109/TR.2019.2895352">link</a>]
+1. <u>Shirong</u> <u>Zhou</u>, **Ancha Xu**. (2019). "Exponential Dispersion Process for Degradation Analysis." *IEEE Transactions on Reliability*, 68(2), 398-409. [<a href="https://doi.org/10.1109/TR.2019.2895352">link</a>]
 
 1. **Ancha Xu**, Lijuan Shen. (2018). "Improved on-line estimation for gamma process." *Statistics and Probability Letters*, 143, 67-73. [<a href="https://doi.org/10.1016/j.spl.2018.07.021">link</a>]
 
@@ -60,15 +60,15 @@ author_profile: true
 
 1. Wenchen Liu, Yincai Tang, **Ancha Xu**. (2018). "A zero-and-one-inflated Poisson model and its application." *Statistics and Its Interface*, 11(1), 339-351. [<a href="https://doi.org/10.4310/SII.2018.v11.n2.a11">link</a>]
 
-1. **Ancha Xu**, Shirong Zhou. (2017). "Bayesian analysis of series system with dependent causes of failure." *Statistical Theory and Related Fields*, 1(1), 128-140. [<a href="https://doi.org/10.1080/24754269.2017.1348708">link</a>]
+1. **Ancha Xu**, <u>Shirong</u> <u>Zhou</u>. (2017). "Bayesian analysis of series system with dependent causes of failure." *Statistical Theory and Related Fields*, 1(1), 128-140. [<a href="https://doi.org/10.1080/24754269.2017.1348708">link</a>]
 
 1. Yincai Tang, Jiayu Fu, Wenchen Liu, **Ancha Xu**. (2017). "Bayesian analysis of repairable systems with modulated power law process." *Applied Mathematical Modeling*, 44, 357-373. [<a href="https://doi.org/10.1016/j.apm.2017.01.067">link</a>]
 
 1. Piao Chen, **Ancha Xu**, Zhisheng Ye. (2016). "Generalized fiducial inference for accelerated life tests with Weibull distribution and progressively type-II censoring." *IEEE Transactions on Reliability*, 65(4), 1737-1744. [<a href="https://doi.org/10.1109/TR.2016.2604298">link</a>]
 
-1. Hui Zhang, **Ancha Xu**. (2016). "Bayesian analysis of the Marshall-Olkin bivariate Weibull distribution." *应用概率统计*, 32(4), 419-432. [<a href="https://doi.org/10.3969/j.issn.10014268.2016.04.008">link</a>]
+1. <u>Hui</u> <u>Zhang</u>, **Ancha Xu**. (2016). "Bayesian analysis of the Marshall-Olkin bivariate Weibull distribution." *应用概率统计*, 32(4), 419-432. [<a href="https://doi.org/10.3969/j.issn.10014268.2016.04.008">link</a>]
 
-1. Yalan Li, **Ancha Xu**. (2016). "Fiducial inference for Birnbaum-Saunders distribution." *Journal of Statistical Computation and Simulation*, 86(9), 1673-1685. [<a href="https://doi.org/10.1080/00949655.2015.1077840">link</a>]
+1. <u>Yalan</u> <u>Li</u>, **Ancha Xu**. (2016). "Fiducial inference for Birnbaum-Saunders distribution." *Journal of Statistical Computation and Simulation*, 86(9), 1673-1685. [<a href="https://doi.org/10.1080/00949655.2015.1077840">link</a>]
 
 1. Qiang Guan, Yincai Tang, **Ancha Xu**. (2016). "Objective Bayesian analysis for accelerated degradation test based on Wiener process models." *Applied Mathematical Modeling*, 40(4), 2743-2755. [<a href="https://doi.org/10.1016/j.apm.2015.09.076">link</a>]
 
@@ -90,7 +90,7 @@ author_profile: true
 
 1. **Ancha Xu**, Yincai Tang, Qiang Guan. (2014). "Bayesian Analysis of Masked Data in Stepstress Accelerated Life Testing." *Communications in Statistics - Simulation and Computation*, 43(8), 2016-2030. [<a href="https://doi.org/10.1080/03610918.2013.848894">link</a>]
 
-1. Jie Li, Yanjun Fu, **Ancha Xu**, Zumu Zhou, Weiming Wang. (2014). "A Spatial-Temporal ARMA Model of the Incidence of Hand, Foot, and Mouth Disease in Wenzhou, China." *Abstract and Applied Analysis*, Article ID 238724, 9 pages. [<a href="http://dx.doi.org/10.1155/2014/238724">link</a>]
+1. <u>Jie</u> <u>Li</u>, <u>Yanjun</u> <u>Fu</u>, **Ancha Xu**, Zumu Zhou, Weiming Wang. (2014). "A Spatial-Temporal ARMA Model of the Incidence of Hand, Foot, and Mouth Disease in Wenzhou, China." *Abstract and Applied Analysis*, Article ID 238724, 9 pages. [<a href="http://dx.doi.org/10.1155/2014/238724">link</a>]
 
 1. **Ancha Xu**, Yincai Tang. (2013). "Posterior Propriety in Nonparametric Mixed Effects Model." *Applied Mathematics—A Journal of Chinese Universities, Series B*, 28(3), 369-378. [<a href="https://doi.org/10.1007/s11766-013-2844-0">link</a>]
 
