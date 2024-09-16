@@ -12,6 +12,8 @@
 - 简历：cv.md
 
 
-- 图片存储地址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/images
-- 文件存储地址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/files
-- 使用方式，例如：[<a href="/files/slides/rIG_applications.pdf">Slides</a>]  
+图片存储地址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/images
+
+文件存储地址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/files
+
+使用方式，例如：[<a href="/files/slides/rIG_applications.pdf">Slides</a>]  
