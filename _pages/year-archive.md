@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024年 
 
-1. 9月1日: Liangliang Zhuang, Ancha Xu\*, Guanqi Fang, and Yincai Tang 撰写的论文 “Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction” 已被 Journal of Quality Technology 接受。
+1. 9月1日：Liangliang Zhuang, Ancha Xu\*, Guanqi Fang, and Yincai Tang 撰写的论文 “Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction” 已被 Journal of Quality Technology 接受。
 
 1. 8月23日：祝贺周世荣博士获得国家自然科学基金青年项目。
 
