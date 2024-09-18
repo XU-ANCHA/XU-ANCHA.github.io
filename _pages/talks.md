@@ -20,7 +20,7 @@ author_profile: true
    北京理工大学管理与经济学院  
    2024年3月
 
-1. **Remaining useful life prediction for gamma degradation processes: a recursive Bayesian approach**  [<a href="/files/slides/tp-rIG.pdf">Slides</a>]
+1. **Remaining useful life prediction for gamma degradation processes: a recursive Bayesian approach**  [<a href="/files/slides/Conjugate_prior.pdf">Slides</a>]
    浙江大学UIUC联合学院  
    2023年12月  
    
