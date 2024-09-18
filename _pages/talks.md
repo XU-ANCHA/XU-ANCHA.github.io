@@ -5,10 +5,12 @@ author_profile: true
 ---
 
 1. **Reparameterized Inverse Gaussian Process and Its Applications**  [<a href="/files/slides/rIG_applications.pdf">Slides</a>]
-   北京理工大学数学与统计学院  
-   2024年8月  
+
+    北京理工大学数学与统计学院  
+    2024年8月  
 
 1. **A multivariate Student-t process model for dependent tail-weighted degradation data** [<a href="/files/slides/student-t.pdf">Slides</a>]
+
    中国运筹学会可靠性分会学术年会  
    2024年4月  
 
