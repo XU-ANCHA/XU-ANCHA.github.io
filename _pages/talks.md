@@ -8,7 +8,7 @@ author_profile: true
     北京理工大学数学与统计学院   
     2024年8月  
 
-1. **Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process** [<a href="/files/slides/student-t.pdf">Slides</a>]  
+1. **Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process** [<a href="/files/slides/pre.pdf">Slides</a>]  
    中国现场统计研究会可靠性工程分会2024年学术年会   
    2024年5月，杭州  
 
