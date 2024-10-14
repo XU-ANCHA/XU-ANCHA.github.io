@@ -7,8 +7,11 @@ author_profile: true
 
 ## 2024年 
 
+1. 10月: Di Zhu, Ancha Xu\*, Chunling Luo, Yijun Wang and Guanqi Fang 撰写的论文 “Bayesian identification of system states in presence of measurement error” 获得
+   第六届系统可靠性与安全工程国际会议(The 6th International Conference on System Reliability and Safety Engineering，SRSE 2024)最佳论文奖。
+   
 1. 9月: Liangliang Zhuang, Ancha Xu\*, Guanqi Fang, and Yincai Tang 撰写的论文 “Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction” 已被 Journal of Quality Technology 接受。
-
+   
 1. 8月: 祝贺周世荣博士获得国家自然科学基金青年项目。
 
 1. 7月: Ancha Xu, Guanqi Fang 和 Liangliang Zhuang\* 撰写的论文 “A Multivariate Student-t process model for dependent tail-weighted degradation data” 已被 IISE Transactions 接受。
