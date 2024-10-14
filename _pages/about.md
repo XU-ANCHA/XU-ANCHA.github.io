@@ -50,15 +50,26 @@ Research Fellow, 新加坡国立大学
 ## 荣誉和奖励
 
 1. 浙江省“院士结对培养青年英才计划” （2024）
-2. “浙江省高校领军人才培养计划” 高层次拔尖人才 (2022)
-3. 浙江省高校中青年学科带头人 (2017)
-4. 福建省自然科学奖三等奖 (2024)
-5. 第一届全国统计科技进步奖三等奖 (2021)
-6. 华东师范大学优秀博士培养基金 (2010)
-7. 华东师范大学优秀博士论文 (2011)
-8. 2011 International workshop on objective Bayesian methodology, Best Poster Award
-9. 温州大学第四届“学生科技创新优秀指导教师” (2014)
-10. 温州大学第四届“我心目中的好导师” (2015)
+
+1. “浙江省高校领军人才培养计划” 高层次拔尖人才 (2022)
+
+1. 浙江省高校中青年学科带头人 (2017)
+
+1. 福建省自然科学奖三等奖 (2024)
+
+1. The 6th International Conference on System Reliability and Safety Engineering (SRSE 2024), Best Paper Award
+
+1. 第一届全国统计科技进步奖三等奖 (2021)
+
+1. 华东师范大学优秀博士培养基金 (2010)
+
+1. 华东师范大学优秀博士论文 (2011)
+
+1. 2011 International workshop on objective Bayesian methodology, Best Poster Award
+
+1. 温州大学第四届“学生科技创新优秀指导教师” (2014)
+
+1. 温州大学第四届“我心目中的好导师” (2015)
 
 ## 研究课题
 
