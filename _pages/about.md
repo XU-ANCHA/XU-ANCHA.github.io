@@ -55,6 +55,8 @@ Research Fellow, 新加坡国立大学
 
 1. 浙江省高校中青年学科带头人 (2017)
 
+1. 浙江省自然科学奖三等奖 (2024)
+
 1. 福建省自然科学奖三等奖 (2023)
 
 1. The 6th International Conference on System Reliability and Safety Engineering (SRSE 2024), Best Paper Award
