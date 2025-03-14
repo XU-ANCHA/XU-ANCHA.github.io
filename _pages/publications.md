@@ -10,11 +10,11 @@ author_profile: true
 
 ## 期刊论文 (<u>下划线代表学生</u>)
 
-1. **Ancha Xu**, Jinyang Wang, Yincai Tang, Piao Chen. (2024+). "Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process." *Naval Research Logistics*. [<a href="https://doi.org/10.1002/nav.22226">link</a>]
-
-1. **Ancha Xu**, <u>Binbing Wang</u>, <u>Di</u> <u>Zhu</u>, Jihong Pang, Xinze Lian. (2024+). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, In press. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
-
 1. **Ancha Xu**, Guanqi Fang, <u>Liangliang</u> <u>Zhuang</u>, <u>Cheng</u> <u>Gu</u>. (2024+). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
+
+1. **Ancha Xu**, Jinyang Wang, Yincai Tang, Piao Chen. (2025). "Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process." *Naval Research Logistics*, 72(3), 319-336. [<a href="https://doi.org/10.1002/nav.22226">link</a>]
+
+1. **Ancha Xu**, <u>Binbing Wang</u>, <u>Di</u> <u>Zhu</u>, Jihong Pang, Xinze Lian. (2025). "Bayesian reliability assessment of permanent magnet brake under small sample size." *IEEE Transactions on Reliability*, 74(1), 2107-2117. [<a href="https://doi.org/10.1109/TR.2024.3381072">link</a>]
 
 1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Guanqi Fang, Yincai Tang. (2025). "Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction." *Journal of Quality Technology*, 57(1), 51-67. [<a href="https://doi.org/10.1080/00224065.2024.2402850">link</a>]
 
