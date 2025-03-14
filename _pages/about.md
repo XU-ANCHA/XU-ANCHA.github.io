@@ -140,7 +140,7 @@ Research Fellow, 新加坡国立大学
 
 ### 社会兼职
 
-1. 期刊*Statistical Theory and Related Fields*副编委(Associate Editor), 2024-2029
+1. 期刊*Statistical Theory and Related Fields*, **Associate Editor**, 2024-2029
 
 1. 第十一届中国运筹学会可靠性分会**副理事长**，2022-2025
 
