@@ -123,6 +123,10 @@ author_profile: true
 
 ## 非一作和通讯文章
 
+1. Zhen Zhao, Zuo Wang, Jingye Zhu, **Ancha Xu**, David Julian McClements, Jianshe Chen, Yong Chen. (2025)
+How differences in rice texture and oral physiology affect sensory preference and eating behavior of consumers: A generalized additive models (GAMs) approach,
+Food Structure, 44, 100418.  [<a href="https://doi.org/10.1016/j.foostr.2025.100418">link</a>]
+
 1. Qingqing Zhai, **Ancha Xu**, Jun Yang, Yijing Zhou. (2024). "Statistical modeling and reliability analysis for degradation processes indexed by two scales." *IEEE Transactions on Industrial Informatics*, 20(3), 3675-3684. [<a href="https://doi.org/10.1109/TII.2023.3313668">link</a>]
 
 1. Weiwen Peng, Yuan Chen, **Ancha Xu**, Zhisheng Ye. (2024). "Collaborative online RUL prediction of multiple assets with analytically recursive Bayesian inference." *IEEE Transactions on Reliability*, 73(1), 506-520. [<a href="https://doi.org/10.1109/TR.2023.3295943">link</a>]
