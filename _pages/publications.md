@@ -10,7 +10,7 @@ author_profile: true
 
 ## 期刊论文 (<u>下划线代表学生</u>)
 
-1. **Ancha Xu**, <u>Renbing</u> <u>Wang</u>, <u>Xinming</u> <u>Weng</u>, <u>Qi</u> <u>Wu</u>, <u>Liangliang</u> <u>Zhuang</u>. (2025). "Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction" *Applied Soft Computing*, In press.
+1. **Ancha Xu**, <u>Renbing</u> <u>Wang</u>, <u>Xinming</u> <u>Weng</u>, <u>Qi</u> <u>Wu</u>, <u>Liangliang</u> <u>Zhuang</u>. (2025). "Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction" *Applied Soft Computing*, 175, 113067. [<a href="https://doi.org/10.1016/j.asoc.2025.113067">link</a>]
 
 1. **Ancha Xu**, Guanqi Fang, <u>Liangliang</u> <u>Zhuang</u>, <u>Cheng</u> <u>Gu</u>. (2025). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
 
