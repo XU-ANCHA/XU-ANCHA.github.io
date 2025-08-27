@@ -5,14 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-目前以第一作者或通讯作者发表论文 54 篇，其中 ESI 高被引论文 6 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a>、<a href="{{site.author.researchgate}}">Researchgate</a> 或者
+目前以第一作者或通讯作者发表论文 55 篇，其中 ESI 高被引论文 6 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a>、<a href="{{site.author.researchgate}}">Researchgate</a> 或者
 <a href="https://xu-ancha.github.io/cv/">简历</a>。
 
 ## 期刊论文 (<u>下划线代表学生</u>)
 
+1. Shirong Zhou, Yincai Tang, **Ancha Xu**, Xinze Lian, Chunling Luo. (2026). "Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model" *Reliability Engineering & System Safety*, 265, 111461. [<a href="https://doi.org/10.1016/j.ress.2025.111461">link</a>]
+
 1. **Ancha Xu**, <u>Renbing</u> <u>Wang</u>, <u>Xinming</u> <u>Weng</u>, <u>Qi</u> <u>Wu</u>, <u>Liangliang</u> <u>Zhuang</u>. (2025). "Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction" *Applied Soft Computing*, 175, 113067. [<a href="https://doi.org/10.1016/j.asoc.2025.113067">link</a>]
 
-1. **Ancha Xu**, Guanqi Fang, <u>Liangliang</u> <u>Zhuang</u>, <u>Cheng</u> <u>Gu</u>. (2025). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, In press. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
+1. **Ancha Xu**, Guanqi Fang, <u>Liangliang</u> <u>Zhuang</u>, <u>Cheng</u> <u>Gu</u>. (2025). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, 57(9), 1071-1087. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
 
 1. **Ancha Xu**, Jinyang Wang, Yincai Tang, Piao Chen. (2025). "Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process." *Naval Research Logistics*, 72(3), 319-336. [<a href="https://doi.org/10.1002/nav.22226">link</a>]
 
@@ -123,9 +125,11 @@ author_profile: true
 
 ## 非一作和通讯文章
 
-1. Zhen Zhao, Zuo Wang, Jingye Zhu, **Ancha Xu**, David Julian McClements, Jianshe Chen, Yong Chen. (2025)
+1. Jingye Zhu, Huilin Zeng, **Ancha Xu**, David Julian McClements, Jianshe Chen, Yong Chen. (2025). Correlating instrumental textural properties to human sensory data using biomimetic molar probes: Case study with hazelnuts, *Current Research in Food Science*，11, 101171. [<a href="https://doi.org/10.1016/j.crfs.2025.101171">link</a>]
+
+1. Zhen Zhao, Zuo Wang, Jingye Zhu, **Ancha Xu**, David Julian McClements, Jianshe Chen, Yong Chen. (2025).
 How differences in rice texture and oral physiology affect sensory preference and eating behavior of consumers: A generalized additive models (GAMs) approach,
-Food Structure, 44, 100418.  [<a href="https://doi.org/10.1016/j.foostr.2025.100418">link</a>]
+*Food Structure*, 44, 100418.  [<a href="https://doi.org/10.1016/j.foostr.2025.100418">link</a>]
 
 1. Qingqing Zhai, **Ancha Xu**, Jun Yang, Yijing Zhou. (2024). "Statistical modeling and reliability analysis for degradation processes indexed by two scales." *IEEE Transactions on Industrial Informatics*, 20(3), 3675-3684. [<a href="https://doi.org/10.1109/TII.2023.3313668">link</a>]
 
