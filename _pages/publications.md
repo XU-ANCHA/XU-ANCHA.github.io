@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-目前以第一作者或通讯作者发表论文 56 篇，其中 ESI 高被引论文 6 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a>、<a href="{{site.author.researchgate}}">Researchgate</a> 或者
+目前以第一作者或通讯作者发表论文 57 篇，其中 ESI 高被引论文 6 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a>、<a href="{{site.author.researchgate}}">Researchgate</a> 或者
 <a href="https://xu-ancha.github.io/cv/">简历</a>。
 
 ## 期刊论文 (<u>下划线代表学生</u>)
