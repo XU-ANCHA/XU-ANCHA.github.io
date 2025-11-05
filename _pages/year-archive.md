@@ -7,7 +7,9 @@ author_profile: true
 
 ## 2025年 
 
-1. 10月: 祝贺硕士生汪任兵获得国家奖学金。
+1. 10月: 祝贺硕士生汪任兵获得**国家奖学金**。
+
+1. 10月：祝贺硕士生柳李嘉、王娟、陈桢获得第八届全国应用统计专业学位研究生案例大赛**全国二等奖**。
 
 1. 10月: 课题组的论文 “A robust Bayesian framework for degradation state identification in the presence of outliers” 被 **Naval Research Logistics**  接受。
 
@@ -18,6 +20,8 @@ author_profile: true
 1. 8月: 课题组的论文 “Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model” 被 **Reliability Engineering & System Safety** 接受。。
    
 1. 8月: 课题组获批**国家自然科学基金面上项目**“面向多维偏态厚尾退化数据的可靠性评估与贝叶斯最优设计(72571246)”。
+
+1. 6月：祝贺博士生庄亮亮通过博士论文答辩，并**入职南京理工大学**经济与管理学院。
 
 1. 4月：徐安察、柳李嘉获得第十一届“飞扬杯”研究生羽毛球师生联谊赛**冠军**。
 
