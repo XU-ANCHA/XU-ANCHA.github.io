@@ -11,8 +11,8 @@ main:
   - title: "团队"
     url: /portfolio/
         
-  - title: "报告"
-    url: /talks/   
+  # - title: "报告"
+  #   url: /talks/   
 
   - title: "教学"
     url: /teaching/  
