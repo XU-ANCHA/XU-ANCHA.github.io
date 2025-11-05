@@ -7,19 +7,19 @@ author_profile: true
 
 ## 2025年 
 
-1. 10月: 祝贺硕士生汪任兵获得**国家奖学金**。
+1. 10月：祝贺硕士生汪任兵获得**国家奖学金**。
 
 1. 10月：祝贺硕士生柳李嘉、王娟、陈桢获得第八届全国应用统计专业学位研究生案例大赛**全国二等奖**。
 
-1. 10月: 课题组论文 “A robust Bayesian framework for degradation state identification in the presence of outliers” 被 **Naval Research Logistics**  接受。
+1. 10月：课题组论文 “A robust Bayesian framework for degradation state identification in the presence of outliers” 被 **Naval Research Logistics**  接受。
 
-1. 9月: 课题组论文 “Recursive Bayesian prediction of remaining useful life for gamma degradation process under conjugate priors” 被 **Scandinavian Journal of Statistics** 接受。
+1. 9月：课题组论文 “Recursive Bayesian prediction of remaining useful life for gamma degradation process under conjugate priors” 被 **Scandinavian Journal of Statistics** 接受。
 
 1. 9月：课题组论文 “Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction”入选**ESI高被引论文**。
    
-1. 8月: 课题组论文 “Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model” 被 **Reliability Engineering & System Safety** 接受。。
+1. 8月：课题组论文 “Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model” 被 **Reliability Engineering & System Safety** 接受。。
    
-1. 8月: 课题组获批**国家自然科学基金面上项目**“面向多维偏态厚尾退化数据的可靠性评估与贝叶斯最优设计(72571246)”。
+1. 8月：课题组获批**国家自然科学基金面上项目**“面向多维偏态厚尾退化数据的可靠性评估与贝叶斯最优设计(72571246)”。
 
 1. 6月：祝贺博士生庄亮亮通过博士论文答辩，并**入职南京理工大学**经济与管理学院。
 
@@ -27,7 +27,7 @@ author_profile: true
 
 1. 4月：徐安察荣获浙江工商大学第四届“**我心目中的好导师**”奖。
 
-1. 4月: 课题组论文 “Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction” 已被 **Applied Soft Computing** 接受。
+1. 4月：课题组论文 “Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction” 已被 **Applied Soft Computing** 接受。
 
 
 ## 2024年 
