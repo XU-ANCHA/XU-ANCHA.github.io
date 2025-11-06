@@ -11,7 +11,7 @@ author_profile: true
 
 1. 10月: 祝贺硕士生柳李嘉、王娟、陈桢获得第八届全国应用统计专业学位研究生案例大赛**全国二等奖**.
 
-1. 10月: 祝贺庄亮亮博士荣获长三角科学道德和学风建设论坛——**研究生“创新实践之星”**荣誉称号.
+1. 10月: 祝贺庄亮亮博士荣获长三角科学道德和学风建设论坛——研究生“**创新实践之星**”荣誉称号.
 
 1. 10月: 课题组论文 “A robust Bayesian framework for degradation state identification in the presence of outliers” 被 **Naval Research Logistics**  接受.
 
