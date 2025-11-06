@@ -34,22 +34,22 @@ author_profile: true
 
 ## 2024年 
 
-1. 11月: 团队成果“可靠性评估的小样本理论与方法”获浙江省自然科学奖三等奖（完成人: 徐安察、陈飘、王炳兴、汤银才）.
+1. 11月: 团队成果“可靠性评估的小样本理论与方法”获**浙江省自然科学奖三等奖**（完成人: 徐安察、陈飘、王炳兴、汤银才）.
 
-1. 11月: 祝贺博士生庄亮亮获得国家奖学金.
+1. 11月: 祝贺博士生庄亮亮获**国家奖学金**.
 
-1. 10月: 祝贺博士生尹宏、硕士生朱迪分别获中国现场统计研究会大数据统计分会研究生优秀论文一等奖、二等奖.
+1. 10月: 祝贺博士生尹宏、硕士生朱迪分别获中国现场统计研究会大数据统计分会**研究生优秀论文一等奖、二等奖**.
 
 1. 10月: 课题组论文 “Bayesian identification of system states in presence of measurement error” 获得
-   第六届系统可靠性与安全工程国际会议(The 6th International Conference on System Reliability and Safety Engineering，SRSE 2024)最佳论文奖.
+   第六届系统可靠性与安全工程国际会议(The 6th International Conference on System Reliability and Safety Engineering，SRSE 2024)**最佳论文奖**.
    
-1. 9月: 课题组论文 “Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction” 被 Journal of Quality Technology 接受.
+1. 9月: 课题组论文 “Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction” 被 **Journal of Quality Technology** 接受.
    
-1. 8月: 祝贺周世荣博士获得国家自然科学基金青年项目.
+1. 8月: 祝贺周世荣博士获得**国家自然科学基金青年项目**.
 
-1. 7月: 课题组论文 “A Multivariate Student-t process model for dependent tail-weighted degradation data” 被 IISE Transactions 接受.
+1. 7月: 课题组论文 “A Multivariate Student-t process model for dependent tail-weighted degradation data” 被 **IISE Transactions** 接受.
 
-1. 6月: 课题组论文 “Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process” 被 European Journal of Operational Research 接受.
+1. 6月: 课题组论文 “Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process” 被 **European Journal of Operational Research** 接受.
 
 1. 2月: 课题组论文 “A prognostic driven predictive maintenance framework based on Bayesian deep learning” 入选**ESI热点论文**！
 
@@ -57,9 +57,9 @@ author_profile: true
 
 1. 12月: 博士生庄亮亮参加中国运筹学会可靠性分会年会，论文获**优秀论文奖**.
 
-1. 12月: 祝贺周世荣博士获得浙江省自然科学基金青年项目.
+1. 12月: 祝贺周世荣博士获得**浙江省自然科学基金青年项目**.
 
-1. 7月: 祝贺庄亮亮获得了国家留学基金委员会的资助，计划于 2024 年 1 月至 2025 年 1 月前往新加坡国立大学交流一年.
+1. 7月: 祝贺庄亮亮获得了**国家留学基金委员会的资助**，计划于 2024 年 1 月至 2025 年 1 月前往新加坡国立大学交流一年.
 
 ## 2022年
 
