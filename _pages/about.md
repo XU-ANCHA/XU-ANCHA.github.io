@@ -160,8 +160,6 @@ Research Fellow, 新加坡国立大学
 
 <img src="https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b" width="200" />
 
-![二维码](https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b)
-
 
 > **招生要求:** 具有较好的数学推导能力或计算机编程能力(熟练R语言、Python)，请有意攻读硕士或博士学位者，将个人简历和成绩单发送至我的邮箱 <xuancha@mail.zjgsu.edu.cn>。
 
