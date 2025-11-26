@@ -158,6 +158,8 @@ Research Fellow, 新加坡国立大学
 
 ### 课题组微信公众号：可靠性统计
 
+<img src="https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b" width="200" />
+
 ![二维码](https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b)
 
 
