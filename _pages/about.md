@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-徐安察，浙江工商大学统计学教授，博士生导师。研究方向包括: 退化数据分析与建模、贝叶斯在线学习、客观贝叶斯方法、寿命数据分析。迄今以第一作者或通讯作者在Naval Research Logistics、Scandinavian Journal of Statistics、Journal of Quality Technology、European Journal of Operational Research、IEEE Transactions on Reliability、IISE Transactions等国际可靠性及统计主流杂志上发表SCI论文50余篇，其中ESI高被引论文4篇。已主持国家自然科学基金以及省部级项目十余项。获浙江省自然科学奖、福建省自然科学奖、第一届全国统计科学技术进步奖等。入选“浙江省高校领军人才培养计划”高层次拔尖人才、浙江省高校中青年学术带头人。目前担任中国运筹学会可靠性分会副理事长、中国现场统计研究会可靠性工程分会常务理事、中国现场统计研究会大数据统计分会常务理事、国内统计英文期刊《Statistical Theory and Related Fields》Associate Editor、国内学术期刊《工业工程》青年编委。
+徐安察，浙江工商大学统计学教授，博士生导师。研究方向包括: 退化数据分析与建模、贝叶斯在线学习、客观贝叶斯方法、寿命数据分析。迄今以第一作者或通讯作者在Naval Research Logistics、Scandinavian Journal of Statistics、Journal of Quality Technology、European Journal of Operational Research、IEEE Transactions on Reliability、IISE Transactions等国际可靠性及统计主流杂志上发表SCI论文50余篇，其中ESI高被引论文6篇。已主持国家自然科学基金以及省部级项目十余项。获浙江省自然科学奖、福建省自然科学奖、第一届全国统计科学技术进步奖等。入选“浙江省高校领军人才培养计划”高层次拔尖人才、浙江省高校中青年学术带头人。目前担任中国运筹学会可靠性分会副理事长、中国现场统计研究会可靠性工程分会常务理事、中国现场统计研究会大数据统计分会常务理事、国内统计英文期刊《Statistical Theory and Related Fields》Associate Editor、国内学术期刊《工业工程》青年编委。
 
 ## 教育背景及经历 
 
@@ -150,9 +150,9 @@ Research Fellow, 新加坡国立大学
 
 1. 期刊*Statistical Theory and Related Fields*, **Associate Editor**, 2024-2029
 
-1. 第十一届中国运筹学会可靠性分会**副理事长**，2022-2025
+1. 第十一、十二届中国运筹学会可靠性分会**副理事长**，2022-2029
 
-1. 中国现场统计研究会可靠性工程**常务理事**，2021-2024
+1. 中国现场统计研究会可靠性工程**常务理事**，2021-2029
 
 1. 中国现场统计研究会大数据统计分会**常务理事**，2024-2028
 
