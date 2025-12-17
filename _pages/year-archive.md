@@ -49,7 +49,7 @@ author_profile: true
    
 1. 9月: 课题组论文 “Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction” 被 **Journal of Quality Technology** 接受.
    
-1. 8月: 祝贺周世荣博士获得**国家自然科学基金青年项目**.
+1. 8月: 祝贺周世荣博士获批**国家自然科学基金青年项目**.
 
 1. 7月: 课题组论文 “A Multivariate Student-t process model for dependent tail-weighted degradation data” 被 **IISE Transactions** 接受.
 
@@ -61,9 +61,11 @@ author_profile: true
 
 1. 12月: 博士生庄亮亮参加中国运筹学会可靠性分会年会，论文获**优秀论文奖**.
 
-1. 12月: 祝贺周世荣博士获得**浙江省自然科学基金青年项目**.
+1. 12月: 课题组获批**浙江省自然科学基金重点项目**.
 
-1. 7月: 祝贺庄亮亮获得了**国家留学基金委员会的资助**，计划于 2024 年 1 月至 2025 年 1 月前往新加坡国立大学交流一年.
+1. 12月: 祝贺周世荣博士获批**浙江省自然科学基金青年项目**.
+
+1. 7月: 祝贺庄亮亮获得**国家留学基金委员会**资助，计划于 2024 年 1 月至 2025 年 1 月前往新加坡国立大学交流一年.
 
 ## 2022年
 
