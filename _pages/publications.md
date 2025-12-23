@@ -9,7 +9,7 @@ author_profile: true
 
 ## 期刊论文 (<u>下划线代表学生</u>)
 
-1. Hong Yin, Yijun Wang, **Ancha Xu**. (2025+). "Kernel-based marginal testing for covariate effects in high-dimensional settings." *Scandinavian Journal of Statistics*. DOI:10.1111/sjos.70049
+1. <u>Hong</u> <u>Yin</u>, Yijun Wang, **Ancha Xu**. (2025+). "Kernel-based marginal testing for covariate effects in high-dimensional settings." *Scandinavian Journal of Statistics*. DOI:10.1111/sjos.70049
     [<a href="https://doi.org/10.1111/sjos.70049">link</a>]
 
 1. **Ancha Xu**, <u>Juan</u> <u>Wang</u>, <u>Di</u> <u>Zhu</u>, <u>Zhen</u> <u>Chen</u>, Yijun Wang. (2025+). "A robust Bayesian framework for degradation state identification in the presence of outliers." *Naval Research Logistics*. DOI: 10.1002/nav.70033  [2025-NRL.pdf](https://github.com/user-attachments/files/23769901/2025-NRL.pdf)
