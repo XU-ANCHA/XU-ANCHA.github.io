@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2026年 
 
+1. 1月: 课题组论文"From Statistical Modeling to AI-Integrated Inverse Gaussian Process: A Comprehensive Review for Prognostics and Health Management"被 **Engineering Management**  接受.
+
 1. 1月: 课题组撰写的“飞机发动机剩余寿命预测——基于自适应采样和集成学习的联邦学习算法”入选2025 年浙江省专业学位研究生优秀教学案例.
 
 1. 1月: “基于自适应采样和集成技术的联邦学习及其在航空发动机剩余寿命预测中的应用”入选2024年浙江省专业学位研究生优秀创新成果（课题组研究生: 柳李嘉、翁鑫铭、陈桢、王娟）.
