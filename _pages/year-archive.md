@@ -5,6 +5,12 @@ permalink: /year-archive/
 author_profile: true
 ---
 
+## 2026年 
+
+1. 1月: 课题组论文 “Kernel‐based marginal testing for covariate effects in high‐dimensional settings” 被 **Scandinavian Journal of Statistics**  接受.
+
+1. 1月: 课题组论文 “Joint modeling accelerated life tests and field data for reliability prediction” 被 **Statistical Theory and Related Fields**  接受.   
+
 ## 2025年 
 
 1. 12月: 课题组论文 “An online Bayesian framework for identifying latent system degradation states” 被 **IEEE Transactions on Reliability**  接受.
