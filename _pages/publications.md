@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-目前以第一作者或通讯作者发表论文 60 篇，其中 ESI 高被引论文 6 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a>和<a href="{{site.author.researchgate}}">Researchgate</a>。
+目前以第一作者或通讯作者发表论文 61 篇，其中 ESI 高被引论文 6 篇。具体可见我的 <a href="{{site.author.googlescholar}}">谷歌学术</a>和<a href="{{site.author.researchgate}}">Researchgate</a>。
 
 ## 期刊论文 (<u>下划线代表学生</u>)
 
 1. Liangliang Zhuang, Yizhong Ma, Guanqi Fang, **Ancha Xu**. (2025+). "Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework." *IISE Transactions*. [IISE-two scale.pdf](https://github.com/user-attachments/files/25140849/IISE-two.scale.pdf)
+
+1. Liangliang Zhuang, Yizhong Ma, Jianjun Wang, Rong Pan, **Ancha Xu**. (2025+). "From statistical modeling to AI-integrated inverse Gaussian process: a comprehensive review for prognostics and health management." *Engineering Management*.[EM_IG.pdf](https://github.com/user-attachments/files/25143524/EM_IG.pdf)
 
 1. **Ancha Xu**, <u>Jiahui</u> <u>Liu</u>, <u>Lijia</u> <u>Liu</u>, <u>Mengting</u> <u>Zhong</u>, Weiwei Wang. (2025+). "Joint modeling accelerated life tests and field data for reliability prediction." *Statistical Theory and Related Fields*. 
 
