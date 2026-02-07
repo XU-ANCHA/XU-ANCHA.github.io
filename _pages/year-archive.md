@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2026年 
 
+1. 2月: 课题组论文"Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework"被**IISE Transactions**接受.
+
 1. 1月: 课题组论文"From Statistical Modeling to AI-Integrated Inverse Gaussian Process: A Comprehensive Review for Prognostics and Health Management"被 **Engineering Management**  接受.
 
 1. 1月: 课题组撰写的“飞机发动机剩余寿命预测——基于自适应采样和集成学习的联邦学习算法”入选2025 年浙江省专业学位研究生优秀教学案例.
