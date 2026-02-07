@@ -11,7 +11,7 @@ author_profile: true
 
 1. Liangliang Zhuang, Yizhong Ma, Guanqi Fang, **Ancha Xu**. (2025+). "Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework." *IISE Transactions*. [IISE-two scale.pdf](https://github.com/user-attachments/files/25140849/IISE-two.scale.pdf)
 
-1. **Ancha Xu**, <u>Jiahui</u> <u>Liu</u>, <u>Lijia</u> <u>Liu</u>, <u>Mengting <u>Zhong</u>, Weiwei Wang. (2025+). "Joint modeling accelerated life tests and field data for reliability prediction." *Statistical Theory and Related Fields*. 
+1. **Ancha Xu**, <u>Jiahui</u> <u>Liu</u>, <u>Lijia</u> <u>Liu</u>, <u>Mengting</u> <u>Zhong</u>, Weiwei Wang. (2025+). "Joint modeling accelerated life tests and field data for reliability prediction." *Statistical Theory and Related Fields*. 
 
 1. <u>Hong</u> <u>Yin</u>, Yijun Wang, **Ancha Xu**. (2025+). "Kernel-based marginal testing for covariate effects in high-dimensional settings." *Scandinavian Journal of Statistics*. DOI:10.1111/sjos.70049
     [<a href="https://doi.org/10.1111/sjos.70049">link</a>]
