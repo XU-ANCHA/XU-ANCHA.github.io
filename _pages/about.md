@@ -24,10 +24,10 @@ redirect_from:
 ### 工作经历
 
 2021 年 1 月 至今  
-教授, 博士生导师, 浙江工商大学统计与数学学院
+教授, 博士生导师, 浙江工商大学统计与数据科学学院
 
 2020 年 5 月 – 2020 年 12 月  
-副教授, 浙江工商大学统计与数学学院
+副教授, 浙江工商大学统计与数据科学学院
 
 2013 年 12 月 – 2020 年 4 月  
 副教授, 温州大学数理学院
@@ -177,9 +177,9 @@ Research Fellow, 新加坡国立大学
 
 <img src="https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b" width="200" />
 
-### 课题组小红书号: 可靠性统计
+### 课题组小红书账号: 可靠性统计
 
-<img src="https://github.com/user-attachments/assets/20089de1-446f-4f69-9a4d-bf8f5eb52c39" width="200" />
+<img src="https://github.com/user-attachments/assets/20089de1-446f-4f69-9a4d-bf8f5eb52c39" width="180" />
 
 
 > **招生要求:** 具有较好的数学推导能力或计算机编程能力(熟练R语言、Python)，请有意攻读硕士或博士学位者，将个人简历和成绩单发送至我的邮箱 <xuancha@mail.zjgsu.edu.cn>。
