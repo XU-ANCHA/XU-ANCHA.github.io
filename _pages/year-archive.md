@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2026年 
 
+1. 3月: 课题组论文"A hierarchical Bayesian multivariate Wiener process model with dependent degradation rates and volatilities"被**IEEE Transactions on Reliability**接受.
+
 1. 2月: 课题组论文"Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework"被**IISE Transactions**接受.
 
 1. 1月: 课题组论文"From Statistical Modeling to AI-Integrated Inverse Gaussian Process: A Comprehensive Review for Prognostics and Health Management"被 **Engineering Management**  接受.
