@@ -9,6 +9,7 @@
 - 报告：[talks.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/talks.md)
 - 教学：[teaching.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/teaching.md)
 - 新闻：[year-archive.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/year-archive.md)
+- 数据集[datasets.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/datasets.md)
 - 简历：[cv.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/cv.md)
 
 图片存储地址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/images
@@ -34,4 +35,5 @@
 <img width="343" alt="image" src="https://github.com/user-attachments/assets/e1081fa8-d1f4-48c1-bccf-1f0089f364ee">
 
 5. 刷新[个人网站](https://xu-ancha.github.io/)，得到最新版本。
-   
+
+> 如果需要添加新的栏目，具体步骤为：(1) 在 `_data/navigation.yml` 添加新栏目名称；（2）在 `_pages/xxx.md` 新建对应名称的文件，并填充内容。
