@@ -16,7 +16,10 @@ main:
 
   - title: "教学"
     url: /teaching/  
-
+    
+  - title: "数据集"
+    url: /datasets/
+    
   - title: "新闻"
     url: /year-archive/
     
