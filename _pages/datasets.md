@@ -25,7 +25,7 @@ author_profile: true
 
 ### 3. 设备-B / 集成电路退化数据
 
-文件名：`deviceb_SMRD.txt`，[点击下载](/files/datasets/1/deviceb_SMRD.txt)
+文件名：`deviceb_SMRD.txt`，<a href="/files/datasets/1/deviceb_SMRD.txt" download>点击下载</a>
 
 该数据集记录了名为“器件B”的集成电路器件样品在三种不同温度下的测试数据。其目的是研究该产品在标准工作温度下运行 15 年（约 13 万小时）后的失效比例。工程师将功率输出下降到初始输出以下 0.5 分贝的时间点定义为故障时间，并按固定时间间隔对样品进行测量，直至达到 4000 小时终止。三种温度下的退化路径如图3所示。
 
@@ -33,7 +33,7 @@ author_profile: true
 
 ### 4. 金属合金疲劳裂纹扩展试验退化数据
 
-文件名：`alloya_SMRD.txt`，[点击下载](/files/datasets/1/alloya_SMRD.txt)
+文件名：`alloya_SMRD.txt`，<a href="/files/datasets/1/alloya_SMRD.txt" download>点击下载</a>
 
 该数据集是对 21 个未知合金样本进行疲劳裂纹扩展实验获得的。测试之前，在每个样本中切出一条初始裂纹（长度 = 0.9 英寸）作为裂纹成核位点。实验以 10000 次疲劳载荷循环为一个测量单位，记录裂纹长度。当裂纹长度超过 1.6 英寸时，则认为样本失效并终止实验；否则测试在 120 万次循环后结束。相关退化路径如图4所示。
 
@@ -41,7 +41,7 @@ author_profile: true
 
 ### 5. 铝合金裂纹退化数据
 
-文件名：`aluminumalloy_PEM.txt`，[点击下载](/files/datasets/1/aluminumalloy_PEM.txt)
+文件名：`aluminumalloy_PEM.txt`，<a href="/files/datasets/1/aluminumalloy_PEM.txt" download>点击下载</a>
 
 该数据集记录了 30 个抛光处理的 2024-T351 铝合金样本的数据，在室温环境下利用统一测量设备进行测试。实验设计以 10000 次载荷循环为时间单位，测试范围覆盖 1 至 4 单位，步长设定为 0.5 单位。当样本裂纹长度超过 15 毫米时，即判定为失效并终止测试，此时的循环次数记录为样本寿命。具体的数据描述见图5。
 
@@ -49,7 +49,7 @@ author_profile: true
 
 ### 6. 列车车轮退化数据
 
-文件名：`wheel_Tech.txt`，[点击下载](/files/datasets/1/wheel_Tech.txt)
+文件名：`wheel_Tech.txt`，<a href="/files/datasets/1/wheel_Tech.txt" download>点击下载</a>
 
 该数据集记录了 14 个列车车轮在行驶过程中直径磨损的情况。测试以 50 千公里为间隔，直至累积里程达到 1000 千公里。在每个里程节点，分别测量每个车轮的直径。当直径磨损达到 60 毫米时，即视为车轮失效。数据如图6所示。
 
@@ -57,7 +57,7 @@ author_profile: true
 
 ### 7. 发光二极管数据
 
-文件名：`LED_Tech.txt`，[点击下载](/files/datasets/1/LED_Tech.txt)
+文件名：`LED_Tech.txt`，<a href="/files/datasets/1/LED_Tech.txt" download>点击下载</a>
 
 该数据集是发光二极管（LED）相对亮度（相对于初始亮度的比例）的加速退化实验数据。实验分别在 25°C、65°C 和 105°C 下各测试 25 个单元。通常将 LED 失效定义为其相对亮度下降到 0.5，即初始亮度的 50%。图7展示了该数据集的退化路径。
 
@@ -65,7 +65,7 @@ author_profile: true
 
 ### 8. 永磁制动器退化数据
 
-文件名：`PMB_ITR.txt`，[点击下载](/files/datasets/1/PMB_ITR.txt)
+文件名：`PMB_ITR.txt`，<a href="/files/datasets/1/PMB_ITR.txt" download>点击下载</a>
 
 该数据集来源于对中国浙江省某企业生产的永磁制动器的实验测试。实验分别在 105℃、120℃ 和 140℃ 条件下对 9 个产品进行退化试验，试验过程中监测两个性能关键指标：制动转矩与响应时间。将试样置于 DOS60 型电热恒温干燥箱内，设定相应温度，在为期 30 天的试验周期内每日测量上述性能指标。退化路径如图8所示。
 
@@ -73,7 +73,7 @@ author_profile: true
 
 ### 9. 金属膜电阻器退化数据
 
-文件名：`resistance_Tech.txt`，[点击下载](/files/datasets/1/resistance_Tech.txt)
+文件名：`resistance_Tech.txt`，<a href="/files/datasets/1/resistance_Tech.txt" download>点击下载</a>
 
 该数据集来源于一项评估电阻器寿命信息的实验，其中记录了 200 个测试单元在不同条件下的相对电阻增益与初始电阻之比。测试单元的相对电阻增益退化路径如图9所示。该数据集可用于电阻器退化建模、寿命评估及可靠性分析研究。
 
