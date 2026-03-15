@@ -9,7 +9,7 @@ author_profile: true
 
 ### 1. 激光退化数据
 
-文件名：`gaalaser_SMRD.txt`，[点击下载](/files/datasets/1/gaalaser_SMRD.txt)
+文件名：`gaalaser_SMRD.txt`，<a href="/files/datasets/1/gaalaser_SMRD.txt" download>点击下载</a>
 
 该数据集记录了在 80°C 高温条件下测试的 15 个 GaAs（砷化镓）激光器的运行电流随时间增加的百分比变化情况。每隔 250 小时测量一次运行电流的增加量，直至试验终止时间 4000 小时。所有激光器的性能退化过程如图1所示。当电流增加百分比达到 10%（即退化值为 10）时，则认为该器件失效。
 
@@ -17,7 +17,7 @@ author_profile: true
 
 ### 2. 碳膜电阻器退化数据
 
-文件名：`resistor_SMRD.txt`，[点击下载](/files/datasets/1/resistor_SMRD.txt)
+文件名：`resistor_SMRD.txt`，<a href="/files/datasets/1/resistor_SMRD.txt" download>点击下载</a>
 
 该数据集记录了 30 个碳膜电阻器在不同温度条件下电阻随时间的变化情况。试验首先记录了每个电阻器的初始电阻值，随后分别在 452 小时、1030 小时、4341 小时和 8084 小时时，以初始电阻值的百分比形式记录电阻增加情况。图2展示了碳膜电阻器的电阻增加百分比退化路径。该数据集可用于评估不同温度条件下碳膜电阻器的性能退化趋势，帮助研究人员分析温度对电阻器退化速率的影响。
 
