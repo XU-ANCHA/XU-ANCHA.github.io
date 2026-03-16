@@ -11,7 +11,7 @@ author_profile: true
 
 1. **Ancha Xu**, <u>Yihang</u> <u>Miu</u>, <u>Jiaxiang</u> <u>Sun</u>, Shirong Zhou, Yincai Tang. (2026+). "A hierarchical Bayesian multivariate Wiener process model with dependent degradation rates and volatilities." *IEEE Transactions on Reliability*. DOI: 10.1109/TR.2026.3674703 [mvw itr revised.pdf](https://github.com/user-attachments/files/25888211/mvw.itr.revised.pdf)
 
-1. Liangliang Zhuang, Yizhong Ma, Guanqi Fang, **Ancha Xu**. (2026+). "Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework." *IISE Transactions*. [IISE-two scale.pdf](https://github.com/user-attachments/files/25140849/IISE-two.scale.pdf)
+1. Liangliang Zhuang, Yizhong Ma, Guanqi Fang, **Ancha Xu**. (2026+). "Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework." *IISE Transactions*. DOI: 10.1080/24725854.2026.2631614 [IISE-two scale.pdf](https://github.com/user-attachments/files/25140849/IISE-two.scale.pdf)
 
 1. Liangliang Zhuang, Yizhong Ma, Jianjun Wang, Rong Pan, **Ancha Xu**. (2026+). "From statistical modeling to AI-integrated inverse Gaussian process: a comprehensive review for prognostics and health management." *Engineering Management*.[EM_IG.pdf](https://github.com/user-attachments/files/25143524/EM_IG.pdf)
 
