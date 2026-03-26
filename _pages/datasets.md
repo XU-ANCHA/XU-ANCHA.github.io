@@ -96,7 +96,7 @@ author_profile: true
 
 ### 2. 发光二极管（LED）数据（三）
 
-文件名：`Dynamic Environments_Tech LED_data.mat`，<a href="/files/datasets/2/Dynamic%20Environments_Tech%20LED_data.mat" download>点击下载</a>
+文件名：`Dynamic Environments_Tech.zip`，<a href="/files/datasets/2/Dynamic Environments_Tech.zip" download>点击下载</a>
 
 该数据集来源于 16 个基于中功率的改造型 LED 灯管的光通量输出测试。数据由两组在不同测试板下的测试结果构成，每组包含 8 个 LED。测试期间，收集每个 LED 的光通量衰减数据，光通量退化定义为当前光通量输出的降低值与初始光通量输出的比值。
 
@@ -132,7 +132,7 @@ author_profile: true
 
 ### 6. 重型机床退化数据
 
-文件名：`heavy-device-ITR.txt`，<a href="/files/datasets/2/heavy-device-ITR.txt" download>点击下载</a>
+文件名：`heavy_device_ITR`，<a href="/files/datasets/2/heavy_device_ITR.txt" download>点击下载</a>
 
 该数据集是一个多样本、多变量、非等比例采样的重型机床设备性能退化数据集，包含定位精度和输出功率两个性能退化指标，能够较好模拟工业现场中常见的个体差异性、测量随机噪声以及传感器数据缺失等复杂工况。
 
@@ -141,7 +141,7 @@ author_profile: true
 
 ### 7. 多种竞争失效模式的电子元器件数据
 
-文件名：`competingRisk-AMM.zip`，<a href="/files/datasets/2/competingRisk-AMM.zip" download>点击下载</a>
+文件名：`competingRisk_AMM.zip`，<a href="/files/datasets/2/competingRisk_AMM.zip" download>点击下载</a>
 
 该数据集由两部分组成：焊接界面断裂数据（灾难性失效或硬失效）和电/光信号亮度降低数据（退化失效或软失效）。数据均在相同测试条件下测得。退化数据定义为当前亮度与初始亮度之间的比率，当该比率降低至 60% 时，产品被认为失效。这两个失效过程相互竞争但彼此独立，适用于研究电子产品的竞争失效可靠性问题。
 
@@ -150,7 +150,7 @@ author_profile: true
 
 ### 8. 抗辐射测试退化数据
 
-文件名：`radiationTest-data`，<a href="/files/datasets/2/radiationTest-data" download>点击下载</a>
+文件名：`radiationTest_data.zip`，<a href="/files/datasets/2/radiationTest_data.zip" download>点击下载</a>
 
 该数据集来自 STM 生产的 N 沟道功率 MOSFET 器件 STRH60N20FSY3 的抗辐射实验数据。总试验样品为 24 个，并设置了对照组。试验过程中记录了样品在辐射、退火及后续老化阶段的电参数变化，可用于研究器件在辐射环境下的性能退化与可靠性评估问题。
 
@@ -164,13 +164,4 @@ author_profile: true
 该数据集来源于涂层材料退化研究，适用于分析具有多特征及协变量信息的退化过程。数据可用于建立一般路径模型，并研究多维退化特征随时间和环境因素变化的规律。
 
 > 数据出处：Lu, L., Wang, B., Hong, Y., & Ye, Z. (2021). General path models for degradation data with multiple characteristics and covariates. *Technometrics, 63*(3), 354-369.
-
-
-### 10. 金属膜电阻器退化数据
-
-文件名：`resistance_Tech.txt`，<a href="/files/datasets/2/resistance_Tech.txt" download>点击下载</a>
-
-该数据集来源于一项评估电阻器寿命信息的实验，其中记录了 200 个测试单元在不同条件下的相对电阻增益与初始电阻之比。
-
-> 数据出处：Peng, C. Y., & Cheng, Y. S. (2020). Student-t processes for degradation analysis. *Technometrics, 62*(2), 223-235.
 
