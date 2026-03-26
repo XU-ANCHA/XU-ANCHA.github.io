@@ -28,7 +28,7 @@ author_profile: true
 
 1. **Ancha Xu**, <u>Renbing</u> <u>Wang</u>, <u>Xinming</u> <u>Weng</u>, <u>Qi</u> <u>Wu</u>, <u>Liangliang</u> <u>Zhuang</u>. (2025). "Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction." *Applied Soft Computing*, 175, 113067. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.asoc.2025.113067)
 
-1. **Ancha Xu**, Guanqi Fang, <u>Liangliang</u> <u>Zhuang</u>, <u>Cheng</u> <u>Gu</u>. (2025). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, 57(9), 1071-1087. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1080/24725854.2024.2389538), [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
+1. **Ancha Xu**, Guanqi Fang, <u>Liangliang</u> <u>Zhuang</u>, <u>Cheng</u> <u>Gu</u>. (2025). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, 57(9), 1071-1087. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1080/24725854.2024.2389538), [![Code](https://img.shields.io/badge/code-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/liangliangzhuang/multi-student-t-code)
 
 1. **Ancha Xu**, Jinyang Wang, Yincai Tang, Piao Chen. (2025). "Efficient online estimation and remaining useful life prediction based on the inverse Gaussian process." *Naval Research Logistics*, 72(3), 319-336. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1002/nav.22226")
 
@@ -48,17 +48,17 @@ author_profile: true
 
 1. <u>Liming</u> <u>Zhang</u>, **Ancha Xu**, <u>Liuting</u> <u>An</u>, <u>Min</u> <u>Li</u>. (2022). "Bayesian inference of system reliability for multicomponent stress-strength model under Marshall-Olkin Weibull distribution." *Systems*, 10(6), 196. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.3390/systems10060196)
 
-1. Chunling Luo, Lijuan Shen, **Ancha Xu**. (2022). "Modelling and estimation of system reliability under dynamic operating environments and lifetime ordering constraints." *Reliability Engineering & System Safety*, 218, 108136. [<a href="https://doi.org/10.1016/j.ress.2021.108136">link</a>]
+1. Chunling Luo, Lijuan Shen, **Ancha Xu**. (2022). "Modelling and estimation of system reliability under dynamic operating environments and lifetime ordering constraints." *Reliability Engineering & System Safety*, 218, 108136. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.ress.2021.108136)
 
-1. <u>Shirong</u> <u>Zhou</u>, Yincai Tang, **Ancha Xu**. (2021). "A generalized Wiener process with dependent degradation rate and volatility and time-varying mean-to-variance ratio." *Reliability Engineering & System Safety*, 216, 107895. [<a href="https://doi.org/10.1016/j.ress.2021.107895">link</a>]
+1. <u>Shirong</u> <u>Zhou</u>, Yincai Tang, **Ancha Xu**. (2021). "A generalized Wiener process with dependent degradation rate and volatility and time-varying mean-to-variance ratio." *Reliability Engineering & System Safety*, 216, 107895. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.ress.2021.107895)
 
-1. **Ancha Xu**, <u>Huizi</u> <u>He</u>, <u>Bingpeng</u> <u>Yu</u>. (2021). "A class of generalized Birnbaum-Saunders distributions for reliability modeling." *Quality and Reliability Engineering International*, 37(5), 1772-1782. [<a href="https://doi.org/10.1002/qre.2826">link</a>]
+1. **Ancha Xu**, <u>Huizi</u> <u>He</u>, <u>Bingpeng</u> <u>Yu</u>. (2021). "A class of generalized Birnbaum-Saunders distributions for reliability modeling." *Quality and Reliability Engineering International*, 37(5), 1772-1782. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1002/qre.2826)
 
-1. Jiawen Hu, **Ancha Xu**, Bo Li, Haitao Liao. (2021). "Condition-based maintenance planning for multi-state systems under time-varying environmental conditions." *Computers & Industrial Engineering*, 158, 107380. [<a href="https://doi.org/10.1016/j.cie.2021.107380">link</a>]
+1. Jiawen Hu, **Ancha Xu**, Bo Li, Haitao Liao. (2021). "Condition-based maintenance planning for multi-state systems under time-varying environmental conditions." *Computers & Industrial Engineering*, 158, 107380. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.cie.2021.107380)
 
-1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Jihong Pang. (2021). "Product reliability analysis based on heavily censored interval data with batch effects." *Reliability Engineering & System Safety*, 212, 107622. [<a href="https://doi.org/10.1016/j.ress.2021.107622">link</a>]
+1. <u>Liangliang</u> <u>Zhuang</u>, **Ancha Xu**, Jihong Pang. (2021). "Product reliability analysis based on heavily censored interval data with batch effects." *Reliability Engineering & System Safety*, 212, 107622. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.ress.2021.107622)
 
-1. **Ancha Xu**, <u>Shirong</u> <u>Zhou</u>, Yincai Tang. (2021). "A unified model for system reliability evaluation under dynamic operating conditions." *IEEE Transactions on Reliability*, 70(1), 65-72. [<a href="https://doi.org/10.1109/TR.2019.2948173">link</a>]
+1. **Ancha Xu**, <u>Shirong</u> <u>Zhou</u>, Yincai Tang. (2021). "A unified model for system reliability evaluation under dynamic operating conditions." *IEEE Transactions on Reliability*, 70(1), 65-72. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1109/TR.2019.2948173)
 
 1. **Ancha Xu**, Jiawen Hu, Pingping Wang. (2020). "Degradation modeling with subpopulation heterogeneities based on the inverse Gaussian process." *Applied Mathematical Modelling*, 81, 177-193. [<a href="https://doi.org/10.1016/j.apm.2019.12.017">link</a>]
 
