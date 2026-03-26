@@ -5,10 +5,9 @@ permalink: /datasets/
 author_profile: true
 ---
 
+常用的退化数据与可靠性分析数据集，包含数据说明、数据出处与下载链接。详细介绍见推文： 第[(1)](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期，第[(2)](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ)期。
 
-常用的退化数据与可靠性分析数据集，包含数据说明、数据出处与下载链接。详细介绍见推文： 第 [(1)](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg) 期，第 [(2)](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ) 期。
-
-## 第一期
+## 第[一](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期
 
 ### 1. 激光退化数据
 
@@ -83,7 +82,7 @@ author_profile: true
 > 数据出处：Peng, C. Y., & Cheng, Y. S. (2020). Student-t processes for degradation analysis. *Technometrics, 62*(2), 223-235.
 
 
-## 第二期
+## 第[二](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ)期
 
 
 ### 1. 发光二极管（LED）数据（二）
