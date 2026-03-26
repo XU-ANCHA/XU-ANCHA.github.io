@@ -26,7 +26,7 @@ author_profile: true
 
 1. Shirong Zhou, Yincai Tang, **Ancha Xu**, Xinze Lian, Chunling Luo. (2026). "Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model." *Reliability Engineering & System Safety*, 265, 111461. [<a href="https://doi.org/10.1016/j.ress.2025.111461">link</a>]
 
-1. **Ancha Xu**, <u>Renbing</u> <u>Wang</u>, <u>Xinming</u> <u>Weng</u>, <u>Qi</u> <u>Wu</u>, <u>Liangliang</u> <u>Zhuang</u>. (2025). "Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction." *Applied Soft Computing*, 175, 113067. [<a href="https://doi.org/10.1016/j.asoc.2025.113067">link</a>]
+1. **Ancha Xu**, <u>Renbing</u> <u>Wang</u>, <u>Xinming</u> <u>Weng</u>, <u>Qi</u> <u>Wu</u>, <u>Liangliang</u> <u>Zhuang</u>. (2025). "Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction." *Applied Soft Computing*, 175, 113067. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.asoc.2025.113067)
 
 1. **Ancha Xu**, Guanqi Fang, <u>Liangliang</u> <u>Zhuang</u>, <u>Cheng</u> <u>Gu</u>. (2025). "A multivariate student-t process model for dependent tail-weighted degradation data." *IISE Transactions*, 57(9), 1071-1087. [<a href="https://doi.org/10.1080/24725854.2024.2389538">link</a>], [<a href="https://github.com/liangliangzhuang/multi-student-t-code">code</a>]
 
