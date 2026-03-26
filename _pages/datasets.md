@@ -161,7 +161,9 @@ author_profile: true
 
 文件名：`Lulu_Tech.zip`，<a href="/files/datasets/2/Lulu_Tech.zip" download>点击下载</a>
 
-该数据集来源于涂层材料退化研究，适用于分析具有多特征及协变量信息的退化过程。数据可用于建立一般路径模型，并研究多维退化特征随时间和环境因素变化的规律。
+
+该数据集来源于 NIST 开展的聚合物涂层光降解加速试验，用于研究涂层材料在紫外辐射及环境因素共同作用下的退化行为。试验共包含 48 个涂层试样，在不同紫外条件、温度和相对湿度组合下进行暴露测试，其中温度设置为 25°C、35°C 和 45°C，相对湿度设置为 0%、25% 和 50%。试验过程中，研究者利用傅里叶变换红外光谱（FTIR）对样品进行重复测量，并跟踪 1250 cm⁻¹、1510 cm⁻¹ 和 2925 cm⁻¹ 三个波数位置对应的退化特征，以刻画材料在最长 300 天内的多特征退化过程。
+
 
 > 数据出处：Lu, L., Wang, B., Hong, Y., & Ye, Z. (2021). General path models for degradation data with multiple characteristics and covariates. *Technometrics, 63*(3), 354-369.
 
