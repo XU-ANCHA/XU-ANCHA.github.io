@@ -9,11 +9,14 @@ author_profile: true
 
 ## 期刊论文 (<u>下划线代表学生</u>)
 
-1. **Ancha Xu**, <u>Yihang</u> <u>Miu</u>, <u>Jiaxiang</u> <u>Sun</u>, Shirong Zhou, Yincai Tang. (2026+). "A hierarchical Bayesian multivariate Wiener process model with dependent degradation rates and volatilities." *IEEE Transactions on Reliability*. DOI: 10.1109/TR.2026.3674703 [[PDF](https://github.com/user-attachments/files/25888211/mvw.itr.revised.pdf)]
+1. **Ancha Xu**, <u>Yihang</u> <u>Miu</u>, <u>Jiaxiang</u> <u>Sun</u>, Shirong Zhou, Yincai Tang. (2026+). "A hierarchical Bayesian multivariate Wiener process model with dependent degradation rates and volatilities." *IEEE Transactions on Reliability*. DOI: 10.1109/TR.2026.3674703 [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25888211/mvw.itr.revised.pdf)
 
-1. Liangliang Zhuang, Yizhong Ma, Guanqi Fang, **Ancha Xu**. (2026+). "Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework." *IISE Transactions*. DOI: 10.1080/24725854.2026.2631614 [[PDF](https://github.com/user-attachments/files/25140849/IISE-two.scale.pdf)]
 
-1. Liangliang Zhuang, Yizhong Ma, Jianjun Wang, Rong Pan, **Ancha Xu**. (2026+). "From statistical modeling to AI-integrated inverse Gaussian process: a comprehensive review for prognostics and health management." *Engineering Management*.[[PDF](https://github.com/user-attachments/files/25143524/EM_IG.pdf)]
+、、
+
+1. Liangliang Zhuang, Yizhong Ma, Guanqi Fang, **Ancha Xu**. (2026+). "Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework." *IISE Transactions*. DOI: 10.1080/24725854.2026.2631614 [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25140849/IISE-two.scale.pdf)
+
+1. Liangliang Zhuang, Yizhong Ma, Jianjun Wang, Rong Pan, **Ancha Xu**. (2026+). "From statistical modeling to AI-integrated inverse Gaussian process: a comprehensive review for prognostics and health management." *Engineering Management*.[![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25143524/EM_IG.pdf)
 
 1. **Ancha Xu**, <u>Jiahui</u> <u>Liu</u>, <u>Lijia</u> <u>Liu</u>, <u>Mengting</u> <u>Zhong</u>, Weiwei Wang. (2026+). "Joint modeling accelerated life tests and field data for reliability prediction." *Statistical Theory and Related Fields*. 
 
