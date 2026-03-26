@@ -5,12 +5,6 @@ permalink: /datasets/
 author_profile: true
 ---
 
----
-layout: archive
-title: "数据集"
-permalink: /datasets/
-author_profile: true
----
 
 常用的退化数据与可靠性分析数据集，包含数据说明、数据出处与下载链接。详细介绍见推文： 第 [(1)](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg) 期，第 [(2)](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ) 期。
 
