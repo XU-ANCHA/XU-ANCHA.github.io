@@ -165,7 +165,7 @@ How differences in rice texture and oral physiology affect sensory preference an
 
 1. Qiang Guan, Yincai Tang, **Ancha Xu**. (2019). "Reference Bayesian analysis of inverse Gaussian degradation process." *Applied Mathematical Modelling*, 74, 496-511. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.apm.2019.05.013)
 
-1. Yincai Tang, Wenchen Liu, **Ancha Xu**. (2017). "Statistical inference for zero-and-one-inflated Poisson models." *Statistical Theory and Related Fields*, 1(2), 216-226. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1007/s00362-019-01118-7)
+1. Yincai Tang, Wenchen Liu, **Ancha Xu**. (2017). "Statistical inference for zero-and-one-inflated Poisson models." *Statistical Theory and Related Fields*, 1(2), 216-226. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://www.tandfonline.com/doi/full/10.1080/24754269.2017.1400419)
 
 
 
