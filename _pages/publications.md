@@ -20,7 +20,7 @@ author_profile: true
 1. **Ancha Xu**, <u>Juan</u> <u>Wang</u>, <u>Di</u> <u>Zhu</u>, <u>Zhen</u> <u>Chen</u>, Yijun Wang. (2026+). "A robust Bayesian framework for degradation state identification in the presence of outliers." *Naval Research Logistics*. DOI: 10.1002/nav.70033  [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/23769901/2025-NRL.pdf)
 
 1. <u>Hong</u> <u>Yin</u>, Yijun Wang, **Ancha Xu**. (2026). "Kernel-based marginal testing for covariate effects in high-dimensional settings." *Scandinavian Journal of Statistics*, 53(1), 498–531.
-    [<a href="https://doi.org/10.1111/sjos.70049">link</a>]
+[![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1111/sjos.70049)
 
 1. **Ancha Xu**, Weiwei Wang. (2026). "Recursive Bayesian prediction of remaining useful life for gamma degradation process under conjugate priors." *Scandinavian Journal of Statistics*, 53(1), 175-206. [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/23430360/sjos70031.pdf)
 
