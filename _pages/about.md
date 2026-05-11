@@ -7,33 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="home-hero">
-
-## 可靠性统计与退化数据分析
-
-围绕退化数据建模、贝叶斯可靠性评估、寿命数据分析与工业可靠性应用，开展统计理论、计算方法与工程实践研究。
-
-<div class="research-grid">
-  <div class="feature-card">
-    <strong>退化数据分析</strong>
-    <p>面向产品性能退化、寿命预测与可靠性评估的统计建模方法。</p>
-  </div>
-  <div class="feature-card">
-    <strong>贝叶斯可靠性</strong>
-    <p>聚焦小样本、高可靠性产品与在线更新场景下的贝叶斯推断。</p>
-  </div>
-  <div class="feature-card">
-    <strong>数据资源建设</strong>
-    <p>整理退化数据、电池数据、破坏性退化数据等开放资源。</p>
-  </div>
-  <div class="feature-card">
-    <strong>科研与工程应用</strong>
-    <p>服务工业产品可靠性评估、试验设计、剩余寿命预测与健康管理。</p>
-  </div>
-</div>
-
-</div>
-
 徐安察，浙江工商大学统计学教授，博士生导师。研究方向包括: 退化数据分析与建模、贝叶斯在线学习、客观贝叶斯方法、寿命数据分析。迄今以第一作者或通讯作者在Naval Research Logistics、Scandinavian Journal of Statistics、Journal of Quality Technology、European Journal of Operational Research、IEEE Transactions on Reliability、IISE Transactions等国际可靠性及统计主流杂志上发表SCI论文60余篇，其中ESI高被引论文6篇。已主持国家自然科学基金以及省部级项目十余项。获浙江省自然科学奖、福建省自然科学奖、第一届全国统计科学技术进步奖等。入选浙江省高校“院士专家结对培养青年英才计划”、浙江省高层次人才特殊支持计划教育青年人才。目前担任中国运筹学会可靠性分会副理事长、中国现场统计研究会可靠性工程分会常务理事、中国现场统计研究会大数据统计分会常务理事、国内统计英文期刊《Statistical Theory and Related Fields》Associate Editor、国内学术期刊《工业工程》青年编委。
 
 ## 教育背景及经历 
