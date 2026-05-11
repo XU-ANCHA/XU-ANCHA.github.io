@@ -167,3 +167,62 @@ author_profile: true
 
 > 数据出处: Lu, L., Wang, B., Hong, Y., & Ye, Z. (2021). General path models for degradation data with multiple characteristics and covariates. *Technometrics, 63*(3), 354-369.
 
+
+## 第[四](https://mp.weixin.qq.com/s/JnJayk8Smui8pu9loW7KJA)期：破坏性退化数据
+
+### 1. 粘合剂 A 破坏性退化数据
+
+文件名: `AdhesiveBondA.csv` <a href="/files/datasets/4/AdhesiveBondA.csv" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
+
+该数据集来自对一种粘合剂 A 的现场服役性能评估。研究人员从已部署 5 至 15 年之间的系统中，按 11 个不同服役年龄组各随机抽取 3 个样品，共获得 33 个破坏性强度测量值。基于这些实测数据，管理方希望估计该粘合剂在服役 20 年及 30 年后强度低于 40 牛顿，即发生失效的样品比例，从而判断其是否满足可靠性要求，并为寿命延长决策提供依据。
+
+> 数据出处: Meeker, W. Q., Escobar, L. A., & Pascual, F. G. (2021). *Statistical methods for reliability data*. John Wiley & Sons.
+
+### 2. 粘合剂 B 加速破坏性退化数据
+
+文件名: `AdhesiveBondB.csv` <a href="/files/datasets/4/AdhesiveBondB.csv" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
+
+该数据集展示的是粘合剂随时间变化的加速破坏性强度数据，用于估计在室温条件下使用 260 周后，强度低于 40 牛顿的产品比例。数据集是在三种不同温度条件下进行破坏性试验得到的退化观测，每个试验单元只能记录一次强度值。试验开始时，研究人员首先测量了 8 个未发生退化的基准单元的强度，随后对另外 80 个样品进行了加速退化试验。
+
+> 数据出处: Meeker, W. Q., Escobar, L. A., & Pascual, F. G. (2021). *Statistical methods for reliability data*. John Wiley & Sons.
+
+### 3. 粘合剂 Formulation K 破坏性退化数据
+
+文件名: `AdhesiveFomulationK.csv` <a href="/files/datasets/4/AdhesiveFomulationK.csv" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
+
+该数据集来自对某种新型粘合剂配方，即 Adhesive Formulation K 的加速破坏性退化试验。数据记录了 120 个样本在三个温度水平下，分别于试验 0、3、6、12、18 和 24 周后进行破坏性测量得到的粘合强度，单位为牛顿。该数据可用于评估粘合强度随时间衰减的趋势，并预测常温条件下使用 2 年和 5 年后强度低于 45 牛顿的样本比例。
+
+> 数据出处: Meeker, W. Q., Escobar, L. A., & Pascual, F. G. (2021). *Statistical methods for reliability data*. John Wiley & Sons.
+
+### 4. 绝缘材料介电强度破坏性退化数据
+
+文件名: `InsulationBreakdown.csv` <a href="/files/datasets/4/InsulationBreakdown.csv" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
+
+该数据集展示的是绝缘材料介电强度的加速破坏性退化试验数据。试验在四种不同温度条件下进行，每个温度水平下分别放入 32 个样本。随后在 1、2、4、8、16、32、48 和 64 周时，从每个反应室中取出 4 个样品进行破坏性测量。介电强度通过在短时间内线性增加电压来测量，直到样品发生击穿，此时记录击穿电压，单位为千伏。该绝缘材料设计要求是在正常工作条件下具有 2 kV 的击穿电压。
+
+> 数据出处: Meeker, W. Q., Escobar, L. A., & Pascual, F. G. (2021). *Statistical methods for reliability data*. John Wiley & Sons.
+
+### 5. 污染物浓度破坏性降解数据
+
+文件名: `Tech_Sun_MDDT.zip` <a href="/files/datasets/4/Tech_Sun_MDDT.zip" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
+
+该数据集来自一项关于三种新兴污染物 Saccharin、Acesulfame 和 pCBA 的破坏性降解测试。实验共使用 2 个测试台，每个测试台在 7 个预设时间点，即 0.15 至 1.05，各取出 3 个测试单元。每个测试单元是一管含有三种污染物的溶液，因此总样本量为 126。研究人员测量每种污染物的残留浓度，并通过对数变换得到降解量。基于该数据，可估计降解速率、相关性及区组效应参数，进而用于污染物环境风险评估和水处理时间决策。
+
+> 数据出处: Sun, Q., Ye, Z. S., & Hong, Y. (2020). Statistical modeling of multivariate destructive degradation tests with blocking. *Technometrics, 62*(4), 536-548.
+
+### 6. 电路枝晶尺寸破坏性退化数据
+
+文件名: `Dendrite_size_data.txt` <a href="/files/datasets/4/Dendrite_size_data.txt" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
+
+该数据集来源于密封电路中枝晶尺寸的破坏性退化试验。其中，枝晶尺寸定义为树枝状晶体长度占两个导体间距的百分比。失效分析表明，当枝晶在两个平行铜导体之间持续生长并最终导致短路时，电路发生失效。因此，该类数据可以视为导致失效的退化过程的直接物理测量结果。为了估计电路失效时间分布，试验选取了不同寿命阶段的电路样本，并对每个电路中最大枝晶的尺寸进行测量。在部分电路中，未观察到枝晶生长，因此其观测尺寸记为零。
+
+> 数据出处: Nelson, W. B. (2009). Defect initiation, growth, and failure—a general statistical model and data analyses. In *Advances in Degradation Modeling: Applications to Reliability, Survival Analysis, and Finance* (pp. 27-37). Boston, MA: Birkhäuser Boston.
+
+
+
+
+
+
+
+
+
