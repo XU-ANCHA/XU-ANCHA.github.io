@@ -9,7 +9,7 @@
 - 报告：[talks.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/talks.md)
 - 教学：[teaching.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/teaching.md)
 - 新闻：[year-archive.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/year-archive.md)
-- 数据集[datasets.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/datasets.md)
+- 数据集：[datasets.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/datasets.md)
 - 简历：[cv.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/cv.md)
 
 图片存储地址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/images
