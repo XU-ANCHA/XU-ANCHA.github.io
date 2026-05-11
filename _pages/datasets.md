@@ -7,6 +7,25 @@ author_profile: true
 
 常用的退化数据与可靠性分析数据集，包含数据说明、数据出处与下载链接。详细介绍见推文： 第[(1)](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期，第[(2)](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ)期，第[(3)](https://mp.weixin.qq.com/s/fW5x7B6RgHkv_y0z_BE4Rg)期，第[(4)](https://mp.weixin.qq.com/s/JnJayk8Smui8pu9loW7KJA)期。
 
+<div class="dataset-grid">
+  <div class="dataset-card">
+    <strong>第一期：经典退化数据</strong>
+    <p>包含激光器、电阻器、车轮、LED、金属裂纹等常用退化数据。</p>
+  </div>
+  <div class="dataset-card">
+    <strong>第二期：多场景工业退化数据</strong>
+    <p>覆盖 MOSFET、OLED、应力松弛、竞争失效、涂层退化等数据。</p>
+  </div>
+  <div class="dataset-card">
+    <strong>第三期：电池数据</strong>
+    <p>整理新能源汽车、NASA、MIT-Stanford-Toyota、XJTU、CALCE 等电池数据集。</p>
+  </div>
+  <div class="dataset-card">
+    <strong>第四期：破坏性退化数据</strong>
+    <p>聚焦粘合剂、绝缘材料、污染物浓度、电路枝晶等破坏性退化数据。</p>
+  </div>
+</div>
+
 ## 第[一](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期
 
 ### 1. 激光退化数据
