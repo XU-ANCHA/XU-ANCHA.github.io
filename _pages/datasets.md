@@ -12,25 +12,21 @@ author_profile: true
   <a class="dataset-overview-card" href="#phase-1">
     <span class="dataset-overview-card__tag">第一期</span>
     <strong>经典退化数据</strong>
-    <p>包含激光器、电阻器、车轮、LED、金属裂纹等常用退化数据。</p>
   </a>
 
   <a class="dataset-overview-card" href="#phase-2">
     <span class="dataset-overview-card__tag">第二期</span>
     <strong>多场景工业退化数据</strong>
-    <p>覆盖 MOSFET、OLED、应力松弛、竞争失效、涂层退化等数据。</p>
   </a>
 
   <a class="dataset-overview-card" href="#phase-3">
     <span class="dataset-overview-card__tag">第三期</span>
     <strong>电池数据</strong>
-    <p>整理新能源汽车、NASA、MIT-Stanford-Toyota、XJTU、CALCE 等电池数据集。</p>
   </a>
 
   <a class="dataset-overview-card" href="#phase-4">
     <span class="dataset-overview-card__tag">第四期</span>
     <strong>破坏性退化数据</strong>
-    <p>聚焦粘合剂、绝缘材料、污染物浓度、电路枝晶等破坏性退化数据。</p>
   </a>
 
 </div>
