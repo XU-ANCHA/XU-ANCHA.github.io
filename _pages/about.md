@@ -47,6 +47,21 @@ Research Fellow, 新加坡国立大学
 
 ## 专著
 
+<div class="book-card">
+
+<div class="book-card__info">
+
+**徐安察**, 汤银才, 庄亮亮. *随机退化过程与统计建模*. 科学出版社, 北京, 2025年12月.  
+<span class="meta-pill">入选统计与数据科学丛书</span>
+
+</div>
+
+<div class="book-card__cover">
+<img src="https://github.com/user-attachments/assets/370208e5-288e-4d7f-aeba-cea1fa096e2e" alt="随机退化过程与统计建模书封面">
+</div>
+
+</div>
+
 1. **徐安察**, 汤银才, 庄亮亮. *随机退化过程与统计建模*. 科学出版社, 北京, 2025年12月. (入选统计与数据科学丛书)
 
 <div align="center">
