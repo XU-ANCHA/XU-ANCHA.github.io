@@ -49,25 +49,32 @@ Research Fellow, 新加坡国立大学
 
 <div class="book-card">
 
-<div class="book-card__info">
+  <div class="book-card__info">
+    <div class="book-card__label">专著</div>
+    <h3 class="book-card__title">随机退化过程与统计建模</h3>
+    <p class="book-card__authors">
+      <strong>徐安察</strong>，汤银才，庄亮亮 著
+    </p>
+    <p class="book-card__meta">
+      科学出版社，北京，2025年12月
+    </p>
+    <span class="meta-pill">入选统计与数据科学丛书</span>
+  </div>
 
-**徐安察**, 汤银才, 庄亮亮. *随机退化过程与统计建模*. 科学出版社, 北京, 2025年12月.  
-<span class="meta-pill">入选统计与数据科学丛书</span>
+  <div class="book-card__cover">
+    <img src="https://github.com/user-attachments/assets/370208e5-288e-4d7f-aeba-cea1fa096e2e" alt="随机退化过程与统计建模书封面">
+  </div>
 
 </div>
 
-<div class="book-card__cover">
-<img src="https://github.com/user-attachments/assets/370208e5-288e-4d7f-aeba-cea1fa096e2e" alt="随机退化过程与统计建模书封面">
-</div>
-
-</div>
-
+<!--
 1. **徐安察**, 汤银才, 庄亮亮. *随机退化过程与统计建模*. 科学出版社, 北京, 2025年12月. (入选统计与数据科学丛书)
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/370208e5-288e-4d7f-aeba-cea1fa096e2e" width="240" />
 </div>
-   
+
+-->
 ## 获奖
 
 1. 可靠性评估的小样本理论与方法，2023年度浙江省自然科学奖三等奖，完成人: **徐安察**、陈飘、王炳兴、汤银才
@@ -187,6 +194,24 @@ Research Fellow, 新加坡国立大学
 
 1. 中国现场统计研究会大数据统计分会**常务理事**，2024-2028
 
+
+<div class="social-card-grid">
+
+<div class="social-card">
+  <h3>课题组微信公众号</h3>
+  <p>可靠性统计</p>
+  <img src="https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b" alt="可靠性统计微信公众号二维码">
+</div>
+
+<div class="social-card">
+  <h3>课题组小红书账号</h3>
+  <p>可靠性统计</p>
+  <img src="https://github.com/user-attachments/assets/20089de1-446f-4f69-9a4d-bf8f5eb52c39" alt="可靠性统计小红书二维码">
+</div>
+
+</div>
+
+<!--
 ### 课题组微信公众号: 可靠性统计
 
 <img src="https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b" width="200" />
@@ -194,7 +219,7 @@ Research Fellow, 新加坡国立大学
 ### 课题组小红书账号: 可靠性统计
 
 <img src="https://github.com/user-attachments/assets/20089de1-446f-4f69-9a4d-bf8f5eb52c39" width="180" />
-
+-->
 
 > **招生要求:** 具有较好的数学推导能力或计算机编程能力(熟练R语言、Python)，请有意攻读硕士或博士学位者，将个人简历和成绩单发送至我的邮箱 <xuancha@mail.zjgsu.edu.cn>。
 
