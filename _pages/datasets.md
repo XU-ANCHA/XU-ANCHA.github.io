@@ -5,7 +5,11 @@ permalink: /datasets/
 author_profile: true
 ---
 
-常用的退化数据与可靠性分析数据集，包含数据说明、数据出处与下载链接。详细介绍见推文： 第[(1)](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期，第[(2)](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ)期，第[(3)](https://mp.weixin.qq.com/s/fW5x7B6RgHkv_y0z_BE4Rg)期，第[(4)](https://mp.weixin.qq.com/s/JnJayk8Smui8pu9loW7KJA)期。
+常用的退化数据与可靠性分析数据集，包含数据说明、数据出处与下载链接。详细介绍见推文： 
+
+<!--
+第[(1)](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期，第[(2)](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ)期，第[(3)](https://mp.weixin.qq.com/s/fW5x7B6RgHkv_y0z_BE4Rg)期，第[(4)](https://mp.weixin.qq.com/s/JnJayk8Smui8pu9loW7KJA)期。
+-->
 
 <div class="dataset-overview-grid">
 
