@@ -89,3 +89,44 @@
     grid-template-columns: 1fr;
   }
 }
+
+
+.book-card__label {
+
+  margin-bottom: 0.5rem;
+
+  color: #6b7890;
+
+  font-size: 0.85rem;
+
+  letter-spacing: 0.08em;
+
+}
+
+.book-card__title {
+
+  margin: 0 0 0.75rem !important;
+
+  color: #1f2d44;
+
+  font-size: 1.35rem;
+
+  border-bottom: 0 !important;
+
+}
+
+.book-card__authors {
+
+  margin-bottom: 0.4rem;
+
+  font-size: 1rem;
+
+}
+
+.book-card__meta {
+
+  margin-bottom: 0.8rem;
+
+  color: #56657a;
+
+}
