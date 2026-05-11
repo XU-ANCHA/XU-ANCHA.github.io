@@ -5,7 +5,7 @@ permalink: /datasets/
 author_profile: true
 ---
 
-常用的退化数据与可靠性分析数据集，包含数据说明、数据出处与下载链接。详细介绍见推文： 第[(1)](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期，第[(2)](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ)期。
+常用的退化数据与可靠性分析数据集，包含数据说明、数据出处与下载链接。详细介绍见推文： 第[(1)](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期，第[(2)](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ)期，第[(3)](https://mp.weixin.qq.com/s/fW5x7B6RgHkv_y0z_BE4Rg)期，第[(4)](https://mp.weixin.qq.com/s/JnJayk8Smui8pu9loW7KJA)期。
 
 ## 第[一](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期
 
@@ -166,6 +166,90 @@ author_profile: true
 
 
 > 数据出处: Lu, L., Wang, B., Hong, Y., & Ye, Z. (2021). General path models for degradation data with multiple characteristics and covariates. *Technometrics, 63*(3), 354-369.
+
+
+## 第[三](https://mp.weixin.qq.com/s/fW5x7B6RgHkv_y0z_BE4Rg)期：电池数据
+
+### 1. 新能源汽车大规模锂离子电池数据
+
+该数据由智能汽车安全技术全国重点实验室（State Key Laboratory of Intelligent Vehicle Safety Technology, IVST）发布。数据来源于运营车辆，共计 300 辆，车辆里程范围为 0 至 50 万公里，运行周期范围为 0.5 至 4 年，涵盖车辆充电、放电、静置等所有行车工况信息。
+
+> 数据出处: Liu, H., Li, C., Hu, X., et al. (2025). Multi-modal framework for battery state of health evaluation using open-source electric vehicle data. *Nature Communications, 16*(1), 1137.
+
+数据集链接: [http://ivstskl.changan.com.cn/?p=2697](http://ivstskl.changan.com.cn/?p=2697)
+
+### 2. Nature Communications 公开锂离子电池 EIS 数据
+
+该数据集由电化学阻抗谱（Electrochemical Impedance Spectroscopy, EIS）方法测量得到，包含在不同健康状态、荷电状态和温度下采集的 20,000 多个商用锂离子电池 EIS 谱。EIS 是一种实时、非侵入性且信息丰富的测量方法，能够通过测量电池对电压扰动的电流响应，获得宽频率范围内的阻抗信息。相比常规电流-电压数据，EIS 包含材料属性、界面现象和电化学反应等丰富信息，与电池内部退化机制密切相关，可用于跟踪电池状态。目前，针对该数据集的研究主要聚焦于利用 EIS 谱预测剩余使用寿命（RUL）及健康状态（SOH）。
+
+> 数据出处: Zhang, Y., Tang, Q., Zhang, Y., et al. (2020). Identifying degradation patterns of lithium ion batteries from impedance spectroscopy using machine learning. *Nature Communications, 11*(1), 1706.
+
+数据集链接: [https://zenodo.org/records/363383](https://zenodo.org/records/363383)
+
+### 3. 西安交通大学（XJTU）电池数据集
+
+该数据集包含 55 块镍钴锰（NCM）锂离子电池。所有电池均在室温环境下，按照常规固定倍率充放电、变周期随机放电、随机行走放电，以及地球同步轨道卫星（GEO）工况充放电等策略循环至失效。数据集共包含 6 种充放电协议，批次 1 至批次 6 分别对应上述不同充放电协议。
+
+> 数据出处: Wang, F., Zhai, Z., Zhao, Z., et al. (2024). Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis. *Nature Communications, 15*(1), 4332.
+
+数据集链接: [https://zenodo.org/records/10963339](https://zenodo.org/records/10963339)
+
+### 4. 麻省理工-斯坦福-丰田研究中心电池数据集
+
+该数据集由麻省理工-斯坦福-丰田研究中心发布，包含 124 个商用锂离子电池，这些电池均在快速充电条件下循环至失效。电池为磷酸铁锂（LFP）/石墨体系，由 A123 Systems 公司生产，型号为 APR18650M1A。实验在设定为 30°C 的强制对流恒温箱内进行，使用 48 通道 Arbin LBT 电化学工作站对水平放置的圆柱形电池进行循环测试。每个电芯的额定容量为 1.1 Ah，额定电压为 3.3 V。整个数据集被划分为三个批次，每个批次包含约 48 个电芯。不同批次之间存在部分实验细节差异，具体说明可参见各批次的独立说明页面。
+
+> 数据出处: Severson, K. A., Attia, P. M., Jin, N., et al. (2019). Data-driven prediction of battery cycle life before capacity degradation. *Nature Energy, 4*(5), 383-391.
+
+数据集链接: [https://data.matr.io/1/projects/5c48dd2bc625d700019f3204](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
+
+### 5. Nature 公开快速充电电池数据集
+
+该数据集来源于锂离子磷酸盐（LFP）/石墨电池快速充电实验。研究人员采用不同充电方案对电池进行充电，但使用相同方案进行放电。放电方案为：以 4C 倍率进行恒流-恒压（CC-CV）放电至 2.0 V，截止电流为 C/50。电池采用固定的 10 分钟充电方案，充电电流倍率范围为 3C 至 8C，充电至 80% 荷电状态（SOC）后，再以 1C 倍率进行恒流-恒压充电至 3.6 V，充电截止电流为 C/50。数据集分为 5 个批次，每个批次约包含 48 个电芯。前四批电芯循环 100 至 120 次，最终批次中的电芯被循环至失效，即容量退化至初始容量的 80%。
+
+> 数据出处: Attia, P. M., Grover, A., Jin, N., et al. (2020). Closed-loop optimization of fast-charging protocols for batteries with machine learning. *Nature, 578*(7795), 397-402.
+
+数据集链接: [https://data.matr.io/1/projects/5d80e633f405260001c0b60a](https://data.matr.io/1/projects/5d80e633f405260001c0b60a)
+
+### 6. NASA 锂电池退化数据
+
+该数据集来自 NASA Ames 预后卓越中心（Prognostics Center of Excellence, PCoE）定制电池预报测试平台。锂离子电池在不同温度下通过三种工作模式进行测试，包括充电、放电和电化学阻抗谱测试。放电在不同电流负载水平下进行，直到电池电压降至预设电压阈值。其中部分阈值低于原厂推荐的 2.7 V，以诱发深度放电老化效应。反复充放电循环会导致电池加速老化。当电池达到寿命终止标准，即额定容量衰减 30%（从 2 Ah 降至 1.4 Ah）时，实验终止。
+
+> 数据出处: Saha, B., & Goebel, K. (2007). Battery data set. *NASA Ames Prognostics Data Repository*.
+
+数据集链接: [https://c3.nasa.gov/dashlink/resources/133/](https://c3.nasa.gov/dashlink/resources/133/)
+
+### 7. 马里兰大学 CALCE 电池退化数据
+
+该数据集由马里兰大学 CALCE 电池团队提供，是开放访问的锂离子电池实验测试数据。数据包含 144 块具有三种不同 SOC 水平，即 0% SOC、50% SOC 和 100% SOC 的锂离子电池，这些电池在四种不同温度条件下，即 -40°C、-5°C、25°C 和 50°C，开展储能寿命测试。测试内容包括连续全循环和部分循环、储存、动态驱动曲线、开路电压测量和阻抗测量。电池形制包括圆柱形、袋状和棱柱形，化学体系包括 LCO、LFP 和 NMC。该数据可用于电池状态估计、剩余使用寿命预测、加速退化建模和可靠性分析。
+
+> 数据出处: Pecht, M., & CALCE Battery Group, University of Maryland. (2017). *CALCE battery data*.
+
+数据集链接: [https://calce.umd.edu/data](https://calce.umd.edu/data)
+
+### 8. 同济大学电池数据集
+
+该数据集包含 130 块商用锂离子电池，分别为 NCA 电池、NCM 电池以及 NCM+NCA 混合型电池三类。研究人员在不同工况条件下开展循环测试，该数据可用于验证与评估电池容量估计方法。
+
+> 数据出处: Zhu, J., Wang, Y., Huang, Y., et al. (2022). Data-driven capacity estimation of commercial lithium-ion batteries from voltage relaxation. *Nature Communications, 13*(1), 2261.
+
+数据集链接: [https://zenodo.org/records/6405084](https://zenodo.org/records/6405084)
+
+### 9. 华中科技大学电池数据集
+
+该数据集包含 77 个 LFP/石墨电池，额定容量为 1.1 Ah，额定电压为 3.3 V。实验中，电池采用相同的充电协议，但采用不同的多级放电协议，测试温度恒定为 30°C。
+
+> 数据出处: Ma, G., Xu, S., Jiang, B., et al. (2022). Real-time personalized health status prediction of lithium-ion batteries using deep transfer learning. *Energy & Environmental Science, 15*(10), 4083-4094.
+
+数据集链接: [https://data.mendeley.com/datasets/nsc7hnsg4s/2](https://data.mendeley.com/datasets/nsc7hnsg4s/2)
+
+### 10. RWTH 电池数据集
+
+该数据集包含对 48 个 Sanyo/Panasonic UR18650E 圆柱形锂离子电池单元进行循环老化测试的时间序列数据，包括时间、电流、电压和温度等信息。实验中，48 个同型号电芯在相同条件下进行老化测试。老化前，研究人员通过寿命初始测试（Beginning-of-Life, BOL）确定初始性能；在老化过程中，定期开展参考性能测试（Reference Performance Test, RPT），以确定当前电池性能。
+
+> 数据出处: Li, W., Sengupta, N., Dechent, P., et al. (2021). One-shot battery degradation trajectory prediction with deep learning. *Journal of Power Sources, 506*, 230024.
+
+数据集链接: [https://publications.rwth-aachen.de/record/820366](https://publications.rwth-aachen.de/record/820366)
+
 
 
 ## 第[四](https://mp.weixin.qq.com/s/JnJayk8Smui8pu9loW7KJA)期：破坏性退化数据
