@@ -7,26 +7,35 @@ author_profile: true
 
 常用的退化数据与可靠性分析数据集，包含数据说明、数据出处与下载链接。详细介绍见推文： 第[(1)](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期，第[(2)](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ)期，第[(3)](https://mp.weixin.qq.com/s/fW5x7B6RgHkv_y0z_BE4Rg)期，第[(4)](https://mp.weixin.qq.com/s/JnJayk8Smui8pu9loW7KJA)期。
 
-<div class="dataset-grid">
-  <div class="dataset-card">
-    <strong>第一期：经典退化数据</strong>
+<div class="dataset-overview-grid">
+
+  <a class="dataset-overview-card" href="#phase-1">
+    <span class="dataset-overview-card__tag">第一期</span>
+    <strong>经典退化数据</strong>
     <p>包含激光器、电阻器、车轮、LED、金属裂纹等常用退化数据。</p>
-  </div>
-  <div class="dataset-card">
-    <strong>第二期：多场景工业退化数据</strong>
+  </a>
+
+  <a class="dataset-overview-card" href="#phase-2">
+    <span class="dataset-overview-card__tag">第二期</span>
+    <strong>多场景工业退化数据</strong>
     <p>覆盖 MOSFET、OLED、应力松弛、竞争失效、涂层退化等数据。</p>
-  </div>
-  <div class="dataset-card">
-    <strong>第三期：电池数据</strong>
+  </a>
+
+  <a class="dataset-overview-card" href="#phase-3">
+    <span class="dataset-overview-card__tag">第三期</span>
+    <strong>电池数据</strong>
     <p>整理新能源汽车、NASA、MIT-Stanford-Toyota、XJTU、CALCE 等电池数据集。</p>
-  </div>
-  <div class="dataset-card">
-    <strong>第四期：破坏性退化数据</strong>
+  </a>
+
+  <a class="dataset-overview-card" href="#phase-4">
+    <span class="dataset-overview-card__tag">第四期</span>
+    <strong>破坏性退化数据</strong>
     <p>聚焦粘合剂、绝缘材料、污染物浓度、电路枝晶等破坏性退化数据。</p>
-  </div>
+  </a>
+
 </div>
 
-## 第[一](https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg)期
+<h2 id="phase-1">第<a href="https://mp.weixin.qq.com/s/DRcW3D7lfKPxWv7I19e0Yg">一</a>期</h2>
 
 ### 1. 激光退化数据
 
@@ -101,7 +110,7 @@ author_profile: true
 > 数据出处: Peng, C. Y., & Cheng, Y. S. (2020). Student-t processes for degradation analysis. *Technometrics, 62*(2), 223-235.
 
 
-## 第[二](https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ)期
+<h2 id="phase-2">第<a href="https://mp.weixin.qq.com/s/E09oY6Khr6YFopLGLmOoTQ">二</a>期</h2>
 
 
 ### 1. 发光二极管（LED）数据（二）
@@ -187,7 +196,7 @@ author_profile: true
 > 数据出处: Lu, L., Wang, B., Hong, Y., & Ye, Z. (2021). General path models for degradation data with multiple characteristics and covariates. *Technometrics, 63*(3), 354-369.
 
 
-## 第[三](https://mp.weixin.qq.com/s/fW5x7B6RgHkv_y0z_BE4Rg)期：电池数据
+<h2 id="phase-3">第<a href="https://mp.weixin.qq.com/s/fW5x7B6RgHkv_y0z_BE4Rg">三</a>期：电池数据</h2>
 
 ### 1. 新能源汽车大规模锂离子电池数据
 
@@ -270,8 +279,7 @@ author_profile: true
 数据集链接: [https://publications.rwth-aachen.de/record/820366](https://publications.rwth-aachen.de/record/820366)
 
 
-
-## 第[四](https://mp.weixin.qq.com/s/JnJayk8Smui8pu9loW7KJA)期：破坏性退化数据
+<h2 id="phase-4">第<a href="https://mp.weixin.qq.com/s/JnJayk8Smui8pu9loW7KJA">四</a>期：破坏性退化数据</h2>
 
 ### 1. 粘合剂 A 破坏性退化数据
 
