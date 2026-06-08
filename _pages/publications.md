@@ -141,7 +141,9 @@ author_profile: true
 
 ## 非一作和通讯文章
 
-1. Di Zhu, **Ancha Xu**, Ziqi Chen, Shuling Zhu, Guanqi Fang. (2025+). "An online Bayesian framework for identifying latent system degradation states." *IEEE Transactions on Reliability*, accepted.
+1. Ruiyue Lin, **Ancha Xu**. (2026). "Addressing infeasibility in super-efficiency models with non-discretionary inputs and undesirable outputs: A directional distance function approach." *Omega*, 143, 103562.
+
+1. Di Zhu, **Ancha Xu**, Ziqi Chen, Shuling Zhu, Guanqi Fang. (2026). "An online Bayesian framework for identifying latent system degradation states." *IEEE Transactions on Reliability*, 75, 542-554.
 
 1. Jingye Zhu, Huilin Zeng, **Ancha Xu**, David Julian McClements, Jianshe Chen, Yong Chen. (2025). Correlating instrumental textural properties to human sensory data using biomimetic molar probes: Case study with hazelnuts, *Current Research in Food Science*，11, 101171. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.crfs.2025.101171)
 
