@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2026年 
 
+1. 5月: 课题组论文 “Bayesian group LASSO for high-dimensional stochastic frontiers analysis” 被 **Statistical Theory and Related Fields**  接受.
+   
 1. 4月: 课题组论文"A bivariate Wiener degradation model with partially random scale weights"被**Reliability Engineering & System Safety**接受.
 
 1. 3月: 课题组论文"A hierarchical Bayesian multivariate Wiener process model with dependent degradation rates and volatilities"被**IEEE Transactions on Reliability**接受.
