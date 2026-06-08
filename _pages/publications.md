@@ -9,16 +9,18 @@ author_profile: true
 
 ## 期刊论文 (<u>下划线代表学生</u>)
 
-1. **Ancha Xu**, <u>Yihang</u> <u>Miu</u>, <u>Jiaxiang</u> <u>Sun</u>, Shirong Zhou, Yincai Tang. (2026+). "A hierarchical Bayesian multivariate Wiener process model with dependent degradation rates and volatilities." *IEEE Transactions on Reliability*. DOI: 10.1109/TR.2026.3674703 [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25888211/mvw.itr.revised.pdf)
-
 1. Liangliang Zhuang, Yizhong Ma, Guanqi Fang, **Ancha Xu**. (2026+). "Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework." *IISE Transactions*. DOI: 10.1080/24725854.2026.2631614 [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25140849/IISE-two.scale.pdf)
-
-1. Liangliang Zhuang, Yizhong Ma, Jianjun Wang, Rong Pan, **Ancha Xu**. (2026+). "From statistical modeling to AI-integrated inverse Gaussian process: a comprehensive review for prognostics and health management." *Engineering Management*.[![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25143524/EM_IG.pdf)
 
 1. **Ancha Xu**, <u>Jiahui</u> <u>Liu</u>, <u>Lijia</u> <u>Liu</u>, <u>Mengting</u> <u>Zhong</u>, Weiwei Wang. (2026+). "Joint modeling accelerated life tests and field data for reliability prediction." *Statistical Theory and Related Fields*. 
 
 1. **Ancha Xu**, <u>Juan</u> <u>Wang</u>, <u>Di</u> <u>Zhu</u>, <u>Zhen</u> <u>Chen</u>, Yijun Wang. (2026+). "A robust Bayesian framework for degradation state identification in the presence of outliers." *Naval Research Logistics*. DOI: 10.1002/nav.70033  [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/23769901/2025-NRL.pdf)
 
+1. **Ancha Xu**, <u>Zhen</u> <u>Chen</u>, <u>Hong</u> <u>Yin</u>, Yincai Tang. (2026). "A bivariate Wiener degradation model with partially random scale weights." *Reliability Engineering & System Safety*, 275, 112684.
+   
+1. Liangliang Zhuang, Yizhong Ma, Jianjun Wang, Rong Pan, **Ancha Xu**. (2026). "From statistical modeling to AI-integrated inverse Gaussian process: a comprehensive review for prognostics and health management." *Engineering Management*,  13, 65–84.[![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25143524/EM_IG.pdf)
+   
+1. **Ancha Xu**, <u>Yihang</u> <u>Miu</u>, <u>Jiaxiang</u> <u>Sun</u>, Shirong Zhou, Yincai Tang. (2026). "A hierarchical Bayesian multivariate Wiener process model with dependent degradation rates and volatilities." *IEEE Transactions on Reliability*, 75, 1420-1433. [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25888211/mvw.itr.revised.pdf)
+   
 1. <u>Hong</u> <u>Yin</u>, Yijun Wang, **Ancha Xu**. (2026). "Kernel-based marginal testing for covariate effects in high-dimensional settings." *Scandinavian Journal of Statistics*, 53(1), 498–531.
 [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1111/sjos.70049)
 
