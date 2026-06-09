@@ -15,7 +15,7 @@ author_profile: true
 
 1. **Ancha Xu**, <u>Juan</u> <u>Wang</u>, <u>Di</u> <u>Zhu</u>, <u>Zhen</u> <u>Chen</u>, Yijun Wang. (2026+). "A robust Bayesian framework for degradation state identification in the presence of outliers." *Naval Research Logistics*. DOI: 10.1002/nav.70033  [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/23769901/2025-NRL.pdf)
 
-1. **Ancha Xu**, <u>Zhen</u> <u>Chen</u>, <u>Hong</u> <u>Yin</u>, Yincai Tang. (2026). "A bivariate Wiener degradation model with partially random scale weights." *Reliability Engineering & System Safety*, 275, 112684.
+1. **Ancha Xu**, <u>Zhen</u> <u>Chen</u>, <u>Hong</u> <u>Yin</u>, Yincai Tang. (2026). "A bivariate Wiener degradation model with partially random scale weights." *Reliability Engineering & System Safety*, 275, 112684.  [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.ress.2026.112684)
    
 1. Liangliang Zhuang, Yizhong Ma, Jianjun Wang, Rong Pan, **Ancha Xu**. (2026). "From statistical modeling to AI-integrated inverse Gaussian process: a comprehensive review for prognostics and health management." *Engineering Management*,  13, 65–84.[![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25143524/EM_IG.pdf)
    
@@ -141,9 +141,9 @@ author_profile: true
 
 ## 非一作和通讯文章
 
-1. Ruiyue Lin, **Ancha Xu**. (2026). "Addressing infeasibility in super-efficiency models with non-discretionary inputs and undesirable outputs: A directional distance function approach." *Omega*, 143, 103562.
+1. Ruiyue Lin, **Ancha Xu**. (2026). "Addressing infeasibility in super-efficiency models with non-discretionary inputs and undesirable outputs: A directional distance function approach." *Omega*, 143, 103562.  [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.omega.2026.103562)
 
-1. Di Zhu, **Ancha Xu**, Ziqi Chen, Shuling Zhu, Guanqi Fang. (2026). "An online Bayesian framework for identifying latent system degradation states." *IEEE Transactions on Reliability*, 75, 542-554.
+1. Di Zhu, **Ancha Xu**, Ziqi Chen, Shuling Zhu, Guanqi Fang. (2026). "An online Bayesian framework for identifying latent system degradation states." *IEEE Transactions on Reliability*, 75, 542-554.  [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1109/TR.2025.3647489)
 
 1. Jingye Zhu, Huilin Zeng, **Ancha Xu**, David Julian McClements, Jianshe Chen, Yong Chen. (2025). Correlating instrumental textural properties to human sensory data using biomimetic molar probes: Case study with hazelnuts, *Current Research in Food Science*，11, 101171. [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/j.crfs.2025.101171)
 
