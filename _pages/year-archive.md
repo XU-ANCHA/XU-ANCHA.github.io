@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2026年 
 
+1. 7月: 祝贺庄亮亮博士获得中国博士后科学基金第 79 批面上资助.
+   
 1. 7月: 祝贺硕士生刘佳慧、陈子琪、钟梦婷获得第九届全国应用统计专业学位研究生案例大赛**华东赛区一等奖**.
    
 1. 5月: 课题组论文 “Bayesian group LASSO for high-dimensional stochastic frontiers analysis” 被 **Statistical Theory and Related Fields**  接受.
