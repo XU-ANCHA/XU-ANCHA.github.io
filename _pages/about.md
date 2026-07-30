@@ -208,12 +208,6 @@ Research Fellow, 新加坡国立大学
   <img src="https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b" alt="可靠性统计微信公众号二维码">
 </div>
 
-<div class="social-card">
-  <h3>课题组小红书账号</h3>
-  <p>可靠性统计</p>
-  <img src="https://github.com/user-attachments/assets/20089de1-446f-4f69-9a4d-bf8f5eb52c39" alt="可靠性统计小红书二维码">
-</div>
-
 </div>
 
 <!--
