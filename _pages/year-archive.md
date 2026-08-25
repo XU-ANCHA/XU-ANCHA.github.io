@@ -7,13 +7,15 @@ author_profile: true
 
 ## 2026年 
 
+1. 8月: 课题组论文"Fault diagnosis of electromagnetic valve based on Bayesian optimization and two-layer long short-term memory neural network"被**Quality and Reliability Engineering International**接受.
+   
 1. 7月: 祝贺庄亮亮博士入选**国家资助博士后研究人员计划**.
    
 1. 7月: 祝贺庄亮亮博士获得**中国博士后科学基金第 79 批面上资助**.
    
 1. 7月: 祝贺硕士生刘佳慧、陈子琪、钟梦婷获得第九届全国应用统计专业学位研究生案例大赛**华东赛区一等奖**.
    
-1. 5月: 课题组论文 “Bayesian group LASSO for high-dimensional stochastic frontiers analysis” 被 **Statistical Theory and Related Fields**  接受.
+1. 5月: 课题组论文"Bayesian group LASSO for high-dimensional stochastic frontiers analysis"被**Statistical Theory and Related Fields**接受.
    
 1. 4月: 课题组论文"A bivariate Wiener degradation model with partially random scale weights"被**Reliability Engineering & System Safety**接受.
 
@@ -21,7 +23,7 @@ author_profile: true
 
 1. 2月: 课题组论文"Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework"被**IISE Transactions**接受.
 
-1. 1月: 课题组论文"From Statistical Modeling to AI-Integrated Inverse Gaussian Process: A Comprehensive Review for Prognostics and Health Management"被 **Engineering Management**  接受.
+1. 1月: 课题组论文"From Statistical Modeling to AI-Integrated Inverse Gaussian Process: A Comprehensive Review for Prognostics and Health Management"被 **Engineering Management**接受.
 
 1. 1月: 专著《**随机退化过程与统计建模**》获批浙江省哲学社会科学规划后期资助项目（3月份已结题）.
 
@@ -29,13 +31,13 @@ author_profile: true
 
 1. 1月: “基于自适应采样和集成技术的联邦学习及其在航空发动机剩余寿命预测中的应用”入选2024年浙江省专业学位研究生优秀创新成果（课题组研究生: 柳李嘉、翁鑫铭、陈桢、王娟）.
 
-1. 1月: 课题组论文 “Kernel‐based marginal testing for covariate effects in high‐dimensional settings” 被 **Scandinavian Journal of Statistics**  接受.
+1. 1月: 课题组论文“Kernel‐based marginal testing for covariate effects in high‐dimensional settings”被**Scandinavian Journal of Statistics**接受.
 
-1. 1月: 课题组论文 “Joint modeling accelerated life tests and field data for reliability prediction” 被 **Statistical Theory and Related Fields**  接受.   
+1. 1月: 课题组论文“Joint modeling accelerated life tests and field data for reliability prediction”被**Statistical Theory and Related Fields**接受.   
 
 ## 2025年 
 
-1. 12月: 课题组论文 “An online Bayesian framework for identifying latent system degradation states” 被 **IEEE Transactions on Reliability**  接受.
+1. 12月: 课题组论文 “An online Bayesian framework for identifying latent system degradation states”被**IEEE Transactions on Reliability**接受.
 
 1. 12月: 课题组专著《**随机退化过程与统计建模**》出版（入选统计与数据科学丛书，科学出版社）.
 
