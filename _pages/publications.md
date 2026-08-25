@@ -9,9 +9,11 @@ author_profile: true
 
 ## 期刊论文 (<u>下划线代表学生</u>)
 
+1. Jihong Pang, Yuanzhong Chen, Jinkun Dai, **Ancha Xu**, Shengliang Lu. (2026+). "Fault diagnosis of electromagnetic valve based on Bayesian optimization and two-layer long short-term memory neural network." *Quality and Reliability Engineering International*. DOI:10.1002/qre.70354 [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1002/qre.70354)
+
 1. Liangliang Zhuang, Yizhong Ma, Guanqi Fang, **Ancha Xu**. (2026+). "Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework." *IISE Transactions*. DOI: 10.1080/24725854.2026.2631614 [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/25140849/IISE-two.scale.pdf)
 
-1. **Ancha Xu**, <u>Jiahui</u> <u>Liu</u>, <u>Lijia</u> <u>Liu</u>, <u>Mengting</u> <u>Zhong</u>, Weiwei Wang. (2026+). "Joint modeling accelerated life tests and field data for reliability prediction." *Statistical Theory and Related Fields*. 
+1. **Ancha Xu**, <u>Jiahui</u> <u>Liu</u>, <u>Lijia</u> <u>Liu</u>, <u>Mengting</u> <u>Zhong</u>, Weiwei Wang. (2026+). "Joint modeling accelerated life tests and field data for reliability prediction." *Statistical Theory and Related Fields*. DOI:10.1080/24754269.2026.2656112 [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1016/10.1080/24754269.2026.2656112)
 
 1. **Ancha Xu**, <u>Juan</u> <u>Wang</u>, <u>Di</u> <u>Zhu</u>, <u>Zhen</u> <u>Chen</u>, Yijun Wang. (2026+). "A robust Bayesian framework for degradation state identification in the presence of outliers." *Naval Research Logistics*. DOI: 10.1002/nav.70033  [![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/23769901/2025-NRL.pdf)
 
