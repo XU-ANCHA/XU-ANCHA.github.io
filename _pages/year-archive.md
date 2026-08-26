@@ -8,6 +8,8 @@ author_profile: true
 ## 2026年 
 
 1. 8月: 课题组论文"Fault diagnosis of electromagnetic valve based on Bayesian optimization and two-layer long short-term memory neural network"被**Quality and Reliability Engineering International**接受.
+
+1. 8月: 祝贺庄亮亮博士获得**国家青年科学基金项目(C类)资助**.
    
 1. 7月: 祝贺庄亮亮博士入选**国家资助博士后研究人员计划**.
    
