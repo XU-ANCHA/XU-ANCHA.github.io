@@ -299,13 +299,23 @@ author_profile: true
 
 ### 3. 粘合剂 Formulation K 破坏性退化数据
 
-文件名: `AdhesiveFomulationK.csv` <a href="/files/datasets/4/AdhesiveFomulationK.csv" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
+文件名: `AdhesiveFormulationK.csv` <a href="/files/datasets/4/AdhesiveFormulationK.csv" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
 
 该数据集来自对某种新型粘合剂配方，即 Adhesive Formulation K 的加速破坏性退化试验。数据记录了 120 个样本在三个温度水平下，分别于试验 0、3、6、12、18 和 24 周后进行破坏性测量得到的粘合强度，单位为牛顿。该数据可用于评估粘合强度随时间衰减的趋势，并预测常温条件下使用 2 年和 5 年后强度低于 45 牛顿的样本比例。
 
 > 数据出处: Meeker, W. Q., Escobar, L. A., & Pascual, F. G. (2021). *Statistical methods for reliability data*. John Wiley & Sons.
 
-### 4. 绝缘材料介电强度破坏性退化数据
+
+### 4. 密封件强度加速破坏性退化数据
+
+文件名: `SealStrength.csv` <a href="/files/datasets/4/SealStrength.csv" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
+
+该数据集来自一项密封件的温度加速破坏性退化试验，用于研究密封件强度随时间和温度变化的规律。试验设置了 200°C、250°C、300°C 和 350°C 四个加速温度水平，在每个温度下放置 50 个样品，并每隔 5 周取出 10 个样品进行破坏性强度测量，直至试验 25 周；此外，试验开始时还测量了 10 个基准样品的初始强度，共获得 210 个强度观测。由于强度测量会对样品造成物理损伤，每个试验单元只能获得一次测量值。当密封件强度低于 0.5 牛顿时，则认为该样品发生失效。该数据可用于分析温度和时间对密封件强度退化的影响，并评估正常使用条件下的长期可靠性。
+
+> 数据出处: Li, M., & Doganaksoy, N. (2014). Batch variability in accelerated-degradation testing. *Journal of Quality Technology, 46*(2), 171-180.
+
+
+### 5. 绝缘材料介电强度破坏性退化数据
 
 文件名: `InsulationBreakdown.csv` <a href="/files/datasets/4/InsulationBreakdown.csv" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
 
@@ -313,7 +323,7 @@ author_profile: true
 
 > 数据出处: Meeker, W. Q., Escobar, L. A., & Pascual, F. G. (2021). *Statistical methods for reliability data*. John Wiley & Sons.
 
-### 5. 污染物浓度破坏性降解数据
+### 6. 污染物浓度破坏性降解数据
 
 文件名: `Tech_Sun_MDDT.zip` <a href="/files/datasets/4/Tech_Sun_MDDT.zip" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
 
@@ -321,7 +331,7 @@ author_profile: true
 
 > 数据出处: Sun, Q., Ye, Z. S., & Hong, Y. (2020). Statistical modeling of multivariate destructive degradation tests with blocking. *Technometrics, 62*(4), 536-548.
 
-### 6. 电路枝晶尺寸破坏性退化数据
+### 7. 电路枝晶尺寸破坏性退化数据
 
 文件名: `Dendrite_size_data.txt` <a href="/files/datasets/4/Dendrite_size_data.txt" download><img src="https://img.shields.io/badge/download-5bc0de?style=flat-square&logo=googledrive&logoColor=white" height="16"></a>
 
