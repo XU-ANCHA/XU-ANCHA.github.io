@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2026年 
 
+1. 10月: 祝贺博士生尹宏入选2026年中国科协青年科技人才培育工程博士生专项计划.
+   
 1. 10月: 祝贺硕士生陈桢、柳李嘉、王娟获得国家奖学金.
 
 1. 9月: 课题组论文"Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework"被**IISE Transactions**选为**Featured Article**.
