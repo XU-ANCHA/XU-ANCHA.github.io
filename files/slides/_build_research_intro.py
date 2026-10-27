@@ -136,6 +136,27 @@ def card(slide, left, top, width, height, title, bullets, tag=None):
     add_text(slide, left + Inches(0.18), y, width - Inches(0.28), height - (y - top) - Inches(0.1), lines)
 
 
+def add_picture_cover(slide, path, left, top, width, height):
+    """Crop a photo to the box aspect ratio, then place it."""
+    from PIL import Image
+
+    im = Image.open(path).convert("RGB")
+    iw, ih = im.size
+    box_ratio = height / width
+    img_ratio = ih / iw
+    if img_ratio > box_ratio:
+        new_h = int(iw * box_ratio)
+        top_cut = max((ih - new_h) // 5, 0)  # bias toward the face
+        im = im.crop((0, top_cut, iw, top_cut + new_h))
+    else:
+        new_w = int(ih / box_ratio)
+        left_cut = (iw - new_w) // 2
+        im = im.crop((left_cut, 0, left_cut + new_w, ih))
+    tmp = "/tmp/research-intro-portrait.jpg"
+    im.save(tmp, quality=90)
+    return slide.shapes.add_picture(tmp, left, top, width=width, height=height)
+
+
 def build():
     prs = Presentation()
     prs.slide_width = SLIDE_W
@@ -143,128 +164,174 @@ def build():
     blank = prs.slide_layouts[6]
 
     # ------------------------------------------------------------------
-    # Slide 1  定位
+    # Slide 1  个人研究与业绩
     # ------------------------------------------------------------------
     s = prs.slides.add_slide(blank)
-    add_box(s, Inches(0), Inches(0), Inches(0.18), SLIDE_H, fill=NAVY)
-    add_box(s, Inches(0), Inches(0), SLIDE_W, Inches(0.08), fill=NAVY)
-    add_text(s, Inches(0.7), Inches(0.45), Inches(12), Inches(0.32), [("研究工作简介  ·  同行专家交流", 14, ACCENT, True)])
-    add_text(
+    add_box(s, Inches(0), Inches(0), Inches(3.55), SLIDE_H, fill=NAVY)
+    add_picture_cover(
         s,
-        Inches(0.7),
-        Inches(1.00),
-        Inches(12),
-        Inches(1.5),
-        [
-            ("随机退化过程与", 36, NAVY, True, 4),
-            ("贝叶斯可靠性推断", 36, NAVY, True),
-        ],
+        "/workspace/images/yixing.jpg",
+        Inches(0.45),
+        Inches(0.40),
+        Inches(2.65),
+        Inches(3.35),
     )
-    add_box(s, Inches(0.7), Inches(2.70), Inches(1.4), Inches(0.05), fill=ACCENT)
+    add_text(s, Inches(0.35), Inches(3.90), Inches(2.85), Inches(0.50), [("徐安察", 26, WHITE, True)], align=PP_ALIGN.CENTER)
     add_text(
         s,
-        Inches(0.7),
-        Inches(2.95),
-        Inches(11.8),
-        Inches(0.9),
+        Inches(0.28),
+        Inches(4.42),
+        Inches(3.00),
+        Inches(1.35),
         [
-            ("用随机过程与贝叶斯方法，从退化监测数据和寿命数据中", 18, INK, False, 4),
-            ("评估高可靠产品的可靠性，并给出可递归更新的剩余寿命预测。", 18, INK, False),
+            ("教授、博士生导师", 14, RGBColor(0xF0, 0xC4, 0xB0), True, 6),
+            ("浙江工商大学", 13, RGBColor(0xD7, 0xDE, 0xE7), False, 2),
+            ("统计与数据科学学院", 13, RGBColor(0xD7, 0xDE, 0xE7), False, 10),
+            ("xuancha@mail.zjgsu.edu.cn", 11, RGBColor(0xB8, 0xC3, 0xD0), False, 2),
+            ("www.xu-ancha.com", 11, RGBColor(0xB8, 0xC3, 0xD0), False),
+        ],
+        align=PP_ALIGN.CENTER,
+    )
+
+    add_text(s, Inches(3.85), Inches(0.28), Inches(9.0), Inches(0.26), [("研究工作简介  ·  同行专家交流", 12, ACCENT, True)])
+    add_text(s, Inches(3.85), Inches(0.54), Inches(9.0), Inches(0.48), [("个人研究与业绩", 28, NAVY, True)])
+    add_box(s, Inches(3.85), Inches(1.06), Inches(1.15), Inches(0.04), fill=ACCENT)
+
+    add_text(s, Inches(3.85), Inches(1.22), Inches(9.0), Inches(0.24), [("研究方向", 12, ACCENT, True)])
+    add_text(
+        s,
+        Inches(3.85),
+        Inches(1.46),
+        Inches(9.0),
+        Inches(0.70),
+        [
+            ("退化数据分析与建模  ·  贝叶斯在线学习", 16, INK, False, 2),
+            ("客观贝叶斯方法  ·  寿命数据分析", 16, INK, False),
         ],
     )
 
-    # four chips
-    chips = [
-        ("01", "退化建模", "Wiener / IG / Gamma\n多元 · 两阶段 · 厚尾"),
-        ("02", "在线贝叶斯", "共轭结构与递归更新\nRUL 与隐状态识别"),
-        ("03", "客观贝叶斯", "参考先验与后验正常性\n小样本寿命评估"),
-        ("04", "试验与现场", "加速试验最优设计\n竞争失效与数据融合"),
+    stats = [
+        ("60+", "一作 / 通讯 SCI"),
+        ("2,478", "Google Scholar 引用"),
+        ("29", "h 指数"),
+        ("6", "ESI 高被引论文"),
     ]
-    w = Inches(2.85)
-    gap = Inches(0.18)
-    x0 = Inches(0.7)
-    y0 = Inches(4.15)
-    for i, (num, title, body) in enumerate(chips):
-        x = x0 + i * (w + gap)
-        add_box(s, x, y0, w, Inches(1.85), fill=WASH, line=RULE)
-        add_text(s, x + Inches(0.16), y0 + Inches(0.12), w - Inches(0.28), Inches(0.28), [(num, 12, ACCENT, True)])
-        add_text(s, x + Inches(0.16), y0 + Inches(0.40), w - Inches(0.28), Inches(0.36), [(title, 16, NAVY, True)])
-        add_text(s, x + Inches(0.16), y0 + Inches(0.82), w - Inches(0.28), Inches(0.85), [(body, 13, MUTED, False)])
+    for i, (val, lab) in enumerate(stats):
+        x = Inches(3.85) + i * Inches(2.28)
+        add_box(s, x, Inches(2.28), Inches(2.16), Inches(1.05), fill=WASH, line=RULE)
+        add_text(s, x, Inches(2.34), Inches(2.16), Inches(0.48), [(val, 22, NAVY, True)], align=PP_ALIGN.CENTER)
+        add_text(s, x, Inches(2.82), Inches(2.16), Inches(0.40), [(lab, 11, MUTED, False)], align=PP_ALIGN.CENTER)
 
+    add_box(s, Inches(3.85), Inches(3.50), Inches(4.40), Inches(3.50), fill=WASH, line=RULE)
+    add_text(s, Inches(4.05), Inches(3.62), Inches(4.05), Inches(0.28), [("代表性成果", 14, ACCENT, True)])
     add_text(
         s,
-        Inches(0.7),
-        Inches(6.20),
-        Inches(12),
-        Inches(0.7),
+        Inches(4.05),
+        Inches(3.96),
+        Inches(4.05),
+        Inches(2.90),
         [
-            ("徐安察  ·  教授、博士生导师", 16, NAVY, True, 2),
-            ("浙江工商大学 统计与数据科学学院    xuancha@mail.zjgsu.edu.cn    www.xu-ancha.com", 13, MUTED, False),
+            ("专著《随机退化过程与统计建模》", 13, NAVY, True, 2),
+            ("科学出版社，2025；入选统计与数据科学丛书", 12, MUTED, False, 8),
+            ("论文见于 NRL、SJS、JQT、EJOR、", 13, INK, False, 2),
+            ("IEEE TR、IISE Transactions 等", 13, INK, False, 8),
+            ("主持国自然青年 1 项、面上 3 项", 13, INK, False, 2),
+            ("在研面上项目 72571246", 12, MUTED, False, 8),
+            ("浙江省自然科学基金重点项目等十余项", 13, INK, False),
+        ],
+    )
+
+    add_box(s, Inches(8.45), Inches(3.50), Inches(4.40), Inches(3.50), fill=WASH, line=RULE)
+    add_text(s, Inches(8.65), Inches(3.62), Inches(4.05), Inches(0.28), [("奖励与学术服务", 14, ACCENT, True)])
+    add_text(
+        s,
+        Inches(8.65),
+        Inches(3.96),
+        Inches(4.05),
+        Inches(2.90),
+        [
+            ("浙江省自然科学奖", 13, NAVY, True, 2),
+            ("福建省自然科学奖、全国统计科技进步奖", 12, MUTED, False, 8),
+            ("省高校院士专家结对培养青年英才", 13, INK, False, 2),
+            ("省特支计划教育青年人才", 12, MUTED, False, 8),
+            ("中国运筹学会可靠性分会副理事长", 13, INK, False, 8),
+            ("Statistical Theory and Related Fields", 13, INK, False, 2),
+            ("Associate Editor", 12, MUTED, False),
         ],
     )
     add_notes(
         s,
-        "开场 30 秒。先报身份，再读中间那句研究定位，不要报奖项和论文篇数。"
-        "四块只点名：退化建模、在线贝叶斯、客观贝叶斯、试验与现场。"
-        "若专家是可靠性同行，可补一句：我们关心的不是再造一个过程，而是让过程可推断、可在线更新。",
+        "开场 1 分钟。先报姓名、单位、职称，再报四个研究方向。"
+        "业绩只点三句：六十余篇一作通讯、一本专著、国自然青年加三项面上。"
+        "奖项和服务各报一项即可：省自然科学奖、可靠性分会副理事长。不要把格子念完。下一页再讲为什么做这件事。",
     )
 
     # ------------------------------------------------------------------
-    # Slide 2  问题与框架
+    # Slide 2  研究背景与定位
     # ------------------------------------------------------------------
     s = prs.slides.add_slide(blank)
-    header(s, "01  /  问题", "为什么做退化，而不是只看失效时间")
+    header(s, "01  /  背景与定位", "先看研究背景，再落到我们的定位")
     footer(s, 2)
 
-    # left problem
-    add_box(s, Inches(0.5), Inches(1.25), Inches(6.05), Inches(5.75), fill=WASH, line=RULE)
-    add_text(s, Inches(0.72), Inches(1.40), Inches(5.6), Inches(0.32), [("工程事实", 13, ACCENT, True)])
+    add_text(s, Inches(0.5), Inches(1.18), Inches(12.3), Inches(0.26), [("研究背景", 13, ACCENT, True)])
+    add_box(s, Inches(0.5), Inches(1.48), Inches(12.3), Inches(1.55), fill=WASH, line=RULE)
     add_text(
         s,
-        Inches(0.72),
-        Inches(1.74),
-        Inches(5.6),
-        Inches(1.55),
+        Inches(0.70),
+        Inches(1.60),
+        Inches(11.95),
+        Inches(1.32),
         [
-            ("高可靠产品在试验期内很少失效。寿命试验给出的多为删失，", 14, INK, False, 4),
-            ("信息量不足。电流漂移、裂纹扩展、光强衰减、制动转矩等", 14, INK, False, 4),
-            ("退化轨迹是连续观测，比失效时间携带更多过程信息。", 14, INK, False),
+            ("电子器件、机电系统和航空装备的可靠度持续提高。传统寿命试验在有限工期内往往只能拿到大量删失，很难观测到足够失效。", 15, INK, False, 6),
+            ("与此同时，产品在试验或服役中会留下连续的性能轨迹：电流漂移、裂纹扩展、光强衰减、制动转矩下降。", 15, INK, False, 6),
+            ("退化轨迹比失效时间携带更多过程信息，正在成为高可靠产品评估与预测的主要数据来源。", 15, INK, False),
         ],
     )
-    add_text(s, Inches(0.72), Inches(3.40), Inches(5.6), Inches(0.30), [("统计上要同时处理的四个约束", 13, ACCENT, True)])
 
+    add_text(s, Inches(0.5), Inches(3.16), Inches(12.3), Inches(0.26), [("由此形成的统计困难", 13, ACCENT, True)])
     constraints = [
         ("小样本", "失效稀少，先验一旦定偏，后验会被先验主导"),
         ("多维相依", "多个性能指标联合退化，尾部与波动往往相关"),
-        ("个体异质", "随机效应、亚总体、两阶段 / 双尺度"),
+        ("个体异质", "随机效应、亚总体、两阶段与双尺度"),
         ("在线流式", "监测陆续到达，不能每次全样本重跑 MCMC"),
     ]
     for i, (t, d) in enumerate(constraints):
-        y = Inches(3.78) + i * Inches(0.72)
-        add_box(s, Inches(0.72), y, Inches(5.6), Inches(0.64), fill=WHITE, line=RULE)
-        add_box(s, Inches(0.72), y, Inches(0.08), Inches(0.64), fill=NAVY)
-        add_text(s, Inches(0.96), y + Inches(0.04), Inches(5.2), Inches(0.26), [(t, 14, NAVY, True)])
-        add_text(s, Inches(0.96), y + Inches(0.30), Inches(5.2), Inches(0.28), [(d, 12, MUTED, False)])
+        x = Inches(0.5) + i * Inches(3.2)
+        add_box(s, x, Inches(3.46), Inches(3.05), Inches(1.28), fill=WHITE, line=RULE)
+        add_box(s, x, Inches(3.46), Inches(0.08), Inches(1.28), fill=NAVY)
+        add_text(s, x + Inches(0.20), Inches(3.56), Inches(2.72), Inches(0.30), [(t, 15, NAVY, True)])
+        add_text(s, x + Inches(0.20), Inches(3.88), Inches(2.72), Inches(0.72), [(d, 12, MUTED, False)])
 
-    # right framework
-    add_text(s, Inches(6.85), Inches(1.25), Inches(5.9), Inches(0.32), [("研究框架：一层对应一个约束", 13, ACCENT, True)])
-    layers = [
-        ("数据", "退化轨迹  ·  寿命 / 删失  ·  加速试验  ·  现场服役"),
-        ("过程", "Wiener / 逆高斯 / Gamma，及其多元、变点、厚尾扩展"),
-        ("推断", "客观先验、共轭与递归更新、近似贝叶斯"),
-        ("决策", "可靠性评估  ·  RUL  ·  预测性维修  ·  试验设计"),
+    add_text(s, Inches(0.5), Inches(4.88), Inches(12.3), Inches(0.26), [("因此，研究定位", 13, ACCENT, True)])
+    add_box(s, Inches(0.5), Inches(5.16), Inches(12.3), Inches(1.88), fill=NAVY)
+    add_text(
+        s,
+        Inches(0.72),
+        Inches(5.28),
+        Inches(11.9),
+        Inches(0.70),
+        [
+            ("用随机过程与贝叶斯方法，从退化监测数据和寿命数据中", 16, WHITE, False, 3),
+            ("评估高可靠产品的可靠性，并给出可递归更新的剩余寿命预测。", 16, WHITE, False),
+        ],
+    )
+    chips = [
+        ("退化建模", "Wiener / IG / Gamma"),
+        ("在线贝叶斯", "共轭与递归更新"),
+        ("客观贝叶斯", "小样本寿命评估"),
+        ("试验与现场", "加速试验与数据融合"),
     ]
-    for i, (t, d) in enumerate(layers):
-        y = Inches(1.68) + i * Inches(1.18)
-        add_box(s, Inches(6.85), y, Inches(5.95), Inches(1.02), fill=NAVY if i % 2 == 0 else NAVY_SOFT)
-        add_text(s, Inches(7.08), y + Inches(0.14), Inches(5.5), Inches(0.30), [(t, 16, WHITE, True)])
-        add_text(s, Inches(7.08), y + Inches(0.48), Inches(5.5), Inches(0.40), [(d, 13, RGBColor(0xD7, 0xDE, 0xE7), False)])
+    for i, (t, d) in enumerate(chips):
+        x = Inches(0.72) + i * Inches(3.05)
+        add_text(s, x, Inches(6.08), Inches(2.90), Inches(0.28), [(t, 13, RGBColor(0xF0, 0xC4, 0xB0), True)])
+        add_text(s, x, Inches(6.36), Inches(2.90), Inches(0.28), [(d, 12, RGBColor(0xD7, 0xDE, 0xE7), False)])
 
     add_notes(
         s,
-        "这页只讲问题，不报论文。先说高可靠导致寿命试验失效太少，再强调退化轨迹是连续信息。"
-        "四个约束各举半句现场例子即可：永磁制动器是小样本，重型机床是多指标，激光器常有个体差异，航空发动机是流式监测。"
-        "右边四层从上往下讲一遍，收在：我们后面三页分别对应过程、推断、决策。",
+        "这页按三步讲，不要倒过来先报定位。"
+        "第一步研究背景：高可靠导致寿命试验失效太少，退化轨迹成为主要信息。"
+        "第二步四个困难各举半句现场例子：永磁制动器是小样本，重型机床是多指标，激光器常有个体差异，航空发动机是流式监测。"
+        "第三步才读出定位那两句，并点名四条主线。后面三页分别展开过程、推断、评估。",
     )
 
     # ------------------------------------------------------------------
@@ -432,8 +499,8 @@ def build():
         Inches(8.6),
         Inches(0.95),
         [
-            ("一作 / 通讯 SCI 60 余篇，ESI 高被引 6 篇。主持国自然青年 1 项、面上 3 项，以及浙江省自然科学基金重点项目。", 14, WHITE, False, 4),
-            ("中国运筹学会可靠性分会副理事长  ·  Statistical Theory and Related Fields 副主编", 13, RGBColor(0xD7, 0xDE, 0xE7), False),
+            ("后面的工作会沿着偏态厚尾建模、在线校准和试验—现场融合继续做。", 15, WHITE, False, 4),
+            ("欢迎批评，也欢迎在具体数据或问题上合作。", 14, RGBColor(0xD7, 0xDE, 0xE7), False),
         ],
     )
     add_text(
@@ -452,7 +519,7 @@ def build():
         s,
         "这页留给讨论。前两列各举一例：客观贝叶斯用屏蔽数据或加速试验；应用用永磁制动器或华为。"
         "开放问题按听者背景选一两个：理论专家谈偏态厚尾可识别性，应用专家谈现场外推的校准。"
-        "底部数字只报一句，不要念完。最后停在“欢迎批评”。",
+        "业绩已在第 1 页说过，这里不要再报数字。最后停在欢迎批评。",
     )
 
     out = "/workspace/files/slides/research-intro-experts.pptx"
