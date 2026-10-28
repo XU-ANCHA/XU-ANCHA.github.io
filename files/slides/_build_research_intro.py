@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""5-slide expert briefing. Palette: premium academic blue."""
+"""Legacy generator. The hand-edited deck is 研究介绍-徐安察.pptx; do not overwrite it."""
 
 from lxml import etree
 from PIL import Image, ImageDraw
