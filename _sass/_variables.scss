@@ -55,24 +55,24 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #6A8794;
-$dark-gray                  : #2F4A58;
-$darker-gray                : #1E3340;
+$gray                       : #7A9AAA;
+$dark-gray                  : #173848;
+$darker-gray                : #122C38;
 $light-gray                 : #B7C9D1;
-$lighter-gray               : #E4EEF2;
+$lighter-gray               : #D5E3E9;
 
-$body-color                 : #7BA4B8;
-$background-color           : #7BA4B8;
-$code-background-color      : #EAF2F5;
+$body-color                 : #2E5A6F;
+$background-color           : #2E5A6F;
+$code-background-color      : #E3EDF1;
 $code-background-color-dark : $light-gray;
-$text-color                 : #1E3340;
-$border-color               : #C5D6DE;
+$text-color                 : #E6F0F4;
+$border-color               : rgba(232, 241, 244, 0.16);
 
-$primary-color              : #2F4A58;
+$primary-color              : #173848;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #4E7A8C;
+$info-color                 : #7BA4B8;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -102,10 +102,10 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #2F5A6C;
-$link-color-hover           : #1A3340;
-$link-color-visited         : #4E7A8C;
-$masthead-link-color        : #EAF2F5;
+$link-color                 : #D4E8F0;
+$link-color-hover           : #ffffff;
+$link-color-visited         : #B7D0DA;
+$masthead-link-color        : #E6F0F4;
 $masthead-link-color-hover  : #ffffff;
 
 
@@ -159,7 +159,7 @@ $susy: (
    ========================================================================== */
 
 $border-radius              : 14px;
-$box-shadow                 : 0 10px 28px rgba(30, 52, 64, 0.12), 0 1px 0 rgba(255, 255, 255, 0.7) inset;
+$box-shadow                 : 0 14px 32px rgba(10, 28, 38, 0.28), 0 1px 0 rgba(255, 255, 255, 0.7) inset;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
