@@ -55,6 +55,11 @@ body {
     border-color: $hairline;
     box-shadow: $lift;
     border-radius: 12px;
+    z-index: 40;
+
+    a {
+      color: $ink !important;
+    }
 
     a:hover {
       background: $lighter-gray;
@@ -80,16 +85,15 @@ body {
 
 .page,
 .archive {
-  @include surface-card;
-  padding: 1.6rem 1.7rem 2.2rem;
-  margin-bottom: 2.2rem;
-}
-
-body.is-home .page {
   background: transparent;
   border: 0;
   box-shadow: none;
-  padding: 0.15rem 0 1.4rem;
+  padding: 0.2rem 0 1.8rem;
+  margin-bottom: 2.2rem;
+
+  @include breakpoint($large) {
+    padding-left: 1.35rem;
+  }
 }
 
 .page__title,
@@ -165,21 +169,30 @@ blockquote {
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7);
 }
 
-/* Sidebar as a floating panel */
+/* Keep the profile in the grid column so the card cannot cover the article. */
 .sidebar {
   @media screen and (min-width: $sidebar-screen-min-width) {
-    @include surface-card;
-    top: calc(#{$masthead-height} + 1.2rem);
-    height: auto;
-    max-height: calc(100vh - #{$masthead-height} - 2.4rem);
+    position: relative !important;
+    top: auto !important;
+    height: auto !important;
+    max-height: none;
     margin-top: 0;
-    padding: 1.25rem 1.15rem 1.4rem;
-    overflow-y: auto;
+    padding-top: 0;
+    overflow: visible;
+    background: transparent;
+    border: 0;
+    box-shadow: none;
   }
 }
 
+.sidebar > [itemscope] {
+  @include surface-card;
+  padding: 1rem 0.85rem 1.15rem;
+  max-width: 100%;
+}
+
 .author__avatar img {
-  max-width: 168px;
+  max-width: 100%;
   border-radius: 50%;
   box-shadow: 0 12px 28px rgba(42, 45, 50, 0.2);
   background: #fff;
@@ -541,6 +554,10 @@ blockquote {
 
   .page,
   .archive {
-    padding: 1.15rem 1rem 1.6rem;
+    padding: 0.2rem 0 1.4rem;
+  }
+
+  .sidebar > [itemscope] {
+    margin-bottom: 1rem;
   }
 }
