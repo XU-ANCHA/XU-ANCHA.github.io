@@ -1,0 +1,68 @@
+---
+title: "新闻"
+slug: "news"
+aliases:
+  - /year-archive/
+---
+
+## 2026 年
+
+1. 10 月：祝贺博士生尹宏入选 2026 年中国科协青年科技人才培育工程博士生专项计划。
+1. 10 月：祝贺硕士生陈桢、柳李嘉、王娟获得国家奖学金。
+1. 9 月：课题组论文 “Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework” 被 **IISE Transactions** 选为 **Featured Article**。
+1. 8 月：课题组论文 “Fault diagnosis of electromagnetic valve based on Bayesian optimization and two-layer long short-term memory neural network” 被 **Quality and Reliability Engineering International** 接受。
+1. 8 月：祝贺庄亮亮博士获得 **国家青年科学基金项目（C 类）资助**。
+1. 7 月：祝贺庄亮亮博士入选 **国家资助博士后研究人员计划**。
+1. 7 月：祝贺庄亮亮博士获得 **中国博士后科学基金第 79 批面上资助**。
+1. 7 月：祝贺硕士生刘佳慧、陈子琪、钟梦婷获得第九届全国应用统计专业学位研究生案例大赛 **华东赛区一等奖**（最终获全国三等奖）。
+1. 5 月：课题组论文 “Bayesian group LASSO for high-dimensional stochastic frontiers analysis” 被 **Statistical Theory and Related Fields** 接受。
+1. 4 月：课题组论文 “A bivariate Wiener degradation model with partially random scale weights” 被 **Reliability Engineering & System Safety** 接受。
+1. 3 月：课题组论文 “A hierarchical Bayesian multivariate Wiener process model with dependent degradation rates and volatilities” 被 **IEEE Transactions on Reliability** 接受。
+1. 2 月：课题组论文 “Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework” 被 **IISE Transactions** 接受。
+1. 1 月：课题组论文 “From Statistical Modeling to AI-Integrated Inverse Gaussian Process: A Comprehensive Review for Prognostics and Health Management” 被 **Engineering Management** 接受。
+1. 1 月：专著《**随机退化过程与统计建模**》获批浙江省哲学社会科学规划后期资助项目（3 月份已结题）。
+1. 1 月：课题组撰写的 “飞机发动机剩余寿命预测——基于自适应采样和集成学习的联邦学习算法” 入选 2025 年浙江省专业学位研究生优秀教学案例。
+1. 1 月：“基于自适应采样和集成技术的联邦学习及其在航空发动机剩余寿命预测中的应用” 入选 2024 年浙江省专业学位研究生优秀创新成果（课题组研究生：柳李嘉、翁鑫铭、陈桢、王娟）。
+1. 1 月：课题组论文 “Kernel-based marginal testing for covariate effects in high-dimensional settings” 被 **Scandinavian Journal of Statistics** 接受。
+1. 1 月：课题组论文 “Joint modeling accelerated life tests and field data for reliability prediction” 被 **Statistical Theory and Related Fields** 接受。
+
+## 2025 年
+
+1. 12 月：课题组论文 “An online Bayesian framework for identifying latent system degradation states” 被 **IEEE Transactions on Reliability** 接受。
+1. 12 月：课题组专著《**随机退化过程与统计建模**》出版（入选统计与数据科学丛书，科学出版社）。
+1. 10 月：祝贺硕士生汪任兵获得 **国家奖学金**。
+1. 10 月：祝贺硕士生柳李嘉、王娟、陈桢获得第八届全国应用统计专业学位研究生案例大赛 **全国二等奖**。
+1. 10 月：祝贺庄亮亮博士荣获长三角科学道德和学风建设论坛——研究生 “**创新实践之星**” 荣誉称号。
+1. 10 月：课题组论文 “A robust Bayesian framework for degradation state identification in the presence of outliers” 被 **Naval Research Logistics** 接受。
+1. 9 月：课题组论文 “Recursive Bayesian prediction of remaining useful life for gamma degradation process under conjugate priors” 被 **Scandinavian Journal of Statistics** 接受。
+1. 9 月：课题组论文 “Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction” 入选 **ESI 高被引论文**。
+1. 8 月：课题组论文 “Efficient Bayesian reliability assessment for step-stress accelerated Wiener degradation model” 被 **Reliability Engineering & System Safety** 接受。
+1. 8 月：课题组获批 **国家自然科学基金面上项目** “面向多维偏态厚尾退化数据的可靠性评估与贝叶斯最优设计（72571246）”。
+1. 6 月：祝贺博士生庄亮亮通过博士论文答辩，并 **入职南京理工大学** 经济与管理学院。
+1. 4 月：徐安察、柳李嘉获得第十一届 “飞扬杯” 研究生羽毛球师生联谊赛 **冠军**。
+1. 4 月：徐安察荣获浙江工商大学第四届 “**我心目中的好导师**” 奖。
+1. 4 月：课题组论文 “Strategic integration of adaptive sampling and ensemble techniques in federated learning for aircraft engine remaining useful life prediction” 被 **Applied Soft Computing** 接受。
+
+## 2024 年
+
+1. 11 月：团队成果 “可靠性评估的小样本理论与方法” 获 **浙江省自然科学奖三等奖**（完成人：徐安察、陈飘、王炳兴、汤银才）。
+1. 11 月：祝贺博士生庄亮亮获 **国家奖学金**。
+1. 10 月：祝贺博士生尹宏、硕士生朱迪分别获中国现场统计研究会大数据统计分会 **研究生优秀论文一等奖、二等奖**。
+1. 10 月：课题组论文 “Bayesian identification of system states in presence of measurement error” 获得第六届系统可靠性与安全工程国际会议（SRSE 2024）**最佳论文奖**。
+1. 9 月：课题组论文 “Multivariate reparameterized inverse Gaussian processes with common effects for degradation-based reliability prediction” 被 **Journal of Quality Technology** 接受。
+1. 8 月：祝贺周世荣博士获批 **国家自然科学基金青年项目**。
+1. 7 月：课题组论文 “A Multivariate Student-t process model for dependent tail-weighted degradation data” 被 **IISE Transactions** 接受。
+1. 6 月：课题组论文 “Remaining useful life prediction for two-phase degradation model based on reparameterized inverse Gaussian process” 被 **European Journal of Operational Research** 接受。
+1. 2 月：课题组论文 “A prognostic driven predictive maintenance framework based on Bayesian deep learning” 入选 **ESI 热点论文**。
+
+## 2023 年
+
+1. 12 月：博士生庄亮亮参加中国运筹学会可靠性分会年会，论文获 **优秀论文奖**。
+1. 12 月：课题组获批 **浙江省自然科学基金重点项目**。
+1. 12 月：祝贺周世荣博士获批 **浙江省自然科学基金青年项目**。
+1. 7 月：祝贺庄亮亮获得 **国家留学基金委员会** 资助，计划于 2024 年 1 月至 2025 年 1 月前往新加坡国立大学交流一年。
+
+## 2022 年
+
+1. 12 月：博士生庄亮亮参加第四届系统可靠性与安全工程国际会议，论文获 **Best Student Paper Award**。
+1. 11 月：博士生庄亮亮参加第六届全国统计博士生论坛，论文获 **全国二等奖**。

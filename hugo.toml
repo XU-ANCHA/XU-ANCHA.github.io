@@ -1,0 +1,153 @@
+baseURL = "https://www.xu-ancha.com/"
+title = "徐安察"
+theme = "hugo-coder"
+defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = false
+enableEmoji = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[pagination]
+pagerSize = 10
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+author = "徐安察"
+description = "徐安察，浙江工商大学统计学教授"
+keywords = "可靠性,退化数据,贝叶斯,统计学,徐安察"
+info = ["教授，博士生导师", "浙江工商大学"]
+avatarURL = "images/yixing.jpg"
+dateFormat = "2006年1月2日"
+since = 2011
+colorScheme = "auto"
+hideColorSchemeToggle = false
+customCSS = ["css/custom.css"]
+
+[[params.social]]
+name = "Google Scholar"
+icon = "fa-brands fa-google-scholar fa-2x"
+weight = 1
+url = "https://scholar.google.com/citations?user=hxbCeZIAAAAJ&hl=en"
+target = "_blank"
+
+[[params.social]]
+name = "ORCID"
+icon = "fa-brands fa-orcid fa-2x"
+weight = 2
+url = "https://orcid.org/0000-0003-3289-2720"
+target = "_blank"
+
+[[params.social]]
+name = "ResearchGate"
+icon = "fa-brands fa-researchgate fa-2x"
+weight = 3
+url = "https://www.researchgate.net/profile/Ancha-Xu"
+target = "_blank"
+
+[[params.social]]
+name = "GitHub"
+icon = "fa-brands fa-github fa-2x"
+weight = 4
+url = "https://github.com/XU-ANCHA"
+target = "_blank"
+
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 5
+url = "mailto:xuancha@mail.zjgsu.edu.cn"
+
+[languages]
+  [languages.zh-cn]
+    languageCode = "zh-CN"
+    languageName = "中文"
+    title = "徐安察"
+    weight = 1
+    contentDir = "content/zh"
+
+    [languages.zh-cn.params]
+      author = "徐安察"
+      info = ["教授，博士生导师", "浙江工商大学"]
+      description = "徐安察，浙江工商大学统计学教授、博士生导师。研究方向为退化数据分析与建模、贝叶斯在线学习、客观贝叶斯方法、寿命数据分析。"
+      keywords = "可靠性,退化数据,贝叶斯,统计学,徐安察"
+      dateFormat = "2006年1月2日"
+
+    [[languages.zh-cn.menu.main]]
+      name = "简介"
+      weight = 1
+      url = "about/"
+
+    [[languages.zh-cn.menu.main]]
+      name = "论文"
+      weight = 2
+      url = "publications/"
+
+    [[languages.zh-cn.menu.main]]
+      name = "团队"
+      weight = 3
+      url = "team/"
+
+    [[languages.zh-cn.menu.main]]
+      name = "教学"
+      weight = 4
+      url = "teaching/"
+
+    [[languages.zh-cn.menu.main]]
+      name = "数据集"
+      weight = 5
+      url = "datasets/"
+
+    [[languages.zh-cn.menu.main]]
+      name = "新闻"
+      weight = 6
+      url = "news/"
+
+  [languages.en]
+    languageCode = "en-US"
+    languageName = "English"
+    title = "Ancha Xu"
+    weight = 2
+    contentDir = "content/en"
+
+    [languages.en.params]
+      author = "Ancha Xu"
+      info = ["Professor", "Zhejiang Gongshang University"]
+      description = "Ancha Xu is a Professor of Statistics at Zhejiang Gongshang University. His research focuses on degradation data analysis, Bayesian online learning, objective Bayesian methods, and lifetime data analysis."
+      keywords = "reliability, degradation data, Bayesian statistics, Ancha Xu"
+      dateFormat = "January 2, 2006"
+
+    [[languages.en.menu.main]]
+      name = "About"
+      weight = 1
+      url = "about/"
+
+    [[languages.en.menu.main]]
+      name = "Papers"
+      weight = 2
+      url = "publications/"
+
+    [[languages.en.menu.main]]
+      name = "Team"
+      weight = 3
+      url = "team/"
+
+    [[languages.en.menu.main]]
+      name = "Teaching"
+      weight = 4
+      url = "teaching/"
+
+    [[languages.en.menu.main]]
+      name = "Datasets"
+      weight = 5
+      url = "datasets/"
+
+    [[languages.en.menu.main]]
+      name = "News"
+      weight = 6
+      url = "news/"

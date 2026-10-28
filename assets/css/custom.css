@@ -1,0 +1,16 @@
+.content img {
+  max-width: min(100%, 720px);
+  height: auto;
+}
+
+.content img.cover {
+  max-width: 220px;
+}
+
+.content img.qr {
+  max-width: 180px;
+}
+
+.content img.team {
+  max-width: min(100%, 840px);
+}
