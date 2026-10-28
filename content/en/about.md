@@ -45,7 +45,7 @@ Ancha Xu, Yincai Tang, and Liangliang Zhuang
 Science Press, Beijing, December 2025  
 Selected for the Statistics and Data Science book series
 
-![Cover of Stochastic Degradation Processes and Statistical Modeling](https://github.com/user-attachments/assets/370208e5-288e-4d7f-aeba-cea1fa096e2e)
+<img class="cover" src="https://github.com/user-attachments/assets/370208e5-288e-4d7f-aeba-cea1fa096e2e" alt="Cover of Stochastic Degradation Processes and Statistical Modeling">
 
 ## Awards
 
