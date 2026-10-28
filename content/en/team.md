@@ -3,7 +3,7 @@ title: "Team"
 slug: "team"
 ---
 
-![Research group](/images/team.jpg)
+<img class="team" src="/images/team.jpg" alt="Research group">
 
 ## Collaborators
 

@@ -5,7 +5,7 @@ aliases:
   - /portfolio/
 ---
 
-![研究团队合影](/images/team.jpg)
+<img class="team" src="/images/team.jpg" alt="研究团队合影">
 
 ## 合作者
 
