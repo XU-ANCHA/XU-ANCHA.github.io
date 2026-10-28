@@ -1,4 +1,4 @@
-/* 局部图文卡片：专著、公众号、小红书 */
+/* 局部图文卡片：专著、公众号 */
 
 .book-card {
   display: grid;
@@ -7,9 +7,13 @@
   align-items: center;
   margin: 1.2rem 0 2.4rem;
   padding: 1.3rem 1.5rem;
-  border: 1px solid #e6edf5;
+  border: 1px solid rgba(42, 45, 50, 0.08);
   border-radius: 16px;
-  background: #fff;
+  background: #FFFEFB;
+  box-shadow:
+    0 1px 1px rgba(42, 45, 50, 0.04),
+    0 10px 28px rgba(42, 45, 50, 0.07),
+    inset 0 1px 0 rgba(255, 255, 255, 0.85);
 }
 
 .book-card__info {
@@ -25,7 +29,8 @@
   width: 230px;
   max-width: 100%;
   height: auto;
-  border-radius: 6px;
+  border-radius: 8px;
+  box-shadow: 0 12px 28px rgba(42, 45, 50, 0.16);
 }
 
 .meta-pill {
@@ -33,8 +38,8 @@
   margin-top: 0.55rem;
   padding: 0.22rem 0.7rem;
   border-radius: 999px;
-  background: #f2f6fb;
-  color: #42526b;
+  background: #ECEBE8;
+  color: #4A4E55;
   font-size: 0.82rem;
 }
 
@@ -42,15 +47,19 @@
   display: grid;
   grid-template-columns: repeat(2, minmax(220px, 1fr));
   gap: 1.2rem;
-  margin: 1.2rem 0 2rem;
+  margin: 1.6rem 0 0.4rem;
 }
 
 .social-card {
   padding: 1.2rem;
-  border: 1px solid #e6edf5;
+  border: 1px solid rgba(42, 45, 50, 0.08);
   border-radius: 16px;
-  background: #fff;
+  background: #FFFEFB;
   text-align: center;
+  box-shadow:
+    0 1px 1px rgba(42, 45, 50, 0.04),
+    0 10px 28px rgba(42, 45, 50, 0.07),
+    inset 0 1px 0 rgba(255, 255, 255, 0.85);
 }
 
 .social-card h3 {
@@ -61,7 +70,7 @@
 
 .social-card p {
   margin: 0 0 1rem;
-  color: #5f6f83;
+  color: #6A6D73;
   font-size: 0.92rem;
 }
 
@@ -90,43 +99,26 @@
   }
 }
 
-
 .book-card__label {
-
   margin-bottom: 0.5rem;
-
-  color: #6b7890;
-
+  color: #6A6D73;
   font-size: 0.85rem;
-
-  letter-spacing: 0.08em;
-
+  letter-spacing: 0.12em;
 }
 
 .book-card__title {
-
   margin: 0 0 0.75rem !important;
-
-  color: #1f2d44;
-
+  color: #2A2D32;
   font-size: 1.35rem;
-
   border-bottom: 0 !important;
-
 }
 
 .book-card__authors {
-
   margin-bottom: 0.4rem;
-
   font-size: 1rem;
-
 }
 
 .book-card__meta {
-
   margin-bottom: 0.8rem;
-
-  color: #56657a;
-
+  color: #6A6D73;
 }

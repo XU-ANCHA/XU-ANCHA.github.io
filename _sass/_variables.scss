@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -55,24 +55,24 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #7A7E86;
+$dark-gray                  : #3A3E44;
+$darker-gray                : #2A2D32;
+$light-gray                 : #C5C7CB;
+$lighter-gray               : #ECEBE8;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$body-color                 : #F3F2F0;
+$background-color           : #F3F2F0;
+$code-background-color      : #F7F6F4;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : #3A3E44;
+$border-color               : #E2E1DD;
 
-$primary-color              : #7a8288;
+$primary-color              : #4A4E55;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #5C6570;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -102,11 +102,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : #4A5560;
+$link-color-hover           : #1F2227;
+$link-color-visited         : #5C6570;
+$masthead-link-color        : #EDECEA;
+$masthead-link-color-hover  : #ffffff;
 
 
 /*
@@ -158,8 +158,8 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 14px;
+$box-shadow                 : 0 10px 28px rgba(42, 45, 50, 0.08), 0 1px 0 rgba(255, 255, 255, 0.7) inset;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
