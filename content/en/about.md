@@ -125,7 +125,7 @@ Selected for the Statistics and Data Science book series
 
 Reliability Statistics
 
-![QR code for the Reliability Statistics WeChat public account](https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b)
+<img class="qr" src="https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b" alt="QR code for the Reliability Statistics WeChat public account">
 
 ## Prospective students
 
