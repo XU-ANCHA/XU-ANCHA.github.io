@@ -127,7 +127,7 @@ Research Fellow，新加坡国立大学
 
 可靠性统计
 
-![可靠性统计微信公众号二维码](https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b)
+<img class="qr" src="https://github.com/user-attachments/assets/7a009c48-7755-488b-9325-7e18c450658b" alt="可靠性统计微信公众号二维码">
 
 ## 招生
 
