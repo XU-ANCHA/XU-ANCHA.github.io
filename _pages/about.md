@@ -37,7 +37,6 @@ redirect_from:
     <span class="chip">寿命数据分析</span>
   </div>
 
-  <a class="ppt-link" href="/files/slides/研究介绍-徐安察.pptx">研究工作简介（5页 PPT）</a>
 </div>
 
 ## 教育背景及经历
