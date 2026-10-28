@@ -113,7 +113,10 @@ body.colorscheme-dark .float-container a:focus {
 }
 
 .content img.cover {
-  max-width: 220px;
+  display: block;
+  width: 160px;
+  max-width: 40%;
+  height: auto;
 }
 
 .content img.qr {

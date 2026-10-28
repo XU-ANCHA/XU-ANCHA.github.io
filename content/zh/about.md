@@ -47,7 +47,7 @@ Research Fellow，新加坡国立大学
 科学出版社，北京，2025 年 12 月  
 入选统计与数据科学丛书
 
-![随机退化过程与统计建模书封面](https://github.com/user-attachments/assets/370208e5-288e-4d7f-aeba-cea1fa096e2e)
+<img class="cover" src="https://github.com/user-attachments/assets/370208e5-288e-4d7f-aeba-cea1fa096e2e" alt="随机退化过程与统计建模书封面">
 
 ## 获奖
 
