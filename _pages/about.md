@@ -11,32 +11,6 @@ redirect_from:
   <p class="home-kicker">个人简介</p>
   <p class="home-lead">徐安察，浙江工商大学统计学教授，博士生导师。研究方向包括退化数据分析与建模、贝叶斯在线学习、客观贝叶斯方法、寿命数据分析。迄今以第一作者或通讯作者在 <em>Naval Research Logistics</em>、<em>Scandinavian Journal of Statistics</em>、<em>Journal of Quality Technology</em>、<em>European Journal of Operational Research</em>、<em>IEEE Transactions on Reliability</em>、<em>IISE Transactions</em> 等国际可靠性及统计主流杂志上发表 SCI 论文 60 余篇，其中 ESI 高被引论文 6 篇。已主持国家自然科学基金以及省部级项目十余项。获浙江省自然科学奖、福建省自然科学奖、第一届全国统计科学技术进步奖等。入选浙江省高校“院士专家结对培养青年英才计划”、浙江省高层次人才特殊支持计划教育青年人才。目前担任中国运筹学会可靠性分会副理事长、中国现场统计研究会可靠性工程分会常务理事、中国现场统计研究会大数据统计分会常务理事，以及国内统计英文期刊 <em>Statistical Theory and Related Fields</em> 副主编。</p>
 
-  <div class="home-stats">
-    <div class="home-stat">
-      <span class="home-stat__value">60+</span>
-      <span class="home-stat__label">SCI 论文</span>
-    </div>
-    <div class="home-stat">
-      <span class="home-stat__value">6</span>
-      <span class="home-stat__label">ESI 高被引</span>
-    </div>
-    <div class="home-stat">
-      <span class="home-stat__value">10+</span>
-      <span class="home-stat__label">主持项目</span>
-    </div>
-    <div class="home-stat">
-      <span class="home-stat__value">3</span>
-      <span class="home-stat__label">省部级奖励</span>
-    </div>
-  </div>
-
-  <div class="chip-row">
-    <span class="chip">退化数据分析与建模</span>
-    <span class="chip">贝叶斯在线学习</span>
-    <span class="chip">客观贝叶斯方法</span>
-    <span class="chip">寿命数据分析</span>
-  </div>
-
 </div>
 
 ## 教育背景及经历
