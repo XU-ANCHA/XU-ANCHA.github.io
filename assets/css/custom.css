@@ -1,5 +1,5 @@
 :root {
-  /* Page canvas. Change this to recolor the whole background. */
+  /* 页面背景色。改这一行即可换整站底色。 */
   --page-bg: rgb(196, 203, 207);
   --page-fg: #22251f;
   --page-heading: #1a1c18;
@@ -7,7 +7,7 @@
   --page-muted: #4a4e47;
   --page-alt: #c5c8c1;
   --page-border: #8a8e86;
-  /* Raised cards on the homepage and inner pages. */
+  /* 卡片底色（首页个人卡片和各页内容模块）。 */
   --module-bg: #f4f6f7;
   --module-border: rgba(255, 255, 255, 0.7);
   --module-divider: rgba(34, 37, 31, 0.08);
@@ -246,7 +246,7 @@ body.colorscheme-dark .float-container a:focus {
 }
 
 body.colorscheme-dark {
-  /* Dark-mode canvas and cards. */
+  /* 深色模式：页面背景。 */
   --page-bg: #3e423c;
   --page-fg: #e6e8e3;
   --page-heading: #f2f3ef;
@@ -254,6 +254,7 @@ body.colorscheme-dark {
   --page-muted: #b4b8b0;
   --page-alt: #545850;
   --page-border: #6a6e66;
+  /* 深色模式：卡片底色。 */
   --module-bg: #4a4e48;
   --module-border: rgba(255, 255, 255, 0.08);
   --module-divider: rgba(246, 247, 243, 0.12);
