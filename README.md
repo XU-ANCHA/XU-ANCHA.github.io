@@ -1,39 +1,37 @@
-# 个人主页
+# 徐安察的个人主页
 
-更新内容的网址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/_pages
+站点基于 [Hugo](https://gohugo.io/) 与 [hugo-coder](https://github.com/luizdepra/hugo-coder) 主题，默认中文，英文在 `/en/`。在线地址：[www.xu-ancha.com](https://www.xu-ancha.com/)。
 
-相关页面对应文件：
-- 首页：[about.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/about.md)
-- 论文：[publications.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/publications.md)
-- 团队：[portfolio.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/portfolio.md)
-- 报告：[talks.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/talks.md)
-- 教学：[teaching.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/teaching.md)
-- 新闻：[year-archive.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/year-archive.md)
-- 数据集：[datasets.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/datasets.md)
-- 简历：[cv.md](https://github.com/XU-ANCHA/XU-ANCHA.github.io/blob/main/_pages/cv.md)
+## 编辑内容
 
-图片存储地址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/images
+| 页面 | 中文 | 英文 |
+| --- | --- | --- |
+| 首页信息（姓名、头衔、社交链接） | `hugo.toml` 中 `[languages.zh-cn]` | `hugo.toml` 中 `[languages.en]` |
+| 简介 | [`content/zh/about.md`](content/zh/about.md) | [`content/en/about.md`](content/en/about.md) |
+| 论文 | [`content/zh/publications.md`](content/zh/publications.md) | [`content/en/publications.md`](content/en/publications.md) |
+| 团队 | [`content/zh/team.md`](content/zh/team.md) | [`content/en/team.md`](content/en/team.md) |
+| 教学 | [`content/zh/teaching.md`](content/zh/teaching.md) | [`content/en/teaching.md`](content/en/teaching.md) |
+| 数据集 | [`content/zh/datasets.md`](content/zh/datasets.md) | [`content/en/datasets.md`](content/en/datasets.md) |
+| 新闻 | [`content/zh/news.md`](content/zh/news.md) | [`content/en/news.md`](content/en/news.md) |
 
-文件存储地址：https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main/files
+图片放在 `static/images/`，课件、数据集等文件放在 `static/files/`。Markdown 中可写成：
 
-使用方式，例如：```[<a href="/files/slides/xxx.pdf">Slides</a>]  ```
+```markdown
+[Slides](/files/slides/xxx.pdf)
+```
 
-## 使用教程
+头像文件为 `static/images/yixing.jpg`，在 `hugo.toml` 的 `avatarURL` 中引用。
 
-1. 找到对应文件地址，点击右上角：edit
+## 本地预览
 
-<img width="965" alt="image" src="https://github.com/user-attachments/assets/92dfad50-e50a-4af2-8960-71e92b13fbfe">
+需要 [Hugo extended](https://gohugo.io/installation/) 0.124 或更高版本：
 
-2. 添加/修改完毕后，点击右上方的 Commit changes（绿色）
+```bash
+hugo server
+```
 
-3. 默认情况下，点击 Commit changes 即可
+浏览器打开 <http://localhost:1313/>。导航栏右侧的 **English / 中文** 可切换语言。
 
-<img width="483" alt="image" src="https://github.com/user-attachments/assets/272a9324-44ba-4325-8859-dcc65898c23b">
+## 部署
 
-4. 回到[主页](https://github.com/XU-ANCHA/XU-ANCHA.github.io/tree/main)，等待左上角的状态变为【✅】即可：
-
-<img width="343" alt="image" src="https://github.com/user-attachments/assets/e1081fa8-d1f4-48c1-bccf-1f0089f364ee">
-
-5. 刷新[个人网站](https://xu-ancha.github.io/)，得到最新版本。
-
-> 如果需要添加新的栏目，具体步骤为：(1) 在 `_data/navigation.yml` 添加新栏目名称；（2）在 `_pages/xxx.md` 新建对应名称的文件，并填充内容。
+站点由 GitHub Actions（[`.github/workflows/hugo.yml`](.github/workflows/hugo.yml)）构建并发布到 GitHub Pages。首次切换到本仓库后，请在仓库 **Settings → Pages → Build and deployment → Source** 中选择 **GitHub Actions**。自定义域名 `www.xu-ancha.com` 写在 `static/CNAME`。
