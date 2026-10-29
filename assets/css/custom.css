@@ -357,7 +357,7 @@ body.colorscheme-dark {
   --page-alt: #545850;
   --page-border: #6a6e66;
   /* 深色模式：卡片为高级灰加一点透明，透出背景。 */
-  --module-bg: rgba(196, 203, 207, 0.18);
+  --module-bg: rgba(196, 203, 207, 0.38);
   --module-border: rgba(196, 203, 207, 0.28);
   --module-divider: rgba(246, 247, 243, 0.12);
   --module-shadow:
