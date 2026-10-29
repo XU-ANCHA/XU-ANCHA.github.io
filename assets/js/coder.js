@@ -1,5 +1,7 @@
 const body = document.body;
 const darkModeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+const palettes = ["warm-stone", "sage", "slate", "zinc", "ink"];
+const themes = ["light", "dark", "auto"].concat(palettes);
 
 function storedTheme() {
   return localStorage.getItem("colorscheme");
@@ -13,16 +15,29 @@ function syncThemeChoices(theme) {
   });
 }
 
-function setTheme(theme, persist) {
-  const next = theme === "dark" || theme === "light" || theme === "auto" ? theme : "auto";
+function clearThemeClasses() {
   body.classList.remove("colorscheme-light", "colorscheme-dark", "colorscheme-auto");
+  palettes.forEach(function (name) {
+    body.classList.remove("palette-" + name);
+  });
+}
+
+function setTheme(theme, persist) {
+  const next = themes.indexOf(theme) >= 0 ? theme : "auto";
+  clearThemeClasses();
 
   if (next === "auto") {
     body.classList.add("colorscheme-auto");
     document.documentElement.style.colorScheme = "light dark";
+  } else if (next === "dark") {
+    body.classList.add("colorscheme-dark");
+    document.documentElement.style.colorScheme = "dark";
+  } else if (next === "light") {
+    body.classList.add("colorscheme-light");
+    document.documentElement.style.colorScheme = "light";
   } else {
-    body.classList.add("colorscheme-" + next);
-    document.documentElement.style.colorScheme = next;
+    body.classList.add("colorscheme-light", "palette-" + next);
+    document.documentElement.style.colorScheme = "light";
   }
 
   syncThemeChoices(next);

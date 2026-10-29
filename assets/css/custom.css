@@ -255,6 +255,11 @@ body.colorscheme-dark .float-container a:focus {
   }
 }
 
+.navigation {
+  position: relative;
+  z-index: 40;
+}
+
 .theme-switcher {
   position: relative;
 }
@@ -284,31 +289,50 @@ body.colorscheme-dark .float-container a:focus {
   position: absolute;
   right: 0;
   top: calc(100% + 0.6rem);
-  min-width: 12.5rem;
+  min-width: 18rem;
   padding: 0.5rem 0;
   background: var(--module-bg);
   border: 1px solid var(--module-border);
   border-radius: 1rem;
   box-shadow: var(--module-shadow);
+  overflow: hidden;
   z-index: 30;
 }
 
 .theme-choice {
-  display: block;
+  display: flex;
+  align-items: center;
   width: 100%;
   margin: 0;
-  padding: 0.7rem 1.4rem;
+  padding: 0.55rem 1.3rem;
   border: 0;
   background: transparent;
   font: inherit;
   font-size: 1.6rem;
   font-weight: 600;
   text-align: left;
+  white-space: nowrap;
   cursor: pointer;
 }
 
 .theme-choice.is-active {
   color: var(--page-link);
+}
+
+.theme-swatch {
+  display: inline-block;
+  flex: 0 0 0.9em;
+  width: 0.9em;
+  height: 0.9em;
+  margin-right: 0.55em;
+  border-radius: 50%;
+  border: 1px solid rgba(34, 37, 31, 0.16);
+}
+
+.theme-choice[data-theme="warm-stone"] {
+  margin-top: 0.35rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--module-divider);
 }
 
 @media only screen and (max-width: 768px) {
@@ -342,9 +366,39 @@ body.colorscheme-dark .float-container a:focus {
     width: auto;
     margin: 0 auto;
     padding: 0;
-    line-height: 5rem;
+    line-height: 3.8rem;
     text-align: center;
   }
+
+  .theme-choice[data-theme="warm-stone"] {
+    margin-top: 0.6rem;
+    padding-top: 0.8rem;
+  }
+}
+
+body.palette-warm-stone {
+  --page-bg: #d8d5ce;
+  --module-bg: #f0eee9;
+}
+
+body.palette-sage {
+  --page-bg: #c4c9be;
+  --module-bg: #f1f3ee;
+}
+
+body.palette-slate {
+  --page-bg: #a8b2bb;
+  --module-bg: #eef1f4;
+}
+
+body.palette-zinc {
+  --page-bg: #c5c8cc;
+  --module-bg: #f4f5f6;
+}
+
+body.palette-ink {
+  --page-bg: #a8b4b5;
+  --module-bg: #eef2f2;
 }
 
 body.colorscheme-dark {
@@ -364,6 +418,10 @@ body.colorscheme-dark {
     0 1px 0 rgba(255, 255, 255, 0.14) inset,
     0 10px 24px rgba(0, 0, 0, 0.28),
     0 22px 40px rgba(0, 0, 0, 0.18);
+}
+
+body.colorscheme-dark .theme-choices {
+  background: #4a4e48;
 }
 
 body.colorscheme-dark .centered .about .avatar img {
@@ -392,6 +450,10 @@ body.colorscheme-dark .module img.team {
       0 1px 0 rgba(255, 255, 255, 0.14) inset,
       0 10px 24px rgba(0, 0, 0, 0.28),
       0 22px 40px rgba(0, 0, 0, 0.18);
+  }
+
+  body.colorscheme-auto .theme-choices {
+    background: #4a4e48;
   }
 
   body.colorscheme-auto .centered .about .avatar img {

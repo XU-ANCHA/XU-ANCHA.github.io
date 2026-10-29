@@ -46,13 +46,35 @@
             </summary>
             <div class="theme-choices" role="group" aria-label="{{ if $isEN }}Color scheme{{ else }}颜色模式{{ end }}">
               <button type="button" class="theme-choice" data-theme="light">
+                <span class="theme-swatch" style="background:#c4cbcf"></span>
                 {{ if $isEN }}Light{{ else }}浅色{{ end }}
               </button>
               <button type="button" class="theme-choice" data-theme="dark">
+                <span class="theme-swatch" style="background:#3e423c"></span>
                 {{ if $isEN }}Dark{{ else }}深色{{ end }}
               </button>
               <button type="button" class="theme-choice" data-theme="auto">
                 {{ if $isEN }}System{{ else }}跟随系统{{ end }}
+              </button>
+              <button type="button" class="theme-choice theme-choice-palette" data-theme="warm-stone">
+                <span class="theme-swatch" style="background:#d8d5ce"></span>
+                {{ if $isEN }}Warm stone{{ else }}云舞者暖石{{ end }}
+              </button>
+              <button type="button" class="theme-choice theme-choice-palette" data-theme="sage">
+                <span class="theme-swatch" style="background:#c4c9be"></span>
+                {{ if $isEN }}Sage{{ else }}鼠尾草{{ end }}
+              </button>
+              <button type="button" class="theme-choice theme-choice-palette" data-theme="slate">
+                <span class="theme-swatch" style="background:#a8b2bb"></span>
+                {{ if $isEN }}Slate{{ else }}石板{{ end }}
+              </button>
+              <button type="button" class="theme-choice theme-choice-palette" data-theme="zinc">
+                <span class="theme-swatch" style="background:#c5c8cc"></span>
+                {{ if $isEN }}Zinc{{ else }}锌灰{{ end }}
+              </button>
+              <button type="button" class="theme-choice theme-choice-palette" data-theme="ink">
+                <span class="theme-swatch" style="background:#a8b4b5"></span>
+                {{ if $isEN }}Ink teal{{ else }}墨青{{ end }}
               </button>
             </div>
           </details>
