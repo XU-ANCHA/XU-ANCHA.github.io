@@ -1,6 +1,6 @@
 :root {
-  /* 页面背景色。改这一行即可换整站底色。 */
-  --page-bg: rgb(196, 203, 207);
+  /* 默认配色：云舞者暖石。浅色菜单项仍是原来的灰蓝。 */
+  --page-bg: #d8d5ce;
   --page-fg: #22251f;
   --page-heading: #1a1c18;
   --page-link: #1e4a34;
@@ -8,7 +8,7 @@
   --page-alt: #c5c8c1;
   --page-border: #8a8e86;
   /* 卡片底色（首页个人卡片和各页内容模块）。 */
-  --module-bg: #f4f6f7;
+  --module-bg: #f0eee9;
   --module-border: rgba(255, 255, 255, 0.7);
   --module-divider: rgba(34, 37, 31, 0.08);
   --module-shadow:
@@ -103,7 +103,22 @@ body.colorscheme-auto .navigation a:focus {
 .footer,
 body.colorscheme-dark .footer,
 body.colorscheme-auto .footer {
+  width: 100%;
+  margin: 2.2rem 0 1.4rem;
   color: var(--page-muted);
+  font-size: 1.3rem;
+  line-height: 2rem;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+
+.footer .site-hits {
+  color: var(--page-muted);
+  opacity: 0.78;
+}
+
+.footer .site-hits-count {
+  font-variant-numeric: tabular-nums;
 }
 
 .footer a,
@@ -374,6 +389,11 @@ body.colorscheme-dark .float-container a:focus {
     margin-top: 0.6rem;
     padding-top: 0.8rem;
   }
+}
+
+body.palette-mist {
+  --page-bg: rgb(196, 203, 207);
+  --module-bg: #f4f6f7;
 }
 
 body.palette-warm-stone {

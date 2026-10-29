@@ -28,7 +28,7 @@ since = 2011
 colorScheme = "auto"
 hideColorSchemeToggle = true
 customCSS = ["css/custom.css"]
-customJS = ["js/modules.js"]
+customJS = ["js/modules.js", "js/hits.js"]
 
 [[params.social]]
 name = "Google Scholar"

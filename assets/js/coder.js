@@ -2,6 +2,7 @@ const body = document.body;
 const darkModeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
 const palettes = ["warm-stone", "sage", "slate", "zinc", "ink"];
 const themes = ["light", "dark", "auto"].concat(palettes);
+const defaultTheme = "warm-stone";
 
 function storedTheme() {
   return localStorage.getItem("colorscheme");
@@ -16,14 +17,14 @@ function syncThemeChoices(theme) {
 }
 
 function clearThemeClasses() {
-  body.classList.remove("colorscheme-light", "colorscheme-dark", "colorscheme-auto");
+  body.classList.remove("colorscheme-light", "colorscheme-dark", "colorscheme-auto", "palette-mist");
   palettes.forEach(function (name) {
     body.classList.remove("palette-" + name);
   });
 }
 
 function setTheme(theme, persist) {
-  const next = themes.indexOf(theme) >= 0 ? theme : "auto";
+  const next = themes.indexOf(theme) >= 0 ? theme : defaultTheme;
   clearThemeClasses();
 
   if (next === "auto") {
@@ -33,7 +34,7 @@ function setTheme(theme, persist) {
     body.classList.add("colorscheme-dark");
     document.documentElement.style.colorScheme = "dark";
   } else if (next === "light") {
-    body.classList.add("colorscheme-light");
+    body.classList.add("colorscheme-light", "palette-mist");
     document.documentElement.style.colorScheme = "light";
   } else {
     body.classList.add("colorscheme-light", "palette-" + next);
@@ -61,7 +62,7 @@ function syncThemeMenu() {
   });
 }
 
-setTheme(storedTheme() || "auto", false);
+setTheme(storedTheme() || defaultTheme, false);
 
 document.addEventListener("click", function (event) {
   const button = event.target.closest(".theme-choice");
@@ -83,7 +84,7 @@ document.addEventListener("click", function (event) {
 
 if (typeof darkModeMediaQuery.addEventListener === "function") {
   darkModeMediaQuery.addEventListener("change", function () {
-    if ((storedTheme() || "auto") === "auto") {
+    if (storedTheme() === "auto") {
       setTheme("auto", false);
     }
   });
@@ -94,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (node) {
     node.classList.remove("preload-transitions");
   }
-  syncThemeChoices(storedTheme() || "auto");
+  syncThemeChoices(storedTheme() || defaultTheme);
   syncThemeMenu();
 });
 

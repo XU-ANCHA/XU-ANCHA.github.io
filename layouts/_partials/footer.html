@@ -1,1 +1,12 @@
-{{/* Site credit line omitted. */}}
+<footer class="footer">
+  <section class="container">
+    <span class="site-hits" hidden>
+      {{ if eq .Site.Language.Lang "en" }}
+        <span id="vercount_value_site_pv" class="site-hits-count"></span> visits
+      {{ else }}
+        浏览 <span id="vercount_value_site_pv" class="site-hits-count"></span>
+      {{ end }}
+    </span>
+  </section>
+</footer>
+<script defer src="https://events.vercount.one/js"></script>
