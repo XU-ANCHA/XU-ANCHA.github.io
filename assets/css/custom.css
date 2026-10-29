@@ -74,15 +74,25 @@ body.colorscheme-auto blockquote {
 
 .navigation a,
 .navigation span,
+.navigation summary,
+.navigation .theme-choice,
 body.colorscheme-dark .navigation a,
 body.colorscheme-dark .navigation span,
+body.colorscheme-dark .navigation summary,
+body.colorscheme-dark .navigation .theme-choice,
 body.colorscheme-auto .navigation a,
-body.colorscheme-auto .navigation span {
+body.colorscheme-auto .navigation span,
+body.colorscheme-auto .navigation summary,
+body.colorscheme-auto .navigation .theme-choice {
   color: var(--page-fg);
 }
 
 .navigation a:hover,
 .navigation a:focus,
+.navigation summary:hover,
+.navigation summary:focus,
+.navigation .theme-choice:hover,
+.navigation .theme-choice:focus,
 body.colorscheme-dark .navigation a:hover,
 body.colorscheme-dark .navigation a:focus,
 body.colorscheme-auto .navigation a:hover,
@@ -242,6 +252,96 @@ body.colorscheme-dark .float-container a:focus {
     background-color: var(--page-bg);
     border-top-color: var(--page-border);
     border-bottom-color: var(--page-border);
+  }
+}
+
+.theme-switcher {
+  position: relative;
+}
+
+.theme-switcher details {
+  position: relative;
+}
+
+.theme-switcher summary {
+  list-style: none;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.7rem;
+}
+
+.theme-switcher summary::-webkit-details-marker {
+  display: none;
+}
+
+.theme-switcher summary::after {
+  content: " ▾";
+  font-size: 0.85em;
+  opacity: 0.7;
+}
+
+.theme-choices {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 0.6rem);
+  min-width: 12.5rem;
+  padding: 0.5rem 0;
+  background: var(--module-bg);
+  border: 1px solid var(--module-border);
+  border-radius: 1rem;
+  box-shadow: var(--module-shadow);
+  z-index: 30;
+}
+
+.theme-choice {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0.7rem 1.4rem;
+  border: 0;
+  background: transparent;
+  font: inherit;
+  font-size: 1.6rem;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+}
+
+.theme-choice.is-active {
+  color: var(--page-link);
+}
+
+@media only screen and (max-width: 768px) {
+  .theme-switcher {
+    float: none !important;
+    text-align: center;
+  }
+
+  .theme-switcher summary::after {
+    content: none;
+  }
+
+  .theme-switcher summary {
+    pointer-events: none;
+    line-height: 5rem;
+  }
+
+  .theme-choices {
+    position: static;
+    min-width: 0;
+    padding: 0;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .theme-choice {
+    width: auto;
+    margin: 0 auto;
+    padding: 0;
+    line-height: 5rem;
+    text-align: center;
   }
 }
 

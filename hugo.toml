@@ -26,7 +26,7 @@ avatarURL = "images/yixing.jpg"
 dateFormat = "2006年1月2日"
 since = 2011
 colorScheme = "auto"
-hideColorSchemeToggle = false
+hideColorSchemeToggle = true
 customCSS = ["css/custom.css"]
 customJS = ["js/modules.js"]
 
