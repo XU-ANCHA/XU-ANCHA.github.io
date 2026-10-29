@@ -6,10 +6,15 @@
   }
 
   function reveal() {
+    if (box.classList.contains("is-ready")) {
+      return true;
+    }
     const text = (count.textContent || "").replace(/,/g, "").trim();
     if (!text || text.toLowerCase() === "loading" || !/^\d+$/.test(text)) {
       return false;
     }
+    const total = parseInt(text, 10);
+    count.textContent = total.toLocaleString("en-US");
     box.hidden = false;
     box.classList.add("is-ready");
     return true;
