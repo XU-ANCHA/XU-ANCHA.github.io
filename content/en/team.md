@@ -17,6 +17,8 @@ slug: "team"
 - **2022** [Liangliang Zhuang](https://zll-blog.netlify.app/) (co-supervised with Prof. [Liping Zhu](http://isbd.ruc.edu.cn/sztd/1300f3797f4e477789514056a51c9dfa.htm))
 - **2024** Hong Yin
 - **2025** Di Zhu, Binbing Wang, Bin Yu
+- **2026** Xinhui Lyu
+- **2027** Bowen Zheng (direct Ph.D. from bachelor’s)
 
 ## M.S. students
 
@@ -32,6 +34,7 @@ slug: "team"
 - **2023** Renbing Wang, Qi Wu
 - **2024** Zhen Chen, Lijia Liu, Juan Wang
 - **2025** Ziqi Chen, Shuling Ding, Jiahui Liu, Yihang Miu, Jiaxiang Sun, Mengting Zhong
+- **2026** Qing Lan, Nan Liu, Peng Liu, Xuhang Jiang, Jiangtao Tan, Yuxin Zheng
 
 ## Student competitions
 
