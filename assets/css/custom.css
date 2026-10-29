@@ -323,7 +323,9 @@ body.colorscheme-dark .float-container a:focus {
 
   .theme-switcher summary {
     pointer-events: none;
-    line-height: 5rem;
+    line-height: 4.2rem;
+    margin-top: 0.8rem;
+    color: var(--page-muted);
   }
 
   .theme-choices {
