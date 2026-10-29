@@ -356,12 +356,12 @@ body.colorscheme-dark {
   --page-muted: #b4b8b0;
   --page-alt: #545850;
   --page-border: #6a6e66;
-  /* 深色模式：卡片底色。 */
-  --module-bg: #4a4e48;
-  --module-border: rgba(255, 255, 255, 0.08);
+  /* 深色模式：卡片为高级灰加一点透明，透出背景。 */
+  --module-bg: rgba(196, 203, 207, 0.18);
+  --module-border: rgba(196, 203, 207, 0.28);
   --module-divider: rgba(246, 247, 243, 0.12);
   --module-shadow:
-    0 1px 0 rgba(255, 255, 255, 0.06) inset,
+    0 1px 0 rgba(255, 255, 255, 0.14) inset,
     0 10px 24px rgba(0, 0, 0, 0.28),
     0 22px 40px rgba(0, 0, 0, 0.18);
 }
@@ -385,11 +385,11 @@ body.colorscheme-dark .module img.team {
     --page-muted: #b4b8b0;
     --page-alt: #545850;
     --page-border: #6a6e66;
-    --module-bg: #4a4e48;
-    --module-border: rgba(255, 255, 255, 0.08);
+    --module-bg: rgba(196, 203, 207, 0.18);
+    --module-border: rgba(196, 203, 207, 0.28);
     --module-divider: rgba(246, 247, 243, 0.12);
     --module-shadow:
-      0 1px 0 rgba(255, 255, 255, 0.06) inset,
+      0 1px 0 rgba(255, 255, 255, 0.14) inset,
       0 10px 24px rgba(0, 0, 0, 0.28),
       0 22px 40px rgba(0, 0, 0, 0.18);
   }
