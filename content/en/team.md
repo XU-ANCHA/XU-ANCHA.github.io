@@ -18,7 +18,7 @@ slug: "team"
 - **2024** Hong Yin
 - **2025** Di Zhu, Binbing Wang, Bin Yu
 - **2026** Xinhui Lyu
-- **2027** Bowen Zheng (direct Ph.D. from bachelor’s)
+- **2027** Bowen Zheng (direct Ph.D. from bachelor's)
 
 ## M.S. students
 
