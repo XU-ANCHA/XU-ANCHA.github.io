@@ -255,6 +255,11 @@ body.colorscheme-dark .float-container a:focus {
   }
 }
 
+.navigation {
+  position: relative;
+  z-index: 40;
+}
+
 .theme-switcher {
   position: relative;
 }
@@ -284,26 +289,29 @@ body.colorscheme-dark .float-container a:focus {
   position: absolute;
   right: 0;
   top: calc(100% + 0.6rem);
-  min-width: 16rem;
+  min-width: 18rem;
   padding: 0.5rem 0;
   background: var(--module-bg);
   border: 1px solid var(--module-border);
   border-radius: 1rem;
   box-shadow: var(--module-shadow);
+  overflow: hidden;
   z-index: 30;
 }
 
 .theme-choice {
-  display: block;
+  display: flex;
+  align-items: center;
   width: 100%;
   margin: 0;
-  padding: 0.7rem 1.4rem;
+  padding: 0.55rem 1.3rem;
   border: 0;
   background: transparent;
   font: inherit;
   font-size: 1.6rem;
   font-weight: 600;
   text-align: left;
+  white-space: nowrap;
   cursor: pointer;
 }
 
@@ -313,12 +321,12 @@ body.colorscheme-dark .float-container a:focus {
 
 .theme-swatch {
   display: inline-block;
-  width: 0.85em;
-  height: 0.85em;
+  flex: 0 0 0.9em;
+  width: 0.9em;
+  height: 0.9em;
   margin-right: 0.55em;
   border-radius: 50%;
   border: 1px solid rgba(34, 37, 31, 0.16);
-  vertical-align: -0.05em;
 }
 
 .theme-choice[data-theme="warm-stone"] {
@@ -412,6 +420,10 @@ body.colorscheme-dark {
     0 22px 40px rgba(0, 0, 0, 0.18);
 }
 
+body.colorscheme-dark .theme-choices {
+  background: #4a4e48;
+}
+
 body.colorscheme-dark .centered .about .avatar img {
   border-color: rgba(255, 255, 255, 0.12);
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
@@ -438,6 +450,10 @@ body.colorscheme-dark .module img.team {
       0 1px 0 rgba(255, 255, 255, 0.14) inset,
       0 10px 24px rgba(0, 0, 0, 0.28),
       0 22px 40px rgba(0, 0, 0, 0.18);
+  }
+
+  body.colorscheme-auto .theme-choices {
+    background: #4a4e48;
   }
 
   body.colorscheme-auto .centered .about .avatar img {
