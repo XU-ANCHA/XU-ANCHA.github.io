@@ -7,6 +7,7 @@ aliases:
 
 ## 2026 年
 
+1. 11 月：祝贺硕士生柳李嘉、张君杰获得第五届中国研究生金融科技创新大赛 **全国总决赛二等奖**。
 1. 10 月：祝贺博士生尹宏入选 2026 年中国科协青年科技人才培育工程博士生专项计划。
 1. 10 月：祝贺硕士生陈桢、柳李嘉、王娟获得国家奖学金。
 1. 9 月：课题组论文 “Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework” 被 **IISE Transactions** 选为 **Featured Article**。
