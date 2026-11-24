@@ -3,9 +3,11 @@ title: "论文与著作"
 slug: "publications"
 ---
 
-目前以第一作者或通讯作者发表论文 64 篇，其中 ESI 高被引论文 6 篇。具体可见我的[谷歌学术](https://scholar.google.com/citations?user=hxbCeZIAAAAJ&hl=en)和 [ResearchGate](https://www.researchgate.net/profile/Ancha-Xu)。
+目前以第一作者或通讯作者发表论文 65 篇，其中 ESI 高被引论文 6 篇。具体可见我的[谷歌学术](https://scholar.google.com/citations?user=hxbCeZIAAAAJ&hl=en)和 [ResearchGate](https://www.researchgate.net/profile/Ancha-Xu)。
 
 ## 期刊论文 (<u>下划线代表学生</u>)
+
+1. Liangliang Zhuang, <u>Nan</u> <u>Liu</u>, <u>Di</u> <u>Zhu</u>, **Ancha Xu**. (2026+). "Multi-phase degradation modeling: A review of model structures, statistical inference, and decision support." *Statistical Theory and Related Fields*. DOI: 10.1080/24754269.2026.2762676 [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1080/24754269.2026.2762676)
 
 1. Jihong Pang, Yuanzhong Chen, Jinkun Dai, **Ancha Xu**, Shengliang Lu. (2026+). "Fault diagnosis of electromagnetic valve based on Bayesian optimization and two-layer long short-term memory neural network." *Quality and Reliability Engineering International*. DOI:10.1002/qre.70354 [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1002/qre.70354)
 

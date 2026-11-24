@@ -3,9 +3,11 @@ title: "Papers"
 slug: "publications"
 ---
 
-I have published 64 papers as first or corresponding author, including 6 ESI Highly Cited Papers. See also my [Google Scholar](https://scholar.google.com/citations?user=hxbCeZIAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Ancha-Xu) profiles.
+I have published 65 papers as first or corresponding author, including 6 ESI Highly Cited Papers. See also my [Google Scholar](https://scholar.google.com/citations?user=hxbCeZIAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Ancha-Xu) profiles.
 
 ## Journal papers (<u>underlined names are students</u>)
+
+1. Liangliang Zhuang, <u>Nan</u> <u>Liu</u>, <u>Di</u> <u>Zhu</u>, **Ancha Xu**. (2026+). "Multi-phase degradation modeling: A review of model structures, statistical inference, and decision support." *Statistical Theory and Related Fields*. DOI: 10.1080/24754269.2026.2762676 [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1080/24754269.2026.2762676)
 
 1. Jihong Pang, Yuanzhong Chen, Jinkun Dai, **Ancha Xu**, Shengliang Lu. (2026+). "Fault diagnosis of electromagnetic valve based on Bayesian optimization and two-layer long short-term memory neural network." *Quality and Reliability Engineering International*. DOI:10.1002/qre.70354 [![Link](https://img.shields.io/badge/link-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://doi.org/10.1002/qre.70354)
 
