@@ -5,6 +5,7 @@ slug: "news"
 
 ## 2026
 
+1. November: M.S. students Lijia Liu and Junjie Zhang won a **second prize at the national finals** of the 5th China Graduate Financial Technology Innovation Competition.
 1. October: Ph.D. student Hong Yin was selected for the 2026 CAST Young Science and Technology Talent Cultivation Program (Doctoral Track).
 1. October: M.S. students Zhen Chen, Lijia Liu, and Juan Wang received National Scholarships.
 1. September: The paper “Modeling two-scale degradation with heterogeneity: a unified random-effects inverse Gaussian framework” was selected as a **Featured Article** by **IISE Transactions**.
