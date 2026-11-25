@@ -38,6 +38,12 @@ slug: "team"
 
 ## Student competitions
 
+- **Second prize at the national finals, 5th China Graduate Financial Technology Innovation Competition** (2026)  
+  Lijia Liu, Junjie Zhang
+- **First Prize in the East China regional round, 9th National Applied Statistics Professional Master Case Competition** (2026)  
+  Jiahui Liu, Ziqi Chen, Mengting Zhong; the entry later received a national third prize
+- **National second prize, 8th National Applied Statistics Professional Master Case Competition** (2025)  
+  Lijia Liu, Juan Wang, Zhen Chen
 - **First Prize, Zhejiang Challenge Cup** (2015)  
   Ranked 2/3; the entry later received a national second prize
 - **MCM/ICM Meritorious Winner** (2012–2014, 2016)
